@@ -1,0 +1,2 @@
+C:\Users\lenovo>python D:\\hi\\MSTParser×ÀÃæ\\scripts\\conll2mst.py D:\\hi\\MSTP
+arser×ÀÃæ\\scripts\\train-punc.conll D:\\hi\\MSTParser×ÀÃæ\\scripts\\new_2.txt

@@ -1,0 +1,4665 @@
+啊	，	您	准备	去	哪儿	啊	？
+e	wp	r	v	v	r	u	wp
+IS	WP	SBV	HED	CMP	VOB	MT	WP
+4	1	4	0	4	5	4	4
+
+准备	住	哪个	旅馆	？
+v	v	r	n	wp
+ADV	HED	ATT	VOB	WP
+2	0	4	2	2
+
+我	准备	住	在	希尔顿饭店	，	离开	中国	之前	我	预订	了	那儿	一	个	房间	。
+r	v	v	p	ns	wp	v	ns	nd	r	v	u	r	m	q	n	wp
+SBV	ADV	HED	CMP	POB	WP	VV	ATT	VOB	SBV	IC	MT	ATT	QUN	ATT	VOB	WP
+3	3	0	3	4	4	3	9	7	11	7	11	16	15	16	11	3
+
+啊	，	那	这样	吧	，	我	先	帮	你	从	二号门	出去	。
+e	wp	r	r	u	wp	r	d	v	r	p	n	v	wp
+IS	WP	ATT	ADV	MT	WP	SBV	ADV	HED	SBV	ADV	POB	VOB	WP
+9	1	4	9	4	4	9	9	0	13	13	11	9	9
+
+然后	呢	，	我	到	那儿	去	叫	辆	车	。
+c	u	wp	r	v	r	v	v	q	n	wp
+CNJ	MT	WP	SBV	HED	SBV	ADV	VOB	ATT	VOB	WP
+5	1	1	5	0	8	8	5	10	8	5
+
+好的	，	请	您	在	那儿	等	我	。
+u	wp	v	r	p	r	u	r	wp
+IS	WP	ADV	VOB	ADV	POB	HED	VOB	WP
+7	1	5	3	7	5	0	7	7
+
+啊	，	你	真	好	。
+e	wp	r	d	a	wp
+IS	WP	SBV	ADV	HED	WP
+5	1	5	5	0	5
+
+车子	就	在	门	外	，	我	来	帮	你	吧	。
+n	d	p	n	nd	wp	r	v	v	r	u	wp
+SBV	ADV	ADV	ATT	POB	WP	SBV	ADV	HED	VOB	MT	WP
+3	3	9	5	3	3	9	9	0	9	9	9
+
+嗯	，	太	谢谢	你	了	，	再见	！
+e	wp	d	v	r	u	wp	v	wp
+IS	WP	ADV	HED	VOB	MT	WP	IS	WP
+4	1	4	0	4	4	4	4	4
+
+啊	，	下午	好	，	夫人	。
+e	wp	nt	a	wp	n	wp
+IS	WP	ADV	IS	WP	HED	WP
+6	1	4	6	4	0	6
+
+能	为	你	效劳	吗	？
+v	p	r	v	u	wp
+ADV	ADV	POB	HED	MT	WP
+4	4	2	0	4	4
+
+是的	。
+u	wp
+HED	WP
+0	1
+
+我	在	找	一	个	叫	李明	的	人	。
+r	p	v	m	q	v	nh	u	n	wp
+SBV	ADV	HED	QUN	ATT	DE	DE	ATT	VOB	WP
+3	3	0	5	9	8	8	9	3	3
+
+啊	，	你	能	告诉	我	他	住	在	哪儿	吗	？
+e	wp	r	v	v	r	r	v	p	r	u	wp
+IS	WP	SBV	ADV	HED	VOB	SBV	IC	CMP	POB	MT	WP
+5	1	5	5	0	5	8	5	8	9	8	5
+
+我	想	是	北大	一公寓二零四号	。
+r	v	v	j	nz	wp
+SBV	ADV	HED	ATT	VOB	WP
+3	3	0	5	3	3
+
+啊	，	那	请	跟	我	来	吧	。
+e	wp	r	v	p	r	v	u	wp
+IS	WP	SBV	HED	ADV	POB	VOB	MT	WP
+4	1	4	0	7	5	4	7	4
+
+这里	就是	，	在	二	楼	。
+r	v	wp	p	m	n	wp
+SBV	HED	WP	VOB	QUN	VOB	WP
+2	0	2	2	6	4	2
+
+非常	感谢	。
+d	v	wp
+ADV	HED	WP
+2	0	2
+
+嗯	，	不用	谢	。
+e	wp	d	v	wp
+IS	WP	ADV	HED	WP
+4	1	4	0	4
+
+有	什么	需要	帮忙	的	吗	？
+v	r	v	v	u	u	wp
+HED	ATT	ADV	VOB	MT	MT	WP
+0	4	4	1	4	1	1
+
+请	把	灯	关上	好吗	？
+v	p	n	nd	u	wp
+HED	ADV	ATT	VOB	MT	WP
+0	4	4	1	1	1
+
+非常	高兴	为	您	效劳	。
+d	a	p	r	v	wp
+ADV	ADV	ADV	POB	HED	WP
+2	5	5	3	0	5
+
+我	还	能	为	你	做	点儿	什么	吗	？
+r	d	v	p	r	v	q	r	u	wp
+SBV	ADV	ADV	ADV	POB	HED	ATT	VOB	MT	WP
+6	6	6	6	4	0	8	6	6	6
+
+劳驾	把	窗户	打开	好吗	？
+nh	p	n	v	u	wp
+SBV	ADV	POB	HED	MT	WP
+4	4	2	0	4	4
+
+嗯	，	当然	可以	。
+e	wp	d	v	wp
+IS	WP	ADV	HED	WP
+4	1	4	0	4
+
+我	非常	感谢	你	的	帮助	。
+r	d	v	r	u	v	wp
+SBV	ADV	HED	DE	ATT	VOB	WP
+3	3	0	5	6	3	3
+
+您好	，	布朗	先生	，	很	高兴	能	再次	见到	你	。
+i	wp	nh	n	wp	d	a	v	d	v	r	wp
+IS	WP	ATT	IS	WP	ADV	ADV	ADV	ADV	HED	VOB	WP
+10	1	4	10	4	7	8	10	10	0	10	10
+
+李先生	，	你	也	好	吧	。
+nh	wp	r	d	a	u	wp
+SBV	WP	SBV	ADV	HED	MT	WP
+5	1	5	5	0	5	5
+
+您	这	趟	广州	之	旅	愉快	吗	？
+r	r	q	ns	u	n	a	u	wp
+ATT	ATT	ATT	ATT	ATT	SBV	HED	MT	WP
+3	3	6	5	6	7	0	7	7
+
+愉快	，	我	非常	高兴	。
+a	wp	r	d	a	wp
+IS	WP	SBV	ADV	HED	WP
+5	1	5	5	0	5
+
+啊	，	咱们	的	车	在	那边儿	。
+e	wp	r	u	n	p	ns	wp
+IS	WP	DE	ATT	SBV	HED	POB	WP
+6	1	4	5	6	0	6	6
+
+呃	，	我	能	帮	您	提	箱子	吗	？
+o	wp	r	v	v	r	v	n	u	wp
+IS	WP	SBV	ADV	HED	SBV	VOB	VOB	MT	WP
+5	1	5	5	0	7	5	7	5	5
+
+啊	，	好	，	谢谢	您	的	帮助	。
+e	wp	a	wp	v	r	u	v	wp
+IS	WP	IS	WP	HED	DE	ATT	VOB	WP
+5	1	5	3	0	7	8	5	5
+
+啊	，	不用	客气	。
+e	wp	d	a	wp
+IS	WP	ADV	HED	WP
+4	1	4	0	4
+
+好的	。
+a	wp
+HED	WP
+0	1
+
+呃	，	您	还	需要	点儿	什么	吗	？
+o	wp	r	d	v	q	r	u	wp
+IS	WP	SBV	ADV	HED	ATT	VOB	MT	WP
+5	1	5	5	0	7	5	5	5
+
+不	需要	了	。
+d	v	u	wp
+ADV	HED	MT	WP
+2	0	2	2
+
+谢谢	。
+v	wp
+HED	WP
+0	1
+
+那	就	祝	您	全天	愉快	。
+r	d	v	r	n	a	wp
+SBV	ADV	HED	ATT	SBV	VOB	WP
+3	3	0	5	6	3	3
+
+再见	。
+v	wp
+HED	WP
+0	1
+
+再见	。
+v	wp
+HED	WP
+0	1
+
+嗨	，	安娜	！
+e	wp	nh	wp
+IS	WP	HED	WP
+3	1	0	3
+
+很	高兴	来	接	您	。
+d	a	v	v	r	wp
+ADV	ADV	HED	VV	VOB	WP
+3	3	0	3	4	3
+
+嗐	，	邵小姐	。
+o	wp	nh	wp
+IS	WP	HED	WP
+3	1	0	3
+
+见到	您	真	高兴	。
+v	r	d	a	wp
+SBV	VOB	ADV	HED	WP
+4	1	4	0	4
+
+谢谢	您	来	接	我	。
+v	r	v	v	r	wp
+HED	SBV	ADV	VOB	VOB	WP
+0	4	4	1	4	1
+
+啊	，	您	好像	显得	有点	累	呀	。
+e	wp	r	v	v	d	a	u	wp
+IS	WP	SBV	ADV	HED	ADV	VOB	MT	WP
+5	1	5	5	0	7	5	5	5
+
+我	很	兴奋	，	我们	有	六	个	月	没	见面	了	。
+r	d	a	wp	r	v	m	q	n	d	v	u	wp
+SBV	ADV	IS	WP	SBV	HED	QUN	ATT	VOB	ADV	VOB	MT	WP
+3	3	6	3	6	0	8	9	6	11	6	11	6
+
+啊	，	是啊	，	将近	二百	个	日日夜夜	。
+e	wp	u	wp	d	m	q	i	wp
+IS	WP	IS	WP	ADV	QUN	ATT	HED	WP
+8	1	8	3	8	7	8	0	8
+
+不管	怎么	说	，	咱们	在	这	块	新	大陆	上	又	见面	了	。
+c	r	v	wp	r	p	r	q	a	n	nd	d	v	u	wp
+CNJ	ADV	HED	WP	SBV	ADV	ATT	ATT	ATT	ATT	POB	ADV	VOB	MT	WP
+3	3	0	3	13	13	8	10	10	11	6	13	3	13	3
+
+咱们	怎么	走	？
+r	r	v	wp
+SBV	ADV	HED	WP
+3	3	0	3
+
+您	是	开车	送	我	去	学校	吧	，	您	买	车	了	吗	？
+r	v	v	v	r	v	n	u	wp	r	v	n	u	u	wp
+SBV	ADV	ADV	HED	VOB	VOB	VOB	MT	WP	SBV	VOB	VOB	MT	MT	WP
+4	4	4	0	4	4	4	4	4	11	4	11	11	11	4
+
+呃	，	我	开车	送	您	去	学校	。
+o	wp	r	v	v	r	v	n	wp
+IS	WP	SBV	ADV	HED	VOB	VOB	VOB	WP
+5	1	5	5	0	5	5	7	5
+
+不过	这	不是	我	的	车	，	我	找	同学	借	的	。
+c	r	c	r	u	n	wp	r	v	n	v	u	wp
+CNJ	ATT	CNJ	DE	ATT	ADV	WP	SBV	HED	VOB	VOB	MT	WP
+9	6	6	5	6	9	6	9	0	9	9	11	9
+
+呃	，	咱们	走	吧	？
+o	wp	r	v	u	wp
+IS	WP	SBV	HED	MT	WP
+4	1	4	0	4	4
+
+好的	。
+a	wp
+HED	WP
+0	1
+
+嗨	，	夫人	，	请问	您	是	斯蒂尔	夫人	吗	？
+e	wp	n	wp	v	r	v	nh	n	u	wp
+IS	WP	IS	WP	IS	VOB	HED	ATT	VOB	MT	WP
+7	1	7	3	7	5	0	9	7	7	7
+
+是	的	，	我	就	是	。
+v	u	wp	r	d	v	wp
+IS	MT	WP	SBV	ADV	HED	WP
+6	1	1	6	6	0	6
+
+啊	，	您	好	，	斯蒂尔	夫人	，	我	叫	王华	，	是	中国国际旅行社	的	。
+e	wp	r	i	wp	nh	n	wp	r	v	nh	wp	v	i	u	wp
+IS	WP	SBV	IS	WP	ATT	IS	WP	SBV	HED	VOB	WP	VOB	VOB	MT	WP
+10	1	4	10	4	7	10	7	10	0	10	10	10	13	13	10
+
+你	好	，	王先生	，	见到	您	很	高兴	。
+r	i	wp	i	wp	v	r	d	nh	wp
+SBV	IS	WP	IS	WP	IC	VOB	ADV	HED	WP
+2	9	2	2	4	4	6	9	0	9
+
+嗯	，	见到	您	也	很	高兴	，	旅途	还	愉快	吗	？
+e	wp	v	r	d	d	v	wp	n	d	a	u	wp
+IS	WP	ADV	SBV	ADV	ADV	HED	WP	SBV	ADV	IC	MT	WP
+7	1	7	7	7	7	0	7	11	11	7	11	7
+
+是	的	，	非常	愉快	。
+v	u	wp	d	a	wp
+IS	MT	WP	ADV	HED	WP
+5	1	1	5	0	5
+
+呃	，	您	拿到	行李	了	吗	？
+o	wp	r	v	n	u	u	wp
+IS	WP	SBV	HED	VOB	MT	MT	WP
+4	1	4	0	4	4	4	4
+
+是	的	，	拿到	了	，	都	在	这儿	。
+v	u	wp	v	u	wp	d	v	r	wp
+IS	MT	WP	IS	MT	WP	ADV	HED	VOB	WP
+8	1	1	8	4	4	8	0	8	8
+
+嗯	，	那	请	稍	等	，	我	去	叫	司机	把	车	开	过来	。
+e	wp	r	v	d	u	wp	r	v	v	n	p	n	v	v	wp
+IS	WP	SBV	HED	ADV	VOB	WP	SBV	ADV	VOB	VOB	VOB	POB	VOB	CMP	WP
+4	1	4	0	6	4	4	10	10	4	10	10	12	10	14	4
+
+好	的	，	谢谢	。
+a	u	wp	v	wp
+IS	MT	WP	HED	WP
+4	1	1	0	4
+
+什么	事儿	这么	忙	呀	，	玛丽	？
+r	n	r	a	u	wp	nh	wp
+ATT	SBV	ADV	HED	MT	WP	COO	WP
+2	4	4	0	4	4	4	4
+
+啊	，	杰克	您	好	！
+e	wp	nh	r	i	wp
+IS	WP	HED	SBV	IS	WP
+3	1	0	5	3	5
+
+我	要	去	赶车	。
+r	v	v	v	wp
+SBV	ADV	HED	VOB	WP
+3	3	0	3	4
+
+我	晚	了	。
+r	a	u	wp
+SBV	HED	MT	WP
+2	0	2	2
+
+啊	，	那	就	赶快	吧	！
+e	wp	c	d	d	u	wp
+IS	WP	CNJ	ADV	HED	MT	WP
+5	1	5	5	0	5	5
+
+一切	小心	！
+r	a	wp
+SBV	HED	WP
+2	0	2
+
+放心	，	再见	。
+v	wp	v	wp
+IS	WP	HED	WP
+3	1	0	3
+
+啊	，	到	了	，	我	给	您	回	电话	啊	。
+e	wp	v	u	wp	r	p	r	v	n	u	wp
+IS	WP	ADV	MT	WP	SBV	ADV	POB	HED	VOB	MT	WP
+9	1	9	3	3	9	9	7	0	9	9	9
+
+好	的	。
+a	u	wp
+HED	MT	WP
+0	1	1
+
+我	打	电话	是	来	告别	的	。
+r	v	v	v	v	v	u	wp
+SBV	HED	VOB	VOB	CMP	VV	MT	WP
+2	0	2	2	2	5	6	2
+
+你	什么	时候	动身	？
+r	r	i	v	wp
+SBV	ATT	ADV	HED	WP
+4	3	4	0	4
+
+呃	，	我	要	赶	十一点三十五	分	的	船	。
+o	wp	r	v	v	m	q	u	n	wp
+IS	WP	SBV	ADV	HED	QUN	VOB	ATT	VOB	WP
+5	1	5	5	0	7	5	9	5	5
+
+现在	都	八点半	了	，	那	岂不是	现在	就	走	了	。
+n	d	m	u	wp	r	d	nt	d	v	u	wp
+SBV	ADV	VOB	MT	WP	SBV	ADV	ADV	ADV	HED	MT	WP
+10	10	2	2	2	10	10	10	10	0	10	10
+
+嗯	，	对	，	我	马上	就要	走	了	。
+e	wp	p	wp	r	d	d	v	u	wp
+IS	WP	IS	WP	SBV	ADV	ADV	HED	MT	WP
+8	1	8	3	8	8	8	0	8	8
+
+那么	只能	说	再见	了	，	别	忘	了	保持	联系	。
+c	v	v	v	u	wp	d	v	u	v	v	wp
+CNJ	ADV	HED	VOB	MT	WP	ADV	VOB	MT	ADV	IC	WP
+2	3	0	3	4	3	8	3	8	11	8	3
+
+嗯	，	一定	，	再见	，	一切	都	谢谢	啦	。
+e	wp	d	wp	v	wp	r	d	v	u	wp
+IS	WP	ADV	WP	IS	WP	SBV	ADV	HED	MT	WP
+9	1	5	3	9	5	9	9	0	9	9
+
+您	好	，	您	是	在	这儿	用餐	还是	带走	？
+r	i	wp	r	v	p	r	v	c	v	wp
+SBV	IS	WP	SBV	HED	ADV	POB	IC	CNJ	COO	WP
+2	5	2	5	0	8	6	5	10	8	5
+
+在	这儿	吃	。
+p	r	v	wp
+ADV	POB	HED	WP
+3	1	0	3
+
+我	可以	坐	这儿	吗	？
+r	v	v	r	u	wp
+SBV	ADV	HED	VOB	MT	WP
+3	3	0	3	3	3
+
+当然	可以	。
+d	v	wp
+ADV	HED	WP
+2	0	2
+
+请	给	我	一个	小	汉堡	、	牛奶	和	一份儿	大	薯条儿	。
+v	p	r	m	a	ns	wp	n	c	n	a	n	wp
+ADV	ADV	VOB	POB	HED	COO	WP	ATT	LAD	COO	ATT	COO	WP
+5	5	2	2	0	5	8	12	10	8	12	6	5
+
+呃	，	加	蕃茄酱	或是	加	美乃滋	吗	？
+o	wp	v	n	c	v	v	u	wp
+IS	WP	HED	VOB	CNJ	VV	VOB	MT	WP
+3	1	0	3	6	3	6	7	3
+
+请	加	蕃茄酱	。
+v	v	n	wp
+ADV	HED	VOB	WP
+2	0	2	2
+
+呃	，	要	加	洋葱	或者	芥末	吗	？
+o	wp	v	v	n	c	n	u	wp
+IS	WP	ADV	HED	VOB	LAD	COO	MT	WP
+4	1	4	0	4	7	5	4	4
+
+是	的	。
+v	u	wp
+HED	MT	WP
+0	1	1
+
+呃	，	您	还	有	什么	需要	？
+o	wp	r	d	v	r	v	wp
+IS	WP	SBV	ADV	HED	VOB	VOB	WP
+5	1	5	5	0	5	5	5
+
+请	给	我	波本酒	加	苏打水	。
+v	p	r	n	v	n	wp
+ADV	ADV	ATT	POB	HED	VOB	WP
+5	5	4	2	0	5	5
+
+嗯	，	好	的	。
+e	wp	a	u	wp
+IS	WP	HED	MT	WP
+3	1	0	3	3
+
+菜单儿	看	完	了	吗	？
+n	v	v	u	u	wp
+SBV	HED	CMP	MT	MT	WP
+2	0	2	3	2	2
+
+是	的	。	我	要	牛排	。
+v	u	wp	r	v	v	wp
+IS	MT	WP	SBV	ADV	HED	WP
+6	1	1	6	6	0	6
+
+呃	，	您	要	肉	做	得	几	分	熟	啊	？
+o	wp	r	v	n	v	u	m	q	a	u	wp
+IS	WP	SBV	HED	VOB	VOB	MT	QUN	VOB	CMP	MT	WP
+4	1	4	0	4	4	6	9	6	6	10	4
+
+要	完全	熟	。
+v	a	a	wp
+ADV	HED	CMP	WP
+2	0	2	3
+
+呃	，	要	配	点儿	沙拉	吗	？
+o	wp	v	v	q	n	u	wp
+IS	WP	ADV	HED	ATT	VOB	MT	WP
+4	1	4	0	6	4	4	4
+
+不用	。
+d	wp
+HED	WP
+0	1
+
+呃	，	还要	喝	点儿	什么	吗	？
+o	wp	d	v	q	r	u	wp
+IS	WP	ADV	HED	ATT	VOB	MT	WP
+4	1	4	0	6	4	4	4
+
+好	的	。	来	一	杯	你们	的	好	酒	。
+a	u	wp	v	m	q	r	u	a	n	wp
+IS	MT	WP	HED	QUN	ATT	DE	ATT	ATT	VOB	WP
+4	1	1	0	6	10	8	10	10	4	4
+
+嗯	，	很	好	。	我	立刻	把	小菜	送	过来	。
+e	wp	d	v	wp	r	d	p	n	v	v	wp
+IS	WP	ADV	IS	WP	SBV	ADV	ADV	POB	HED	VOB	WP
+10	1	4	10	4	10	10	10	8	0	10	10
+
+呃	，	有	什么	好	菜	推荐	一下儿	吗	？
+o	wp	v	r	a	n	v	m	u	wp
+IS	WP	HED	ATT	ATT	VOB	VV	CMP	MT	WP
+3	1	0	6	6	3	3	7	7	3
+
+有	“	每日	大厨	特餐	”	的	炸鸡	。
+v	wp	r	n	v	wp	u	n	wp
+IS	WP	ATT	SBV	HED	WP	ATT	VOB	WP
+5	1	4	5	0	5	8	5	5
+
+呃	，	这个	特餐	中	包括	有	什么	配	菜	呢	？
+o	wp	r	v	nd	v	v	r	v	n	u	wp
+IS	WP	SBV	ATT	ADV	ADV	HED	ATT	VOB	VOB	MT	WP
+7	1	4	5	7	7	0	9	7	7	7	7
+
+有	沙拉	，	你	还	可以	配	烤	土豆	、	米饭	和	糌粑	。
+v	n	wp	r	d	v	v	v	n	wp	n	c	n	wp
+DC	VOB	WP	SBV	ADV	ADV	HED	CMP	VOB	WP	COO	LAD	COO	WP
+7	1	1	7	7	7	0	7	7	11	9	13	11	7
+
+呃	，	我	来	份	特餐	吧	，	要	沙拉	和	土豆	。
+o	wp	r	v	q	v	u	wp	v	n	c	n	wp
+IS	WP	SBV	HED	VV	VV	MT	WP	VV	VOB	LAD	COO	WP
+4	1	4	0	4	4	4	4	4	9	12	10	4
+
+还	要	什么	吗	？
+d	v	r	u	wp
+ADV	HED	VOB	MT	WP
+2	0	2	2	2
+
+呃	，	是	的	，	呃	，	给	我	来	杯	冰水	吧	。
+o	wp	v	u	wp	v	wp	p	r	v	q	n	u	wp
+IS	WP	HED	MT	WP	IS	WP	ADV	POB	IC	ATT	VOB	MT	WP
+3	1	0	3	3	3	3	10	8	3	12	10	10	3
+
+马上	来	。
+d	v	wp
+ADV	HED	WP
+2	0	2
+
+服务员	，	我们	现在	想	点	菜	了	。
+n	wp	r	nt	v	v	n	u	wp
+IS	WP	SBV	ADV	ADV	HED	VOB	MT	WP
+6	1	6	6	6	0	6	6	6
+
+好	的	。	你们	先	要	点	点儿	什么	？
+a	u	wp	r	d	u	v	q	r	wp
+IS	MT	WP	SBV	ADV	ADV	HED	ATT	VOB	WP
+7	1	1	7	7	7	0	9	7	7
+
+呃	，	您	建议	我们	点	哪	种	汤	呢	？
+o	wp	r	v	r	q	r	v	n	u	wp
+IS	WP	SBV	HED	ATT	ADV	SBV	IC	VOB	MT	WP
+4	1	4	0	6	8	8	4	8	8	4
+
+我	建议	点	本楼汤	。
+r	v	q	n	wp
+SBV	HED	ATT	VOB	WP
+2	0	4	2	2
+
+汤	里	有	鸡肉	，	小	玉米	和	竹笋	。
+n	nd	v	n	wp	a	n	c	n	wp
+ATT	ADV	HED	VOB	WP	ATT	VOB	LAD	COO	WP
+2	3	0	3	3	7	3	9	7	3
+
+呃	，	你们	在	汤	里	放	味精	吗	？
+o	wp	r	p	n	nd	v	n	u	wp
+IS	WP	SBV	ADV	ATT	POB	HED	VOB	MT	WP
+7	1	7	7	6	4	0	7	7	7
+
+不	放	。
+d	v	wp
+ADV	HED	WP
+2	0	2
+
+我们	这家	餐馆	从来	不	用	味精	。
+r	r	n	d	d	v	n	wp
+ATT	ATT	SBV	ADV	ADV	HED	VOB	WP
+3	3	6	6	6	0	6	6
+
+这	道	汤	味道	非常	好	，	一直	是	我们	顾客	最	喜欢	的	汤	。
+r	q	nz	n	d	a	wp	d	v	r	n	d	v	u	n	wp
+ATT	ATT	ATT	SBV	ADV	IS	WP	ADV	HED	ATT	SBV	ADV	DE	ATT	VOB	WP
+2	4	4	6	6	9	6	9	0	11	13	13	14	15	9	9
+
+嗯	，	那	好	吧	，	就	听	你	的	。
+e	wp	r	a	u	wp	d	v	r	u	wp
+IS	WP	SBV	IS	MT	WP	ADV	HED	VOB	MT	WP
+8	1	4	8	4	4	8	0	8	8	8
+
+对不起	，	您	现在	可以	点	菜	了	吗	？
+v	wp	r	nt	v	v	n	u	u	wp
+IS	WP	SBV	ADV	ADV	HED	VOB	MT	MT	WP
+6	1	6	6	6	0	6	6	6	6
+
+现在	就	点	，	但是	我	是	我	是	初次	来到	这个	城市	，	第	一次	住在	的	饭店	，	所以	我	现在	还	拿	不定	主意	点	些	什么	。
+nt	d	q	wp	c	r	v	r	v	d	v	r	n	wp	m	m	v	u	n	wp	c	r	nt	d	v	d	n	v	q	r	wp
+ADV	ADV	IS	WP	CNJ	SBV	HED	SBV	ADV	ADV	VOB	ATT	VOB	WP	QUN	ATT	DE	ATT	VOB	WP	CNJ	SBV	ADV	ADV	VOB	ADV	SBV	VOB	CMP	VOB	WP
+3	3	7	3	7	7	0	11	11	11	7	13	11	11	16	19	18	19	11	11	25	25	25	25	11	28	28	25	28	28	7
+
+你	可不可以	将	饭店	的	菜品	向	我	介绍	一下	？
+r	v	p	n	u	n	p	r	v	m	wp
+SBV	HED	ADV	DE	ATT	POB	ADV	POB	VOB	CMP	WP
+2	0	9	5	6	3	9	7	2	9	2
+
+嗯	，	可以	，	我	愿意	向	您	推荐	小	牛肉	。
+e	wp	v	wp	r	v	p	r	v	a	n	wp
+IS	WP	IS	WP	SBV	HED	ADV	POB	IC	ATT	VOB	WP
+6	1	6	3	6	0	9	7	6	11	9	6
+
+我们	饭店	供应	这	道	菜	有	一	段儿	历史	了	。
+r	n	v	r	q	n	v	m	n	n	u	wp
+ATT	SBV	HED	ATT	ATT	SBV	VOB	QUN	ATT	VOB	MT	WP
+2	3	0	5	6	7	3	9	10	7	7	3
+
+不过	牛肉	过于	大众化	了	，	我	想	尝	一下	风味菜	，	尤其	是	能	使	我	吃	过	不忘	您	饭店	风味	的	菜	。
+c	n	d	v	u	wp	r	v	v	m	n	wp	d	v	v	v	r	v	u	n	r	n	n	u	n	wp
+CNJ	SBV	ADV	HED	MT	WP	SBV	ADV	IC	CMP	VOB	WP	ADV	ADV	ADV	VOB	SBV	VOB	CMP	ATT	ATT	ATT	DE	ATT	VOB	WP
+2	4	4	0	4	4	9	9	4	9	9	9	16	16	16	9	18	16	18	22	22	23	24	25	16	4
+
+呃	，	是	的	，	您	说	得	很	对	。
+o	wp	v	u	wp	r	v	u	d	a	wp
+IS	WP	HED	MT	WP	SBV	IC	MT	ADV	DEI	WP
+3	1	0	3	3	7	3	7	10	8	7
+
+不过	呢	，	我们	饭店	烹制	小	牛肉	的	方法	与众不同	，	我	担保	您	吃	过	之后	一定	会	十分	的	满意	。
+c	u	wp	r	n	v	a	n	u	n	i	wp	r	v	r	v	u	nd	d	u	m	u	v	wp
+CNJ	MT	WP	ATT	SBV	DE	ATT	DE	ATT	SBV	IS	WP	SBV	HED	SBV	VOB	CMP	ADV	ADV	DE	DE	ATT	VOB	WP
+11	1	1	5	11	9	8	9	10	11	14	11	14	0	16	14	16	23	23	22	22	23	14	14
+
+是	吗	？
+v	u	wp
+HED	MT	WP
+0	1	1
+
+呃	，	是	的	，	而且	同	烹	好	的	小	牛肉	一同	上	桌	的	还	有	好	几	种	调味品	，	这	会	使	牛肉	更加	美味	适口	的	。
+o	wp	v	u	wp	c	p	v	a	u	a	n	d	v	n	u	d	v	a	m	q	n	wp	r	v	v	n	d	n	v	u	wp
+IS	WP	IS	MT	WP	CNJ	ADV	DE	DE	ATT	ATT	SBV	ADV	HED	VOB	MT	ADV	VV	CMP	QUN	ATT	VOB	WP	SBV	ADV	VOB	VOB	ADV	SBV	VOB	MT	WP
+14	1	14	3	3	14	14	10	10	12	12	14	14	0	14	14	18	14	18	21	22	18	18	26	26	18	26	30	30	26	30	14
+
+好	吧	，	我	就	点	这	道	小	牛肉	吧	。
+a	u	wp	r	d	q	r	q	a	n	u	wp
+IS	MT	WP	SBV	ADV	HED	ATT	ATT	ATT	VOB	MT	WP
+6	1	1	6	6	0	8	10	10	6	10	6
+
+嗯	，	请	问	这	道	小	牛肉	要	多	大	火候儿	，	嫩	一些	，	适中	还是	老	一些	呢	？
+e	wp	d	v	r	q	a	n	v	d	a	n	wp	a	m	wp	a	c	a	m	u	wp
+IS	WP	ADV	HED	ATT	ATT	ATT	VOB	VOB	ADV	ATT	VOB	WP	VOB	CMP	WP	VOB	CNJ	COO	CMP	MT	WP
+4	1	4	0	6	8	8	4	4	11	12	9	4	4	14	4	4	19	17	19	17	4
+
+请	烧	得	老	一些	。
+v	v	u	a	m	wp
+ADV	HED	MT	DEI	CMP	WP
+2	0	2	3	4	2
+
+嗯	，	好	的	，	您	还要	喝	点儿	什么	吗	？
+e	wp	a	u	wp	r	d	v	q	r	u	wp
+IS	WP	IS	MT	WP	SBV	ADV	HED	ATT	VOB	MT	WP
+8	1	8	3	3	8	8	0	10	8	8	8
+
+那么	，	来	一些	葡萄酒	。
+c	wp	v	m	n	wp
+CNJ	WP	HED	QUN	VOB	WP
+3	1	0	5	3	3
+
+至于	主食	，	我	点	一些	加	黄油	的	烤面包	，	不用	放	果酱	。
+p	n	wp	r	q	m	v	n	u	n	wp	d	v	n	wp
+ADV	POB	WP	SBV	DE	DE	DE	DE	ATT	SBV	WP	ADV	HED	VOB	WP
+13	1	1	5	9	9	9	9	10	13	10	13	0	13	13
+
+呃	，	你们	吃	完	了	吗	？
+o	wp	r	v	v	u	u	wp
+IS	WP	SBV	HED	CMP	MT	MT	WP
+4	1	4	0	4	5	4	4
+
+吃	完	了	。
+v	v	u	wp
+ADV	HED	MT	WP
+2	0	2	2
+
+请	拿	帐单儿	来	。
+v	v	n	v	wp
+ADV	HED	VOB	VV	WP
+2	0	2	2	4
+
+给	您	，	一共	八十六元	。
+p	r	wp	d	i	wp
+ADV	POB	WP	ADV	HED	WP
+5	1	1	5	0	5
+
+如果	你们	要	付帐	的话	呢	，	我	可以	帮	你们	去	拿	结帐单儿	。
+c	r	v	nh	n	u	wp	r	v	v	r	v	v	n	wp
+CNJ	SBV	ADV	ATT	VOB	MT	WP	SBV	ADV	HED	SBV	ADV	VOB	VOB	WP
+3	3	10	5	3	3	3	10	10	0	13	13	10	13	10
+
+你们	收	支票	吗	？
+r	v	n	u	wp
+SBV	HED	VOB	MT	WP
+2	0	2	2	2
+
+啊	，	对不起	，	我们	不	收	。
+e	wp	v	wp	r	d	v	wp
+IS	WP	IS	WP	SBV	ADV	HED	WP
+7	1	7	3	7	7	0	7
+
+我们	只	收	信用卡	和	现金	。
+r	d	v	n	c	n	wp
+SBV	ADV	HED	VOB	LAD	COO	WP
+3	3	0	3	6	4	3
+
+我	没	带	现金	。
+r	d	v	n	wp
+SBV	ADV	HED	VOB	WP
+3	3	0	3	3
+
+我	必须	用	信用卡	结帐	了	。
+r	d	p	n	n	u	wp
+SBV	ADV	HED	ATT	VOB	MT	WP
+3	3	0	5	3	3	3
+
+这	是	九十元	，	剩下	的	做	小费	。
+r	v	m	wp	v	u	v	n	wp
+SBV	HED	VOB	WP	DE	ATT	ATT	VOB	WP
+2	0	2	2	6	8	8	2	2
+
+啊	，	谢谢	你	，	我	马上	就	回来	。
+e	wp	v	r	wp	r	d	d	v	wp
+IS	WP	IS	VOB	WP	SBV	ADV	ADV	HED	WP
+9	1	9	3	3	9	9	9	0	9
+
+请	稍	等	一会儿	。
+v	d	u	m	wp
+ADV	ADV	HED	VOB	WP
+3	3	0	3	3
+
+我	想	把	剩下	的	食物	带走	。
+r	v	p	v	u	n	v	wp
+SBV	HED	ADV	DE	ATT	SBV	VV	WP
+2	0	7	5	6	7	2	2
+
+呃	，	我	明白	。
+o	wp	r	v	wp
+IS	WP	SBV	HED	WP
+4	1	4	0	4
+
+我	会	为	您	拿	一个	打包	盒	的	。
+r	v	p	r	v	m	v	n	u	wp
+SBV	ADV	ADV	POB	HED	ATT	ATT	VOB	MT	WP
+5	5	5	3	0	8	8	5	5	5
+
+谢谢	。
+v	wp
+HED	WP
+0	1
+
+麻烦	请	结帐	。
+a	v	n	wp
+ADV	HED	VOB	WP
+2	0	2	2
+
+可以	在	这儿	付帐	吗	？
+v	p	r	v	u	wp
+ADV	ADV	POB	HED	MT	WP
+4	4	2	0	4	4
+
+可以	。
+v	wp
+HED	WP
+0	1
+
+可以	用	这	张	信用卡	付帐	吗	？
+v	p	r	q	n	nh	u	wp
+ADV	ADV	ATT	ATT	ATT	HED	MT	WP
+6	6	4	5	6	0	6	6
+
+嗯	，	不	可以	，	对不起	。
+e	wp	d	i	wp	v	wp
+IS	WP	ADV	HED	WP	IS	WP
+4	1	4	0	4	4	4
+
+帐单儿	有	一些	错误	。
+n	v	m	n	wp
+SBV	HED	QUN	VOB	WP
+2	0	4	2	2
+
+可不可以	麻烦	再	确认	一次	帐单儿	？
+v	a	d	v	m	n	wp
+IS	VOB	ADV	HED	QUN	VOB	WP
+4	1	4	0	6	4	4
+
+呃	，	好	的	。
+o	wp	a	u	wp
+IS	WP	HED	MT	WP
+3	1	0	3	3
+
+我们	现在	核对	一下儿	。
+r	nt	v	m	wp
+SBV	ADV	HED	CMP	WP
+3	3	0	3	3
+
+请	给	我	收据	。
+v	p	r	n	wp
+HED	VOB	ATT	VOB	WP
+0	1	4	2	1
+
+刘老师	，	我	看到	很	多	饭店	门口	写	着	什么	鲁菜	呀	，	川菜	呀	，	粤菜	呀	，	请	问	到底	哪	种	菜	最	好	吃	呢	？
+nh	wp	r	v	d	a	n	nl	v	u	r	n	u	wp	n	u	wp	n	u	wp	d	v	v	r	q	v	d	d	v	u	wp
+IS	WP	SBV	HED	ADV	ATT	ATT	ADV	VOB	MT	ATT	VOB	MT	WP	IS	MT	WP	IS	MT	WP	ADV	WP	VOB	ATT	VOB	VOB	ADV	ADV	VOB	MT	WP
+4	1	4	0	6	7	8	9	4	9	12	9	9	4	22	15	15	22	18	18	22	31	22	25	22	22	29	29	26	29	4
+
+依	我	看	，	很	难	说	哪	种	最	好	吃	。
+p	r	v	wp	d	d	v	r	q	d	d	a	wp
+ADV	SBV	DC	WP	ADV	ADV	HED	ATT	SBV	ADV	ADV	VOB	WP
+3	3	7	3	7	7	0	9	12	12	12	7	7
+
+因为	每个人	的	口味儿	不	一样	。
+c	n	u	n	d	n	wp
+CNJ	DE	ATT	ATT	ADV	HED	WP
+6	3	4	6	6	0	6
+
+自然	喜欢	吃	的	菜	也	就	不	一样	了	。
+d	v	v	u	n	d	d	d	i	u	wp
+ADV	ADV	DE	ATT	SBV	ADV	ADV	ADV	HED	MT	WP
+3	3	4	5	9	9	9	9	0	9	9
+
+嗯	，	确实	是	这样	。
+e	wp	a	v	r	wp
+IS	WP	ADV	HED	VOB	WP
+4	1	4	0	4	4
+
+我	现在	呢	，	就	非常	喜欢	吃	川菜	，	也	想	学	着	做	川菜	。
+r	nt	u	wp	d	d	v	v	n	wp	d	v	v	u	v	n	wp
+SBV	ADV	MT	WP	ADV	ADV	ADV	HED	VOB	WP	ADV	ADV	SBV	MT	ATT	VOB	WP
+8	8	2	2	8	8	8	0	8	8	13	13	15	13	16	8	8
+
+老师	您	能	告诉	我	它	主要	的	特点	吗	？
+n	r	v	v	r	r	b	u	n	u	wp
+SBV	SBV	ADV	HED	VOB	VOB	DE	ATT	VOB	MT	WP
+4	4	4	0	4	4	8	9	4	4	4
+
+说起	川菜	的	主要	特点	，	很	多	人	都	简单	地	概括成	一个	字	：	“	辣	”	。
+v	n	u	a	n	wp	d	m	n	d	a	u	v	m	n	wp	wp	a	wp	wp
+DC	VOB	ATT	ATT	VOB	WP	ADV	QUN	SBV	ADV	HED	MT	IC	QUN	VOB	WP	WP	IC	WP	WP
+11	1	5	5	1	1	8	9	11	11	0	11	11	15	13	13	11	11	11	11
+
+这	不	太	全面	。
+r	d	d	a	wp
+SBV	ADV	ADV	HED	WP
+4	4	4	0	4
+
+确切	地	说	，	川菜	的	基本	味儿	应该	是	咸	、	甜	、	麻	、	辣	、	酸	。
+a	u	v	wp	n	u	a	n	v	v	a	wp	a	wp	a	wp	a	wp	a	wp
+DI	ADV	HED	WP	DE	ATT	ATT	SBV	ADV	IC	VOB	WP	COO	WP	COO	WP	COO	WP	COO	WP
+2	3	0	3	6	8	8	11	11	9	3	11	11	11	11	11	11	11	11	11
+
+用	这	几	个	基本	味儿	可以	调配出	很	多	种	复合	的	味儿	。
+p	r	m	q	a	n	v	v	d	a	q	v	u	n	wp
+ADV	ATT	QUN	ATT	ATT	SBV	ADV	HED	ADV	ATT	ATT	DE	ATT	VOB	WP
+8	6	4	6	6	8	8	0	10	11	14	13	14	8	8
+
+比如说	鱼香味儿	啊	，	麻辣味儿	等等	。
+i	n	u	wp	n	u	wp
+HED	VOB	MT	WP	COO	MT	WP
+0	1	2	2	1	5	1
+
+噢	，	我	知道	了	。
+e	wp	r	v	u	wp
+IS	WP	SBV	HED	MT	WP
+4	1	4	0	4	4
+
+欸	，	老师	，	中国	有	个	什么	“	狗不理	包子	”	，	是不是	用	狗肉	做	的	呀	？
+ws	wp	n	wp	ns	v	q	r	wp	nz	n	wp	wp	v	p	n	v	u	u	wp
+IS	WP	IS	WP	SBV	HED	ATT	VOB	WP	ATT	VOB	WP	WP	ADV	ADV	POB	IC	MT	MT	WP
+6	1	6	3	6	0	8	6	6	11	6	11	12	17	17	15	11	17	17	6
+
+什么	？
+r	wp
+HED	WP
+0	1
+
+“	狗不理	包子	”	：	那	可	不是	用	狗肉	做	的	包子	。
+wp	nz	n	wp	wp	r	v	v	p	n	v	u	n	wp
+WP	ATT	IS	WP	WP	SBV	ADV	HED	ADV	POB	VOB	MT	VOB	WP
+2	3	8	3	3	8	8	0	11	9	8	11	11	8
+
+开	包子铺	的	店主	啊	，	小名	叫	“	狗不理	”	，	慢慢	地	他	做	的	包子	出	了	名	，	这个	名字	也	就	被	叫	起来	了	。
+v	n	u	n	u	wp	n	v	wp	nz	wp	wp	d	u	r	v	u	n	v	u	n	wp	r	n	d	d	p	v	v	u	wp
+IS	DE	ATT	VOB	MT	WP	SBV	DI	WP	VOB	WP	WP	ADV	HED	SBV	IC	MT	SBV	IC	MT	VOB	WP	ATT	SBV	ADV	ADV	ADV	IC	CMP	MT	WP
+8	3	4	1	1	1	8	14	8	8	10	8	14	0	16	14	16	19	16	19	16	16	24	28	28	28	28	16	28	28	16
+
+嗯	，	我	觉得	中国菜	真	丰富	。
+e	wp	r	v	n	d	a	wp
+IS	WP	SBV	HED	VOB	ADV	VOB	WP
+4	1	4	0	4	7	4	4
+
+不	知道	哪	一	天	我	才能	把	你们	的	中国菜	都	尝遍	。
+d	n	r	m	q	r	v	p	r	u	n	d	v	wp
+ADV	HED	ATT	QUN	ADV	SBV	IC	ADV	DE	ATT	SBV	ADV	VV	WP
+2	0	5	5	7	7	2	13	10	11	13	13	7	2
+
+那	你	就	住在	中国	吧	，	总	有	一	天	会	尝遍	的	，	同时	也	能	了解	中国菜	的	文化	和	学问	。
+r	r	d	v	ns	u	wp	d	v	m	q	v	v	u	wp	c	d	v	v	n	u	n	c	n	wp
+CNJ	SBV	ADV	HED	VOB	MT	WP	ADV	VOB	QUN	VOB	ADV	VOB	MT	WP	CNJ	ADV	ADV	VOB	DE	ATT	VOB	LAD	COO	WP
+4	4	4	0	4	4	4	9	4	11	9	13	9	9	9	19	19	19	9	21	22	19	24	22	4
+
+哎	，	这儿	的	人	真	多	！
+e	wp	r	u	n	d	a	wp
+IS	WP	DE	ATT	SBV	ADV	HED	WP
+7	1	4	5	7	7	0	7
+
+是	的	。	人们	喜欢	在	自助	餐厅	用餐	。
+v	u	wp	n	v	p	b	n	v	wp
+IS	MT	WP	SBV	HED	ADV	ATT	POB	VOB	WP
+5	1	1	5	0	9	8	6	5	9
+
+因为	它	省	时	又	便宜	。
+c	r	n	n	d	a	wp
+CNJ	ATT	ATT	SBV	ADV	HED	WP
+6	3	4	6	6	0	6
+
+嗯	，	那	我	现在	该	咋办	呢	？
+e	wp	r	r	nt	r	v	u	wp
+IS	WP	CNJ	SBV	ADV	ADV	HED	MT	WP
+7	1	7	7	7	7	0	7	7
+
+我	有点	不知所措	了	。
+r	d	i	u	wp
+SBV	ADV	HED	MT	WP
+3	3	0	3	3
+
+先	去	拿	餐盘	，	放上	刀叉	、	汤匙	和	餐巾纸	，	然后	去	排队	。
+d	v	v	n	wp	v	n	wp	n	c	n	wp	c	v	v	wp
+ADV	ADV	HED	VOB	WP	VV	VOB	WP	COO	LAD	COO	WP	CNJ	ADV	COO	WP
+2	3	0	3	3	3	6	9	7	11	9	11	15	15	11	3
+
+哦	，	我	明白	了	。
+e	wp	r	v	u	wp
+IS	WP	SBV	HED	MT	WP
+4	1	4	0	4	4
+
+墙上	张贴	的	是	饭菜	的	价钱	吗	？
+nd	v	u	v	n	u	n	u	wp
+ADV	HED	MT	DE	DE	ATT	VOB	MT	WP
+2	0	2	6	6	7	2	2	2
+
+是	的	，	你	想	要	什么	就	选	什么	。
+v	u	wp	r	v	v	r	d	v	r	wp
+IS	MT	WP	SBV	ADV	ADV	ATT	ADV	HED	VOB	WP
+6	1	1	6	6	9	9	9	0	9	9
+
+啊	，	品种	真	多	呀	！
+e	wp	n	d	n	u	wp
+IS	WP	SBV	HED	VOB	MT	WP
+4	1	4	0	4	4	4
+
+烤鸭	、	炸鱼	、	意大利面	，	样样	都	好像	很	好	吃	。
+n	wp	v	wp	n	wp	n	d	v	d	d	a	wp
+IS	WP	IS	WP	SBV	WP	SBV	ADV	ADV	ADV	ADV	HED	WP
+3	1	12	5	12	5	12	9	12	12	12	0	12
+
+是	啊	。	你	想	吃	什么	呢	？
+v	u	wp	r	v	v	r	u	wp
+IS	MT	WP	SBV	ADV	HED	VOB	MT	WP
+6	1	1	6	6	0	6	6	6
+
+嗯	，	我	想	要	炸鱼	。
+e	wp	r	v	v	v	wp
+IS	WP	SBV	HED	ADV	VOB	WP
+4	1	4	0	6	4	4
+
+好	的	，	我们	就	到	柜台	边	去	排队	吧	。
+a	u	wp	r	d	v	n	nd	v	v	u	wp
+IS	MT	WP	SBV	ADV	HED	ATT	ADV	ADV	VOB	MT	WP
+6	1	1	6	6	0	8	10	10	6	10	6
+
+嗨	，	下午	好	。
+e	wp	nt	a	wp
+IS	WP	ADV	HED	WP
+4	1	4	0	4
+
+嗐	，	我	是	汤姆·张	，	我	已经	预定	好	今天	下午	用	茶点	。
+o	wp	r	v	nh	wp	r	d	v	a	n	i	v	n	wp
+IS	WP	SBV	HED	VOB	WP	SBV	ADV	IC	ATT	SBV	SBV	IC	VOB	WP
+4	1	4	0	4	4	9	9	4	11	12	13	9	13	4
+
+嗯	，	是	的	先生	。
+e	wp	v	u	n	wp
+IS	WP	HED	MT	VOB	WP
+3	1	0	3	3	3
+
+请	这儿	走	吧	。
+v	r	v	u	wp
+HED	SBV	VOB	MT	WP
+0	3	1	3	1
+
+这	就是	您	的	桌子	，	您	觉得	还	可以	吗	？
+r	v	r	u	n	wp	r	v	d	v	u	wp
+SBV	HED	DE	ATT	VOB	WP	SBV	VOB	ADV	VOB	MT	WP
+2	0	4	5	2	2	8	2	10	8	10	2
+
+好	极	了	！
+a	d	u	wp
+IS	HED	MT	WP
+2	0	2	2
+
+谢谢	你	。
+v	r	wp
+HED	VOB	WP
+0	1	1
+
+啊	，	您	满意	我	很	高兴	。
+e	wp	r	v	r	d	nh	wp
+IS	WP	SBV	HED	VOB	ADV	VOB	WP
+4	1	4	0	4	7	4	4
+
+您	想要	点	点儿	什么	呢	？
+r	u	n	q	r	u	wp
+SBV	ATT	HED	ATT	VOB	MT	WP
+2	3	0	5	3	3	3
+
+啊	，	我们	供应	咖啡	、	茶	、	三明治	、	蛋糕	和	冷饮	。
+e	wp	r	v	n	wp	n	wp	n	wp	n	c	n	wp
+IS	WP	SBV	HED	VOB	WP	COO	WP	COO	WP	COO	LAD	COO	WP
+4	1	4	0	4	7	5	5	5	11	5	13	11	4
+
+请	看	玻璃	下面	的	茶点	单	。
+v	v	n	nd	u	n	k	wp
+ADV	HED	ATT	DE	ATT	VOB	VOB	WP
+2	0	4	5	6	2	2	2
+
+让	我	看	看	。
+v	r	v	v	wp
+HED	VOB	VOB	VOB	WP
+0	1	1	3	1
+
+呃	，	好	的	，	您	想	吃	什么	？
+o	wp	a	u	wp	r	v	v	r	wp
+IS	WP	IS	MT	WP	SBV	ADV	HED	VOB	WP
+8	1	8	3	3	8	8	0	8	8
+
+随便	点儿	。
+a	q	wp
+HED	CMP	WP
+0	1	1
+
+嗯	，	我	想	尝	尝	鸡肉色拉	三明治	，	并	要	一	杯	咖啡	。
+e	wp	r	v	v	v	n	n	wp	c	v	m	q	n	wp
+IS	WP	SBV	ADV	HED	CMP	ATT	VOB	WP	CNJ	IC	QUN	ATT	VOB	WP
+5	1	5	5	0	5	8	6	6	11	6	13	14	11	5
+
+嗯	，	好	的	，	还	需要	什么	吗	？
+e	wp	a	u	wp	d	v	r	u	wp
+IS	WP	IS	MT	WP	ADV	HED	VOB	MT	WP
+7	1	7	3	3	7	0	7	7	7
+
+再	要	一	杯	柠檬	红茶	加	糖	和	一个	面包	卷	。
+d	v	m	q	n	n	v	n	c	m	n	n	wp
+ADV	ADV	QUN	ATT	ATT	SBV	HED	VOB	LAD	QUN	ATT	COO	WP
+2	7	4	5	6	7	0	7	11	11	12	8	7
+
+嗯	，	没	问题	，	还	要	什么	吗	？
+e	wp	v	n	wp	d	v	r	u	wp
+IS	WP	IS	VOB	WP	ADV	HED	VOB	MT	WP
+7	1	7	3	3	7	0	7	7	7
+
+你们	今天	有	什么	特色	食品	？
+r	nt	v	r	n	n	wp
+SBV	ADV	HED	ATT	ATT	VOB	WP
+3	3	0	5	6	3	3
+
+我们	今天	供应	鲜奶油	草莓	，	我	建议	您	可以	试	一	试	。
+r	nt	v	n	n	wp	r	v	r	v	v	m	v	wp
+SBV	ADV	HED	ATT	VOB	WP	SBV	IC	SBV	ADV	VOB	QUN	VOB	WP
+3	3	0	5	3	3	8	3	11	11	8	13	11	3
+
+好	的	，	我	想	尝	一	尝	。
+a	u	wp	r	v	v	m	v	wp
+IS	MT	WP	SBV	ADV	HED	QUN	VOB	WP
+6	1	1	6	6	0	8	6	6
+
+好	的	，	马上	就	来	，	请	稍	等	。
+a	u	wp	d	d	v	wp	v	d	u	wp
+IS	MT	WP	ADV	ADV	HED	WP	ADV	ADV	MT	WP
+6	1	1	6	6	0	6	10	10	6	6
+
+嗯	，	您	要	喝	杯	茶	吗	？
+e	wp	r	v	v	n	n	u	wp
+IS	WP	SBV	ADV	HED	ATT	VOB	MT	WP
+5	1	5	5	0	7	5	5	5
+
+如果	您	已经	沏	好	了	，	那	就	来	一	杯	吧	。
+c	r	d	v	a	u	wp	c	d	v	m	q	u	wp
+CNJ	SBV	ADV	DC	CMP	MT	WP	CNJ	ADV	HED	QUN	VOB	MT	WP
+10	4	4	10	4	4	4	10	10	0	12	10	10	10
+
+呃	，	那	要	牛奶	和	糖	吗	？
+o	wp	r	v	n	c	n	u	wp
+IS	WP	SBV	HED	VOB	LAD	COO	MT	WP
+4	1	4	0	4	7	5	4	4
+
+请	少	加	一点儿	牛奶	放	两	块	糖	。
+v	a	v	m	n	v	m	q	n	wp
+ADV	ADV	HED	QUN	VOB	VV	QUN	ATT	VOB	WP
+3	3	0	5	3	3	8	9	6	3
+
+嗯	，	好	的	。
+e	wp	a	u	wp
+IS	WP	HED	MT	WP
+3	1	0	3	3
+
+谢谢	。
+v	wp
+HED	WP
+0	1
+
+啊	，	您	要	喝	什么	？
+e	wp	r	v	v	r	wp
+IS	WP	SBV	ADV	HED	VOB	WP
+5	1	5	5	0	5	5
+
+给	我	要	一	杯	清	咖啡	。
+p	r	v	m	q	a	n	wp
+ADV	POB	HED	QUN	ATT	ATT	VOB	WP
+3	1	0	5	7	7	3	3
+
+呃	，	吃	点儿	东西	吗	？
+o	wp	v	q	n	u	wp
+IS	WP	HED	ATT	VOB	MT	WP
+3	1	0	5	3	3	3
+
+好	的	，	我	要	一份儿	那种	草莓	馅饼	。
+a	u	wp	r	v	m	r	n	n	wp
+IS	MT	WP	SBV	HED	QUN	ATT	ATT	VOB	WP
+5	1	1	5	0	8	8	9	5	5
+
+嗯	，	好	的	。
+e	wp	a	u	wp
+IS	WP	HED	MT	WP
+3	1	0	3	3
+
+您	服务态度	真	好	。
+r	n	d	a	wp
+ATT	SBV	ADV	HED	WP
+2	4	4	0	4
+
+这	是	我们	应该	做	的	。
+r	v	r	v	v	u	wp
+SBV	HED	SBV	ADV	VOB	MT	WP
+2	0	5	5	2	5	2
+
+呃	，	我	能	为	您	做	点儿	什么	吗	？
+o	wp	r	v	p	r	v	q	r	u	wp
+IS	WP	SBV	ADV	ADV	POB	HED	ATT	VOB	MT	WP
+7	1	7	7	7	5	0	9	7	7	7
+
+我	要	一个	加	蛋黄酱	的	腊肉	奶酪	汉堡包	。
+r	v	m	v	n	u	n	n	n	wp
+SBV	HED	ATT	DE	DE	ATT	ATT	ATT	VOB	WP
+2	0	7	6	6	7	8	9	2	2
+
+呃	，	需要	一	份	沙拉	或者	蒸	土豆	吗	？
+o	wp	v	m	q	n	c	v	n	u	wp
+IS	WP	HED	QUN	ATT	VOB	CNJ	COO	VOB	MT	WP
+3	1	0	5	6	3	8	6	8	8	3
+
+给	我	一份儿	带	酸奶油	的	蒸	土豆	。
+p	r	m	v	n	u	v	n	wp
+ADV	VOB	POB	HED	VOB	ATT	ATT	VOB	WP
+4	1	1	0	4	8	8	4	4
+
+嗯	，	好	的	。
+e	wp	a	u	wp
+IS	WP	HED	MT	WP
+3	1	0	3	3
+
+您	喜欢	什么	饮料	？
+r	v	r	n	wp
+SBV	HED	ATT	VOB	WP
+2	0	4	2	2
+
+我	要	一	杯	香草	冰淇淋	。
+r	v	m	q	n	n	wp
+SBV	HED	QUN	ATT	ATT	VOB	WP
+2	0	4	6	6	2	2
+
+您	是	在	这儿	用餐	呢	，	还是	带走	？
+r	v	p	r	v	u	wp	c	v	wp
+SBV	HED	ADV	POB	VOB	MT	WP	CNJ	VOB	WP
+2	0	5	3	2	5	2	9	2	2
+
+带走	。
+v	wp
+HED	WP
+0	1
+
+啊	，	您	稍	等	可以	吗	？
+e	wp	r	d	u	v	u	wp
+IS	WP	SBV	ADV	HED	IC	MT	WP
+5	1	5	5	0	5	6	5
+
+您	要	的	蒸	土豆	很快	就	会	做	好	。
+r	v	u	v	n	d	d	v	v	a	wp
+SBV	DE	ATT	ATT	SBV	ADV	ADV	ADV	HED	CMP	WP
+2	3	5	5	9	9	9	9	0	9	10
+
+当然	可以	。
+d	v	wp
+ADV	HED	WP
+2	0	2
+
+欢迎	光临	，	我	能	为	您	效劳	吗	？
+v	v	wp	r	v	p	r	v	u	wp
+ADV	HED	WP	SBV	IC	ADV	POB	VOB	MT	WP
+2	0	2	5	2	8	6	5	8	2
+
+我	要	一个	巨无霸	、	一	份	小	薯条	和	一	杯	中	可乐	。
+r	v	m	nz	wp	m	q	a	n	c	m	q	nd	a	wp
+SBV	HED	ATT	VOB	WP	QUN	ATT	ATT	ATT	LAD	QUN	ATT	SBV	VOB	WP
+2	0	4	2	4	7	9	9	13	13	12	13	14	2	2
+
+呃	，	就	这么	多	了	吗	？
+o	wp	d	d	a	u	u	wp
+IS	WP	ADV	ADV	HED	MT	MT	WP
+5	1	5	5	0	5	5	5
+
+再	加	一个	苹果	馅饼	怎么样	？
+d	v	m	n	n	r	wp
+ADV	ATT	QUN	ATT	SBV	HED	WP
+2	4	4	5	6	0	6
+
+不用	了	，	谢谢	。
+d	u	wp	v	wp
+IS	MT	WP	HED	WP
+4	1	1	0	4
+
+您	是	在	这儿	就餐	，	还是	带走	？
+r	v	p	r	v	wp	c	v	wp
+SBV	HED	ADV	POB	VOB	WP	CNJ	VOB	WP
+2	0	5	3	2	5	8	5	2
+
+在	这儿	吃	。
+p	r	v	wp
+ADV	POB	HED	WP
+3	1	0	3
+
+给	您	，	先生	。
+p	r	wp	n	wp
+ADV	POB	WP	HED	WP
+4	1	1	0	4
+
+总共	二百元	。
+d	m	wp
+ATT	HED	WP
+2	0	2
+
+谢谢	。
+v	wp
+HED	WP
+0	1
+
+你	一定	多	吃	一点儿	鸡	。
+r	d	d	v	m	n	wp
+SBV	ADV	ADV	HED	QUN	VOB	WP
+4	4	4	0	6	4	4
+
+不	了	，	谢谢	。
+d	v	wp	v	wp
+ADV	MT	WP	HED	WP
+4	1	2	0	4
+
+我	需要	节制	饮食	。
+r	v	v	n	wp
+SBV	ADV	HED	VOB	WP
+3	3	0	3	3
+
+啊	，	你	无论如何	再	吃	一点儿	也	不	行	了	吗	？
+e	wp	r	i	d	v	m	d	d	a	u	u	wp
+IS	WP	SBV	SBV	ADV	HED	VOB	ADV	ADV	VOB	MT	MT	WP
+6	1	6	6	6	0	6	10	10	6	10	6	6
+
+不	，	真	的	，	谢谢	，	我	实在是	一点儿都	吃	不	下	了	。
+d	wp	a	u	wp	v	wp	r	n	m	v	d	v	u	wp
+IS	WP	HED	MT	WP	IS	WP	ATT	SBV	ADV	COO	ADV	IC	MT	WP
+3	1	0	3	3	11	6	9	11	11	3	13	11	13	11
+
+吃	吧	。
+v	u	wp
+HED	MT	WP
+0	1	1
+
+你	准	能	吃掉	它	。
+r	a	v	v	r	wp
+SBV	ADV	ADV	HED	VOB	WP
+4	4	4	0	4	4
+
+不	，	我	吃	得	好像	体重	都	增加	了	几	磅	。
+d	wp	r	v	u	v	n	d	v	u	m	q	wp
+IS	WP	SBV	HED	CMP	ATT	SBV	ADV	IC	MT	QUN	VOB	WP
+4	1	4	0	4	7	9	9	4	9	12	9	4
+
+嗯	，	还有	一点儿	土豆泥	无论如何	请	吃	掉	。
+e	wp	v	m	n	i	v	d	v	wp
+IS	WP	HED	QUN	VOB	VOB	VOB	ADV	VOB	WP
+3	1	0	5	3	3	3	9	7	3
+
+不	，	谢谢	。
+d	wp	v	wp
+IS	WP	HED	WP
+3	1	0	3
+
+我	真	的	已经	吃	得	太	多	了	。
+r	a	u	d	v	u	d	al	u	wp
+SBV	DE	SBV	ADV	HED	MT	ADV	IC	MT	WP
+5	3	5	5	0	5	8	5	5	5
+
+赏光	吃	了	吧	。
+v	v	u	u	wp
+ADV	HED	MT	MT	WP
+2	0	2	2	2
+
+好	吧	，	不过	只	吃	一点儿	点儿	。
+a	u	wp	c	d	v	m	q	wp
+IS	MT	WP	CNJ	ADV	HED	QUN	VOB	WP
+6	1	1	6	6	0	8	6	6
+
+您	好	，	您	需要	帮忙	吗	？
+r	i	wp	r	v	v	u	wp
+SBV	IS	WP	SBV	HED	VOB	MT	WP
+2	5	2	5	0	5	6	5
+
+您	好	，	我	想	订	一个	票	可以	吗	？
+r	i	wp	r	v	v	m	n	v	u	wp
+SBV	IS	WP	SBV	ADV	HED	QUN	VOB	VOB	MT	WP
+2	6	2	6	6	0	8	6	6	9	6
+
+啊	，	订	什么	票	？
+e	wp	v	r	n	wp
+IS	WP	HED	ATT	VOB	WP
+3	1	0	5	3	3
+
+订	火车票	。
+v	n	wp
+HED	VOB	WP
+0	1	1
+
+可以	，	您	要	订	哪	天	的	？
+v	wp	r	v	v	r	q	u	wp
+IS	WP	SBV	ADV	HED	ATT	VOB	MT	WP
+5	1	5	5	0	7	5	5	5
+
+现在	可以	订	一号	的	票	吗	？
+nt	v	v	nz	u	n	u	wp
+ADV	ADV	HED	DE	ATT	VOB	MT	WP
+3	3	0	5	6	3	3	3
+
+呃	，	订	一号	的	票	呀	？
+o	wp	v	nz	u	n	u	wp
+IS	WP	HED	DE	ATT	VOB	MT	WP
+3	1	0	5	6	3	3	3
+
+嗯	。
+e	wp
+HED	WP
+0	1
+
+呃	，	我	给	您	问	一下儿	吧	。
+o	wp	r	p	r	v	m	u	wp
+IS	WP	SBV	ADV	POB	HED	CMP	MT	WP
+6	1	6	6	4	0	6	6	6
+
+订	到	哪儿	的	呀	？
+v	v	r	u	u	wp
+ADV	HED	VOB	VOB	MT	WP
+2	0	2	2	2	2
+
+订	到	乌鲁木齐	六十九	次	吧	。
+v	v	ns	m	q	u	wp
+ADV	HED	VOB	QUN	VOB	MT	WP
+2	0	2	5	2	2	2
+
+只要	六十九	次	是	吗	？
+c	m	q	v	u	wp
+CNJ	QUN	ADV	HED	MT	WP
+2	3	4	0	4	4
+
+对	，	订	两	张	。
+p	wp	v	m	q	wp
+IS	WP	HED	QUN	VOB	WP
+3	1	0	5	3	3
+
+六十九	次	乌鲁木齐	，	您	是	哪里	的	呀	？
+m	q	ns	wp	r	v	r	u	u	wp
+QUN	ATT	SBV	WP	SBV	HED	DE	VOB	MT	WP
+2	3	6	3	6	0	8	6	6	6
+
+我	就是	四三零	房间	的	。
+r	v	nh	n	u	wp
+SBV	HED	ATT	VOB	MT	WP
+2	0	4	2	2	2
+
+四三零	呀	，	啊	，	那	您	先	下来	好	吗	？
+nh	u	wp	u	wp	r	r	d	v	a	u	wp
+SBV	MT	WP	MT	WP	CNJ	SBV	ADV	HED	CMP	MT	WP
+9	1	1	1	1	9	9	9	0	9	9	9
+
+我们	一般	先	交	押金	再	订票	，	好	吗	？
+r	a	d	v	n	d	v	wp	a	u	wp
+SBV	ADV	ADV	HED	VOB	ADV	VV	WP	MT	MT	WP
+4	4	4	0	4	7	4	7	4	9	4
+
+我	问	一下	，	就是说	您	这儿	有	票	可	订	吗	？
+r	v	m	wp	c	r	r	v	n	v	v	u	wp
+SBV	HED	CMP	WP	CNJ	SBV	SBV	DC	VOB	ADV	VOB	MT	WP
+2	0	2	2	11	8	8	11	8	11	2	11	2
+
+啊	，	这	不能	确定	。
+e	wp	r	v	v	wp
+IS	WP	SBV	ADV	HED	WP
+5	1	5	5	0	5
+
+不能	确定	啊	？
+v	v	u	wp
+ADV	HED	MT	WP
+2	0	2	2
+
+啊	，	对	，	这	没	法儿	确定	。
+e	wp	p	wp	r	v	n	v	wp
+IS	WP	IS	WP	SBV	HED	VOB	VOB	WP
+6	1	6	3	6	0	6	6	8
+
+一般来说	，	我	今天	晚上	订	的	票	，	什么时候	能	拿到	呢	？
+i	wp	r	n	i	v	u	n	wp	i	v	v	u	wp
+SBV	WP	SBV	ATT	SBV	HED	MT	SBV	WP	IS	ADV	CMP	MT	WP
+6	1	6	5	6	0	6	12	8	12	12	7	12	6
+
+啊	，	今天	晚上	订票	，	因为	现在	人家	已经	下班	了	。
+e	wp	n	i	v	wp	c	nt	r	d	v	u	wp
+IS	WP	SBV	SBV	IS	WP	CNJ	ADV	SBV	ADV	HED	MT	WP
+11	1	4	5	11	5	11	11	11	11	0	11	11
+
+什么	时候	可以	拿到	？
+n	i	v	v	wp
+ATT	ADV	HED	VOB	WP
+2	3	0	3	3
+
+啊	，	一般	都是	提前	一	两	天	拿到	票	，	提前	一	天	吧	。
+e	wp	a	nh	v	m	m	q	v	n	wp	v	m	q	u	wp
+IS	WP	SBV	SBV	HED	QUN	QUN	ATT	ATT	VOB	WP	VV	QUN	VOB	MT	WP
+5	1	4	5	0	8	8	10	10	5	5	5	14	12	12	5
+
+提前	一	天	拿到	票	，	明天	拿	不	到	吗	？
+v	m	q	v	n	wp	nt	v	d	v	u	wp
+HED	QUN	ATT	ATT	VOB	WP	ADV	VV	ADV	CMP	MT	WP
+0	3	5	5	1	1	8	1	10	8	10	1
+
+嗯	，	拿	不	到	。
+e	wp	v	d	v	wp
+IS	WP	HED	ADV	VOB	WP
+3	1	0	5	3	3
+
+明天	要	走	啊	。
+nt	v	v	u	wp
+ADV	ADV	HED	MT	WP
+3	3	0	3	3
+
+呃	，	您	不是	订	一号	的	票	吗	？
+o	wp	r	d	v	nz	u	n	u	wp
+IS	WP	SBV	ADV	HED	DE	ATT	VOB	MT	WP
+5	1	5	5	0	7	8	5	5	5
+
+明天	就要	走	，	想	拿	明天	的	票	。
+nt	d	v	wp	v	v	nt	u	n	wp
+ADV	ADV	HED	WP	ADV	IC	DE	ATT	VOB	WP
+3	3	0	3	6	3	8	9	6	3
+
+呃	，	那	可	真	够戗	。
+o	wp	r	v	d	v	wp
+IS	WP	SBV	ADV	ADV	HED	WP
+6	1	6	6	6	0	6
+
+那	算了	吧	。
+r	v	u	wp
+SBV	HED	MT	WP
+2	0	2	2
+
+哎	，	不好意思	，	再见	。
+e	wp	i	wp	v	wp
+IS	WP	HED	WP	IS	WP
+3	1	0	3	3	5
+
+您	好	。
+r	i	wp
+SBV	HED	WP
+2	0	2
+
+您	好	，	谢先生	。
+r	i	wp	i	wp
+SBV	HED	WP	IS	WP
+2	0	2	2	2
+
+哎	。
+e	wp
+HED	WP
+0	1
+
+我	是	公电	工具城	的	小孙	啊	！	
+r	v	n	n	u	nh	u	wp	wp
+SBV	HED	ATT	DE	VOB	VOB	MT	WP	WP
+2	0	4	5	2	2	2	2	2
+
+哎	哎	。
+e	e	wp
+IS	HED	WP
+2	0	2
+
+唉	谢先生	，	上	回	您	上次	说	订票	随时	都	可以	订	吗	？
+e	nh	wp	nd	v	r	nt	v	n	d	d	v	v	u	wp
+IS	IS	WP	ADV	ADV	SBV	ADV	HED	VOB	ADV	ADV	ADV	VOB	MT	WP
+8	8	2	8	8	8	8	0	8	13	13	13	8	13	8
+
+啊	，	对	。
+e	wp	a	wp
+IS	WP	HED	WP
+3	1	0	3
+
+是	这样	，	我	有	一个	朋友	，	他	想	回	重庆	。
+v	r	wp	r	v	m	n	wp	r	v	v	ns	wp
+IS	VOB	WP	SBV	HED	QUN	VOB	WP	SBV	ADV	VOB	VOB	WP
+5	1	1	5	0	7	5	5	11	11	5	11	5
+
+回	重庆	？
+v	ns	wp
+HED	VOB	WP
+0	1	1
+
+不	知道	您	能不能	帮忙	？
+d	n	r	n	v	wp
+ADV	SBV	ATT	SBV	HED	WP
+5	5	4	5	0	5
+
+呃	，	什么	时候	走	？
+o	wp	r	i	v	wp
+IS	WP	SBV	ADV	HED	WP
+5	1	5	5	0	5
+
+他	想	二月六号	走	。
+r	v	nz	v	wp
+SBV	HED	VOB	IC	WP
+2	0	2	2	4
+
+二月六号	走	，	今天	是	二号	。
+nz	v	wp	nt	v	nz	wp
+SBV	HED	WP	ADV	IC	VOB	WP
+2	0	2	5	2	5	2
+
+能	早	一点儿	更	好	。
+v	a	m	d	a	wp
+ADV	VOB	CMP	ADV	HED	WP
+5	1	2	5	0	5
+
+呃	，	今天	是	二号	。
+o	wp	nt	v	nz	wp
+IS	WP	ADV	HED	VOB	WP
+4	1	4	0	4	4
+
+如果	是	二月五号	，	二月四号	走	也	行	。
+c	v	nz	wp	nz	v	d	v	wp
+CNJ	HED	VOB	WP	SBV	IC	ADV	VV	WP
+2	0	2	2	6	2	8	6	2
+
+呃	，	二月六号	啊	，	去	成都	，	还是	重庆	？
+o	wp	i	u	wp	v	ns	wp	c	ns	wp
+IS	WP	HED	MT	WP	VV	VOB	WP	CNJ	COO	WP
+3	1	0	3	3	3	6	6	10	3	3
+
+重庆	，	如果	是	二月五号	，	二月四号	都	可以	。
+ns	wp	c	v	nz	wp	nz	d	v	wp
+SBV	WP	CNJ	HED	VOB	WP	SBV	ADV	VOB	WP
+4	1	4	0	4	4	9	9	4	4
+
+啊	，	行	，	我	打	电话	问	一下儿	吧	，	您	别	挂	电话	好	吗	？
+e	wp	v	wp	r	v	n	v	m	u	wp	r	d	v	n	a	u	wp
+IS	WP	IS	WP	SBV	HED	VOB	VV	CMP	MT	WP	SBV	ADV	VV	VOB	MT	MT	WP
+6	1	6	3	6	0	6	6	8	8	6	14	14	6	14	14	16	6
+
+行	。
+v	wp
+HED	WP
+0	1
+
+几	张	呀	？
+m	q	u	wp
+QUN	HED	MT	WP
+2	0	2	2
+
+三	张	。
+m	q	wp
+QUN	HED	WP
+2	0	2
+
+三	张	，	我	给	您	问	一下儿	。
+m	q	wp	r	p	r	v	m	wp
+QUN	ADV	WP	SBV	ADV	POB	HED	CMP	WP
+2	7	2	7	7	5	0	7	7
+
+欸	。
+ws	wp
+HED	WP
+0	1
+
+哎	，	您	别	挂	。
+e	wp	r	d	v	wp
+IS	WP	SBV	ADV	HED	WP
+5	1	5	5	0	5
+
+我	不	挂	我	不	挂	。
+r	d	v	r	d	v	wp
+SBV	ADV	HED	SBV	ADV	VOB	WP
+3	3	0	6	6	3	3
+
+您	好	。
+r	i	wp
+SBV	HED	WP
+2	0	2
+
+您	好	。
+r	i	wp
+SBV	HED	WP
+2	0	2
+
+啊	，	我	打	电话	到	票务	了	，	他	说	票	特别	紧张	，	他	说	去	试	一	试	，	这样	吧	，	我	明天一早	给	您	挂	电话	行	吗	？
+e	wp	r	v	n	v	n	u	wp	r	v	n	d	a	wp	r	v	v	v	m	v	wp	r	u	wp	r	i	p	r	v	n	v	u	wp
+IS	WP	SBV	HED	VOB	VOB	VOB	MT	WP	SBV	IC	VOB	ADV	VOB	WP	SBV	IC	ADV	VOB	QUN	VOB	WP	IC	MT	WP	SBV	ADV	ADV	POB	WP	VOB	IC	MT	WP
+4	1	4	0	4	4	6	6	6	11	6	11	14	11	14	17	14	19	17	21	19	17	14	23	4	30	30	30	28	34	30	30	32	4
+
+明天	我	给	您	打	吧	。
+nt	r	p	r	v	u	wp
+ADV	SBV	ADV	POB	HED	MT	WP
+5	5	5	3	0	5	5
+
+啊	，	也	行	，	那	明天	你	就	早	点儿	。
+e	wp	d	v	wp	r	nt	r	d	a	n	wp
+IS	WP	ADV	HED	WP	ATT	ATT	ATT	ADV	ATT	IC	WP
+4	1	4	0	4	11	11	11	10	11	4	4
+
+您	在	吧	？
+r	p	u	wp
+SBV	HED	MT	WP
+2	0	2	2
+
+呃	，	在	在	，	八点半	左右	吧	。
+o	wp	p	v	wp	m	m	u	wp
+IS	WP	ADV	HED	WP	VOB	RAD	MT	WP
+4	1	4	0	4	4	6	6	4
+
+五六号	都	行	。
+nz	d	a	wp
+SBV	ADV	HED	WP
+3	3	0	3
+
+嗯	，	我	跟	他	说	了	一下儿	，	他	说	可能	够戗	。
+e	wp	r	p	r	v	u	n	wp	r	v	v	n	wp
+IS	WP	SBV	ADV	POB	HED	MT	VOB	WP	SBV	IC	VOB	VOB	WP
+6	1	6	6	4	0	6	6	6	11	6	11	11	6
+
+唉	，	他	说	现在	票	挺	难	订	是	吧	？
+e	wp	r	v	nt	n	d	a	v	v	u	wp
+IS	WP	SBV	HED	ADV	SBV	ADV	ADV	VOB	VOB	MT	WP
+4	1	4	0	9	9	9	9	4	4	10	4
+
+嗯	，	对	对	对	，	明天	一早	八点半	左右	行	吗	？
+e	wp	v	v	a	wp	n	n	m	m	q	u	wp
+IS	WP	IS	HED	RPT	WP	ATT	SBV	QUN	RAD	RPT	MT	WP
+4	1	4	0	4	5	8	9	11	9	5	11	4
+
+行	，	好	好	好	，	麻烦	您	啦	。
+v	wp	a	a	a	wp	a	r	u	wp
+IS	WP	HED	CMP	CMP	WP	COO	COO	MT	WP
+3	1	0	3	4	3	3	7	7	3
+
+哎	，	好	，	不	客气	。
+e	wp	a	wp	d	a	wp
+IS	WP	IS	WP	ADV	HED	WP
+6	1	6	3	6	0	6
+
+喂	，	您	好	。
+e	wp	r	i	wp
+IS	WP	SBV	HED	WP
+4	1	4	0	4
+
+您	好	。
+r	i	wp
+SBV	HED	WP
+2	0	2
+
+我	给	你	问	了	他	那儿	没有	直达	西安	的	只有	途经	的	那种	可以	吗	？
+r	p	r	v	u	r	r	d	v	ns	u	c	v	u	r	v	u	wp
+SBV	ADV	POB	HED	MT	ATT	SBV	ADV	IC	VOB	VOB	CNJ	IC	MT	SBV	IC	MT	WP
+4	4	2	0	4	7	9	9	4	9	9	13	9	13	16	13	16	4
+
+就是	它	是	六十九	次	去	乌鲁木齐	的	二十一点五十五分	发	车	，	只有	中铺	和	上铺	。
+v	r	v	m	q	v	ns	u	n	v	n	wp	c	n	c	n	wp
+ADV	SBV	HED	QUN	ATT	DE	VOB	ATT	SBV	VOB	VOB	WP	CNJ	WP	LAD	COO	WP
+3	3	0	5	9	8	6	9	10	3	10	3	14	12	16	14	3
+
+有	中铺	和	上铺	。
+v	n	c	n	wp
+HED	VOB	LAD	COO	WP
+0	1	4	2	1
+
+哎	。
+e	wp
+HED	WP
+0	1
+
+那	行	吧	。
+r	r	u	wp
+CNJ	HED	MT	WP
+2	0	2	2
+
+呃	，	行	吗	？
+o	wp	v	u	wp
+IS	WP	HED	MT	WP
+3	1	0	3	3
+
+好	的	。
+a	u	wp
+HED	MT	WP
+0	1	1
+
+啊	，	它	正好	到	站	是	十三点四十四]分	，	这	时间	也	挺	好	的	我	觉得	。
+e	wp	r	a	v	n	v	q	wp	r	n	d	d	a	u	r	v	wp
+IS	WP	SBV	ADV	HED	VOB	VOB	VOB	WP	ATT	SBV	ADV	ADV	DE	ADV	SBV	IC	WP
+5	1	5	5	0	5	5	7	7	11	17	14	14	15	17	17	7	7
+
+还	可以	。
+d	v	wp
+ADV	HED	WP
+2	0	2
+
+可以	吗	？
+v	u	wp
+HED	MT	WP
+0	1	1
+
+行	。
+v	wp
+HED	WP
+0	1
+
+啊	，	那	我	就	给	您	订	上	了	，	好	吗	？
+e	wp	r	r	d	p	r	v	v	u	wp	a	u	wp
+IS	WP	CNJ	SBV	ADV	ADV	POB	HED	VOB	MT	WP	CMP	MT	WP
+8	1	8	8	8	8	6	0	8	8	8	8	12	8
+
+唉	。
+e	wp
+HED	WP
+0	1
+
+要	两	个	中铺	是	吗	？
+v	m	q	n	v	u	wp
+ADV	QUN	ATT	VOB	HED	MT	WP
+5	3	4	1	0	5	5
+
+行	没有	下铺	啊	？
+n	d	v	u	wp
+SBV	ADV	HED	MT	WP
+3	3	0	3	3
+
+嗯	，	没有	下铺	就是	中铺	。
+e	wp	v	v	v	n	wp
+IS	WP	HED	VOB	CMP	VOB	WP
+3	1	0	3	3	5	3
+
+是	中铺	啊	。
+v	n	u	wp
+HED	VOB	MT	WP
+0	1	1	1
+
+嗯	，	有	中铺	和	上铺	。
+e	wp	v	n	c	n	wp
+IS	WP	HED	VOB	LAD	COO	WP
+3	1	0	3	6	4	3
+
+那	要	一	中铺	一	上铺	吧	。
+r	v	m	n	m	n	u	wp
+SBV	HED	QUN	VOB	QUN	COO	MT	WP
+2	0	4	2	6	4	2	2
+
+嗯	，	可以	。
+e	wp	v	wp
+IS	WP	HED	WP
+3	1	0	3
+
+行	。
+v	wp
+HED	WP
+0	1
+
+啊	，	那	我	就	给	您	订	上	了	。
+e	wp	r	r	d	p	r	v	v	u	wp
+IS	WP	CNJ	SBV	ADV	ADV	POB	HED	VOB	MT	WP
+8	1	8	8	8	8	6	0	8	8	8
+
+好	。
+a	wp
+HED	WP
+0	1
+
+那	就	这样	。
+c	d	r	wp
+CNJ	ADV	HED	WP
+3	3	0	3
+
+我	要	在	一号	或者	一号	左右	去	日内瓦	。
+r	v	p	nz	c	nz	m	v	ns	wp
+SBV	HED	ADV	POB	CNJ	COO	POB	VV	VOB	WP
+2	0	8	3	6	4	3	2	8	2
+
+我	这	就	查	一下	有没有	什么	班机	。
+r	r	d	v	m	v	r	n	wp
+SBV	SBV	ADV	HED	CMP	VOB	ATT	VOB	WP
+4	4	4	0	4	4	8	6	4
+
+啊	，	我	要	经济舱	的	票	。	另外	呢	，	我	喜欢	早上	的	班机	。
+e	wp	r	v	n	u	n	wp	c	u	wp	r	v	nt	u	n	wp
+IS	WP	SBV	HED	DE	ATT	VOB	WP	CNJ	MT	WP	SBV	IC	DE	ATT	VOB	WP
+4	1	4	0	6	7	4	7	13	9	9	13	7	15	16	13	4
+
+安莎航空公司	ＬＨ三零三	班机	九点二十分	起飞	。
+n	m	n	m	v	wp
+ATT	QUN	ATT	HED	IC	WP
+3	3	4	0	4	5
+
+呃	，	那	我	该	在	什么时候	到	那里	呢	？
+o	wp	r	r	r	p	i	v	r	u	wp
+IS	WP	CNJ	SBV	SBV	ADV	POB	HED	VOB	MT	WP
+8	1	8	8	8	8	6	0	8	8	8
+
+民航	汽车	八点十五分	出发	去	机场	。
+n	n	nt	v	v	n	wp
+ATT	SBV	ADV	HED	CMP	VOB	WP
+2	4	4	0	4	4	4
+
+呃	，	还有	什么	须知	事项	吗	？
+o	wp	v	r	v	n	u	wp
+IS	WP	HED	ATT	ATT	VOB	MT	WP
+3	1	0	6	6	3	3	3
+
+到	机场	办	手续	的	时间	最	迟	是	八点	半	。
+v	n	v	n	u	n	d	a	v	nt	m	wp
+DC	VOB	DE	DE	ATT	VOB	ADV	HED	IC	ATT	VOB	WP
+8	1	5	5	6	1	8	0	8	11	9	9
+
+明天	从	伦敦	到	维也纳	有	什么	班机	呀	？
+nt	p	ns	p	ns	v	r	n	u	wp
+ADV	ADV	POB	ADV	POB	HED	ATT	VOB	MT	WP
+6	6	2	6	4	0	8	6	6	6
+
+请	坐	，	我	现在	给	你	查	一	查	。
+v	v	wp	r	nt	p	r	v	m	v	wp
+ADV	VOB	WP	SBV	ADV	ADV	POB	HED	QUN	VOB	WP
+8	1	1	8	8	8	6	0	10	8	8
+
+我	要	乘	头等舱	。
+r	v	v	n	wp
+SBV	ADV	HED	VOB	WP
+3	3	0	3	3
+
+顺便	提	一下儿	，	我	不想	要	夜航	班机	。
+d	v	m	wp	r	v	v	n	i	wp
+ADV	HED	CMP	WP	SBV	ADV	VOB	SBV	VOB	WP
+2	0	2	2	7	7	2	9	7	2
+
+正Ａ航空公司	ＢＥ五零二	班机	九点二十五分	从	希思罗	起飞	，	直达	维也纳	。
+n	m	n	q	p	ns	v	wp	v	ns	wp
+SBV	QUN	SBV	ADV	ADV	POB	HED	WP	IC	VOB	WP
+7	3	7	7	7	5	0	7	7	9	7
+
+呃	，	我	大概	什么	时候	到	，	办	登机手续	呀	？
+o	wp	r	d	r	i	v	wp	v	i	u	wp
+IS	WP	SBV	ADV	ATT	ADV	HED	WP	IC	VOB	MT	WP
+7	1	7	7	6	7	0	7	7	9	9	7
+
+最	迟	八点十分儿	得	到	伦敦机场	西区	。
+d	a	n	u	v	ns	n	wp
+ADV	ATT	SBV	RAD	HED	VOB	VOB	WP
+2	3	5	3	0	5	5	5
+
+您	想	看	哪	一	部	电影	？
+r	v	v	r	m	q	n	wp
+SBV	ADV	HED	VOB	QUN	ATT	VOB	WP
+3	3	0	3	6	7	3	3
+
+我	想	看	晚上	那	部	。
+r	v	v	nt	r	q	wp
+SBV	ADV	HED	ATT	ATT	VOB	WP
+3	3	0	6	6	3	3
+
+但是	我	今天	不想	看	。
+c	r	nt	v	v	wp
+CNJ	SBV	ADV	ADV	HED	WP
+5	5	5	5	0	5
+
+呃	，	那	您	想	要	明天	的	吗	？
+o	wp	r	r	v	v	nt	u	u	wp
+IS	WP	CNJ	SBV	ADV	HED	DE	VOB	MT	WP
+6	1	6	6	6	0	8	6	6	6
+
+明天	的	就	很	好	。
+nt	u	d	d	v	wp
+DE	SBV	ADV	ADV	HED	WP
+2	5	5	5	0	5
+
+一	张	《	阿甘正传	》	的	票	多少	钱	？
+m	q	wp	n	wp	u	n	r	n	wp
+QUN	ATT	WP	HED	WP	ATT	SBV	ATT	VOB	WP
+2	4	4	0	4	7	9	9	4	9
+
+呃	，	六十	块	钱	。
+o	wp	m	q	n	wp
+IS	WP	QUN	ATT	HED	WP
+5	1	4	5	0	5
+
+这里	是	一百元	。
+r	v	m	wp
+SBV	HED	VOB	WP
+2	0	2	2
+
+这里	是	您	的	票	和	找	您	的	钱	。
+r	v	r	u	n	c	v	r	u	n	wp
+SBV	HED	DE	ATT	VOB	CNJ	IC	DE	ATT	VOB	WP
+2	0	4	5	2	7	2	9	10	7	2
+
+先生	，	您	还	需要	点儿	什么	吗	？
+n	wp	r	d	v	q	r	u	wp
+IS	WP	SBV	ADV	HED	ATT	VOB	MT	WP
+5	1	5	5	0	7	5	5	5
+
+不	了	，	谢谢	。
+d	v	wp	v	wp
+ADV	MT	WP	HED	WP
+4	1	2	0	4
+
+这里	是	休闲	旅行社	。
+r	v	v	n	wp
+SBV	ADV	HED	VOB	WP
+3	3	0	3	3
+
+我	能	为	您	效劳	吗	？
+r	v	p	r	v	u	wp
+SBV	ADV	ADV	POB	HED	MT	WP
+5	5	5	3	0	5	5
+
+我	想	订	一	张	到	中国上海	的	机票	。
+r	v	v	m	q	v	i	u	n	wp
+SBV	ADV	HED	QUN	ATT	DE	VOB	ATT	VOB	WP
+3	3	0	5	9	8	6	9	3	3
+
+呃	，	请	您	告诉	我	您	的	姓名	。
+o	wp	v	r	v	r	r	u	n	wp
+IS	WP	HED	SBV	IC	VOB	DE	ATT	VOB	WP
+3	1	0	5	3	5	8	9	5	5
+
+我	叫	李阳	，	我	想	在	三月	二十八	日	启程	。
+r	v	nh	wp	r	v	p	nt	m	q	v	wp
+SBV	HED	VOB	WP	SBV	IC	ADV	POB	QUN	POB	VV	WP
+2	0	2	2	6	2	11	7	10	7	6	2
+
+啊	，	让	我	看	哪	一	班	飞机	合适	，	啊	，	对	了	，	中国航空公司	有	一	航班	在	三月	二十八	日	晚	七点半	起飞	。
+e	wp	v	r	v	r	m	q	n	a	wp	u	wp	p	u	wp	n	v	m	n	p	nt	m	q	n	m	v	wp
+IS	WP	IS	VOB	HED	ATT	QUN	ATT	SBV	VOB	WP	MT	WP	IS	MT	WP	SBV	VOB	QUN	VOB	VOB	POB	QUN	ATT	POB	ADV	VOB	WP
+5	1	5	3	0	8	8	9	10	5	5	5	5	18	14	14	18	5	20	18	18	21	24	25	21	27	18	5
+
+好	，	我	就	要	一	张	经济舱	的	机票	。
+a	wp	r	d	d	m	q	n	u	n	wp
+IS	WP	SBV	ADV	HED	QUN	ATT	DE	ATT	VOB	WP
+5	1	5	5	0	7	8	9	10	5	5
+
+呃	，	单程	的	还是	往返	的	？
+o	wp	n	u	d	v	u	wp
+IS	WP	DE	SBV	ADV	HED	MT	WP
+6	1	4	6	6	0	6	6
+
+单程	的	。
+n	u	wp
+HED	MT	WP
+0	1	1
+
+票价	是	多少	？
+n	v	r	wp
+SBV	HED	VOB	WP
+2	0	2	2
+
+啊	，	从	纽约	飞往	上海	的	单程	经济舱	票价	是	八百	美元	。
+e	wp	p	ns	v	ns	u	n	n	n	v	m	q	wp
+IS	WP	ADV	POB	HED	DE	ATT	ATT	ATT	SBV	IC	QUN	VOB	WP
+5	1	5	3	0	7	8	9	10	11	5	13	11	5
+
+那	我	的	机票	算	确认	了	吗	？
+r	r	u	n	v	v	n	u	wp
+ATT	DE	ATT	SBV	HED	CMP	VOB	MT	WP
+4	3	4	5	0	5	5	5	5
+
+啊	，	是	的	，	你	的	座位	就	确认	在	这	班机	。
+e	wp	v	u	wp	r	u	n	d	v	p	r	n	wp
+IS	WP	IS	MT	WP	DE	ATT	SBV	ADV	HED	CMP	ATT	POB	WP
+10	1	10	3	3	7	8	10	10	0	10	13	11	10
+
+请	您	务必	在	飞机	起飞	前	一个	小时	到达	机场	。
+v	r	d	p	n	v	nd	m	n	v	n	wp
+ADV	SBV	ADV	ADV	POB	HED	VOB	QUN	SBV	VOB	VOB	WP
+6	6	6	6	4	0	6	9	10	6	10	6
+
+泛美世界航空公司	。
+i	wp
+HED	WP
+0	1
+
+您	好	。
+r	i	wp
+SBV	HED	WP
+2	0	2
+
+我	想	重新	确认	一下	我	的	班机	。
+r	v	d	v	m	r	u	n	wp
+SBV	ADV	ADV	HED	CMP	DE	ATT	VOB	WP
+4	4	4	0	4	7	8	4	4
+
+啊	，	请	将	您	的	航班号	告诉	我	，	好	吗	？
+e	wp	v	p	r	u	n	v	r	wp	a	u	wp
+IS	WP	ADV	ADV	DE	ATT	SBV	HED	VOB	WP	MT	MT	WP
+8	1	8	8	6	7	8	0	8	8	8	11	8
+
+我	的	航班号	是	二三二	，	将	于	七月十号	上午	十点	离开	ＪＦＫ	机场	。
+r	u	n	v	m	wp	d	p	n	n	nt	v	ws	n	wp
+DE	ATT	SBV	HED	VOB	WP	ADV	ADV	ATT	SBV	ADV	IC	ATT	VOB	WP
+2	3	4	0	4	4	12	12	10	12	12	4	14	12	4
+
+那	是	我们	飞往	上海	的	固定	航班	。
+r	v	r	v	ns	u	a	n	wp
+SBV	HED	SBV	DE	DE	ATT	ATT	VOB	WP
+2	0	4	6	6	8	8	2	2
+
+我	叫	林达·亨特	。
+r	v	nh	wp
+SBV	HED	VOB	WP
+2	0	2	2
+
+我	名字	的	首	字母	是	“	Ｌ	”	。
+r	n	u	m	n	v	wp	ws	wp	wp
+ATT	DE	ATT	QUN	SBV	HED	WP	VOB	WP	WP
+2	3	5	5	6	0	6	6	8	6
+
+啊	，	请	稍	等	，	哦	，	对	，	我	找到	了	。
+e	wp	v	d	u	wp	e	wp	p	wp	r	v	u	wp
+IS	WP	ADV	ADV	HED	WP	IS	WP	IC	WP	SBV	IC	MT	WP
+5	1	5	5	0	5	5	5	5	5	12	5	12	5
+
+您	乘	的	是	经济舱	，	对	吗	？
+r	v	u	v	n	wp	p	u	wp
+SBV	DE	SBV	HED	VOB	WP	RPT	MT	WP
+2	3	4	0	4	4	4	7	4
+
+是	的	。
+v	u	wp
+HED	MT	WP
+0	1	1
+
+好	，	您	的	一切	手续	都	已经	办妥	了	。
+a	wp	r	u	r	n	d	d	v	u	wp
+IS	WP	DE	ATT	ATT	SBV	ADV	ADV	HED	MT	WP
+9	1	4	6	6	9	9	9	0	9	9
+
+祝	您	旅途	愉快	。
+v	r	n	a	wp
+HED	ATT	SBV	VOB	WP
+0	3	4	1	1
+
+谢谢	。
+v	wp
+HED	WP
+0	1
+
+啊	，	这	趟	列车	开到	上海	需要	多久	呀	？
+e	wp	r	q	n	v	ns	v	r	u	wp
+IS	WP	ATT	ATT	SBV	HED	VOB	VOB	VOB	MT	WP
+6	1	4	5	6	0	6	6	8	8	6
+
+大约	十四个	小时	。
+d	m	n	wp
+ATT	QUN	HED	WP
+3	3	0	3
+
+呃	，	要	停靠	几	站	？
+o	wp	v	v	m	q	wp
+IS	WP	ADV	HED	QUN	VOB	WP
+4	1	4	0	6	4	4
+
+这么	快	的	列车	从	北京	直达	上海	，	中途	不停	。
+r	a	u	n	p	ns	v	ns	wp	d	v	wp
+ATT	DE	ATT	SBV	ADV	POB	HED	VOB	WP	ADV	VOB	WP
+4	3	4	7	7	5	0	7	7	11	7	7
+
+哦	。	有没有	下午	发出	的	车	？
+e	wp	v	nt	v	u	n	wp
+IS	WP	HED	ADV	DE	ATT	VOB	WP
+3	1	0	5	6	7	3	3
+
+有	的	，	女士	。
+v	u	wp	n	wp
+HED	MT	WP	IS	WP
+0	1	1	1	1
+
+您	要	买	票	吗	？
+r	v	v	n	u	wp
+SBV	ADV	HED	VOB	MT	WP
+3	3	0	3	3	3
+
+嗯	，	我	想	买	两	张	明天	去	上海	的	软卧票	。
+e	wp	r	v	v	m	q	nt	v	ns	u	n	wp
+IS	WP	SBV	ADV	HED	QUN	ATT	ADV	DE	DE	ATT	VOB	WP
+5	1	5	5	0	7	12	9	11	11	12	5	5
+
+好	的	。	包括	服务费	一共	是	一千二百元	。
+a	u	wp	v	n	d	v	m	wp
+IS	MT	WP	IS	VOB	ADV	HED	VOB	WP
+7	1	1	7	4	7	0	7	7
+
+呃	，	我	可以	要	两	张	下铺	的	吗	？
+o	wp	r	v	v	m	q	v	u	u	wp
+IS	WP	SBV	ADV	HED	QUN	VOB	DE	MT	MT	WP
+5	1	5	5	0	7	5	9	5	5	5
+
+对不起	。	我们	通常是	将	上	下铺	配	在	一起	卖	。
+v	wp	r	v	p	n	n	v	p	nl	v	wp
+IS	WP	SBV	HED	ADV	ATT	POB	VOB	CMP	POB	VOB	WP
+4	1	4	0	8	7	5	4	8	9	8	4
+
+您	可以	叫	列车员	帮	您	调换	一下	。
+r	v	v	n	v	r	v	i	wp
+SBV	ADV	HED	VOB	VOB	VOB	VOB	VOB	WP
+3	3	0	3	3	5	5	7	3
+
+嗯	，	好	，	我	知道	了	。
+e	wp	a	wp	r	v	u	wp
+IS	WP	IS	WP	SBV	HED	MT	WP
+6	1	6	3	6	0	6	6
+
+非常	感谢	。
+d	v	wp
+ADV	HED	WP
+2	0	2
+
+祝	您	旅途	愉快	。
+v	r	n	a	wp
+HED	ATT	SBV	VOB	WP
+0	3	4	1	1
+
+早上	好	。
+nt	a	wp
+ADV	HED	WP
+2	0	2
+
+早上	好	。
+nt	a	wp
+ADV	HED	WP
+2	0	2
+
+啊	，	是	美洲航空公司	吗	？
+e	wp	v	i	u	wp
+IS	WP	HED	VOB	MT	WP
+3	1	0	3	3	3
+
+是	的	，	先生	。
+v	u	wp	n	wp
+IS	MT	WP	HED	WP
+4	1	1	0	4
+
+我	是	爱伦	，	你	有	什么	事儿	？
+r	v	n	wp	r	v	r	n	wp
+SBV	HED	VOB	WP	SBV	IC	ATT	VOB	WP
+2	0	2	2	6	2	8	6	2
+
+我	需要	订	一个	七号	上午	去	芝加哥	的	航班	，	你	能	帮忙	吗	？
+r	v	v	m	nz	nt	v	ns	u	n	wp	r	v	v	u	wp
+SBV	ADV	HED	ATT	ATT	ADV	DE	DE	ATT	VOB	WP	SBV	ADV	VOB	MT	WP
+3	3	0	10	6	7	9	9	10	3	3	14	14	3	14	3
+
+当然	可以	，	先生	。
+d	v	wp	n	wp
+ADV	HED	WP	IS	WP
+2	0	2	2	2
+
+啊	，	那	请	您	帮	我	查	一下儿	，	七号	上午	。
+e	wp	r	v	r	v	r	v	m	wp	nz	nt	wp
+IS	WP	SBV	HED	SBV	VOB	SBV	VOB	CMP	WP	ATT	VOB	WP
+4	1	4	0	6	4	8	6	8	4	12	4	4
+
+都	有	几	点	的	航班	？
+d	v	m	q	u	n	wp
+ADV	HED	QUN	VOB	ATT	VOB	WP
+2	0	4	2	6	2	2
+
+早上	八点四十五分	有	一个	航班	，	还有	一个	是	在	十点四十五	。
+nt	q	v	m	n	wp	v	m	v	p	m	wp
+ADV	ADV	HED	QUN	VOB	WP	VV	QUN	VOB	VOB	VOB	WP
+3	3	0	5	3	3	3	9	7	7	7	3
+
+你	想	要	哪	班	呢	？
+r	v	v	r	n	u	wp
+SBV	ADV	HED	ATT	VOB	MT	WP
+3	3	0	5	3	3	3
+
+我	想	要	八点四十五	的	，	请	您	帮	我	预定	一下儿	。	谢谢	。
+r	v	v	m	u	wp	v	r	v	r	v	m	wp	v	wp
+SBV	ADV	HED	VOB	MT	WP	VOB	VOB	VOB	SBV	VOB	CMP	WP	IS	WP
+3	3	0	3	3	3	3	7	7	11	9	11	11	11	3
+
+好	的	，	没	问题	。
+a	u	wp	v	n	wp
+IS	MT	WP	HED	VOB	WP
+4	1	1	0	4	4
+
+我	想	买	本月	一	日	左右	去	日内瓦	的	机票	。
+r	v	v	nt	m	q	m	v	ns	u	n	wp
+SBV	ADV	HED	ADV	QUN	ADV	RAD	DE	DE	ATT	VOB	WP
+3	3	0	8	6	8	6	10	10	11	3	3
+
+请	稍	等	，	我	查	一下	有	哪个	航班	有	票	。
+v	d	u	wp	r	v	m	v	r	n	v	n	wp
+ADV	ADV	VOB	WP	SBV	HED	CMP	VOB	ATT	SBV	VOB	VOB	WP
+6	3	1	1	6	0	6	6	10	11	8	11	6
+
+呃	，	我	想	乘	经济舱	，	并且	最好	是	早晨	。
+o	wp	r	v	v	n	wp	c	d	v	nt	wp
+IS	WP	SBV	ADV	HED	VOB	WP	CNJ	ADV	IC	VOB	WP
+5	1	5	5	0	5	5	10	10	5	10	10
+
+汉莎	航班	ＬＨ二零三	班机	有	票	，	九点二十	起飞	。
+nh	n	m	n	v	n	wp	m	v	wp
+ATT	SBV	QUN	SBV	HED	VOB	WP	ADV	VOB	WP
+2	5	4	5	0	5	5	9	5	5
+
+啊	，	那	我	该	什么	时候	到	那儿	呢	？
+e	wp	r	r	r	r	i	v	r	u	wp
+IS	WP	CNJ	SBV	ADV	ATT	ADV	HED	VOB	MT	WP
+8	1	7	7	7	7	8	0	8	8	8
+
+机场	班车	七点四十五	开往	机场	。
+n	n	m	p	n	wp
+ATT	SBV	QUN	HED	POB	WP
+2	3	4	0	4	4
+
+嗯	，	好	的	，	我	记	下	了	。
+e	wp	a	u	wp	r	v	v	u	wp
+IS	WP	IS	MT	WP	SBV	HED	CMP	MT	WP
+7	1	7	3	3	7	0	7	7	7
+
+嗨	，	联合	航空公司	吗	？
+e	wp	v	i	u	wp
+IS	WP	HED	VOB	MT	WP
+3	1	0	3	3	3
+
+我	是	伊丽莎白·帕克斯	。
+r	v	nz	wp
+SBV	HED	VOB	WP
+2	0	2	2
+
+您	好	。
+r	i	wp
+SBV	HED	WP
+2	0	2
+
+我	有	一	张	今天	下午	三点	去	上海	的	预订	票	。
+r	v	m	q	n	n	n	v	ns	u	v	n	wp
+SBV	HED	QUN	ATT	VOB	ATT	VOB	DE	VOB	ATT	ATT	VOB	WP
+2	0	4	5	2	7	2	10	8	12	12	2	2
+
+是	的	，	帕克斯	女士	？
+v	u	wp	nh	n	wp
+IS	MT	WP	ATT	HED	WP
+4	1	1	5	0	5
+
+需要	我	帮	什么	忙	？
+v	r	v	r	a	wp
+HED	SBV	IC	ATT	VOB	WP
+0	3	1	5	3	1
+
+呃	，	是	这样	的	，	我	想	把	我	的	航班	呢	调成	明天	早上	十点	的	，	可以	吗	？
+o	wp	v	r	u	wp	r	v	p	r	u	n	u	v	n	n	n	u	wp	v	u	wp
+IS	WP	HED	DE	MT	WP	SBV	IC	ADV	DE	ATT	SBV	MT	POB	ATT	ATT	VOB	MT	WP	VV	MT	WP
+3	1	0	5	3	3	8	3	20	11	12	14	12	9	16	17	14	17	14	8	20	8
+
+实在	抱歉	，	帕克斯	女士	。
+d	a	wp	nh	n	wp
+ADV	HED	WP	ATT	IC	WP
+2	0	2	5	2	2
+
+十点	那	趟	机	全部	订	满	了	。
+nt	r	q	n	m	v	a	u	wp
+ATT	ATT	ATT	SBV	SBV	HED	CMP	MT	WP
+4	3	4	5	6	0	6	6	6
+
+哦	，	真	不	凑巧	，	那	可	怎么	办	呀	？
+e	wp	d	d	a	wp	r	v	d	r	u	wp
+IS	WP	ADV	ADV	ADV	WP	SBV	HED	ADV	VOB	MT	WP
+8	1	5	5	8	5	8	0	10	8	8	8
+
+这样	吧	，	如果	您	愿意	，	我	可以	把	您	排在	等候	名单	上	。
+r	u	wp	c	r	v	wp	r	v	p	r	v	v	n	nd	wp
+ADV	MT	WP	CNJ	SBV	HED	WP	SBV	ADV	ADV	POB	ADV	ATT	ATT	VOB	WP
+6	1	1	6	6	0	6	12	12	12	10	13	15	15	6	6
+
+嗯	，	那	好	吧	，	谢谢	您	。
+e	wp	r	a	u	wp	v	r	wp
+IS	WP	SBV	IS	MT	WP	HED	VOB	WP
+7	1	4	7	4	4	0	7	8
+
+不	客气	，	再见	。
+d	a	wp	v	wp
+ADV	IS	WP	HED	WP
+2	4	2	0	4
+
+您	好	，	请	问	号码	是	多少	？
+r	i	wp	v	v	n	v	r	wp
+SBV	IS	WP	ADV	HED	VOB	VOB	VOB	WP
+2	5	2	5	0	5	5	7	5
+
+七四六五五	，	我	要	挂	个	Ａ	，	Ｄ	，	Ｃ	传	个人	，	挂	零幺四八六二四三五	。
+m	wp	r	v	v	q	ws	wp	ws	wp	ws	v	n	wp	v	m	wp
+IS	WP	SBV	ADV	HED	VOB	VOB	WP	VOB	WP	SBV	VV	VOB	WP	VV	VOB	WP
+5	1	5	5	0	5	5	5	5	9	12	9	12	12	12	15	5
+
+啊	，	你	要	通话	的	人	叫	什么	名字	？
+e	wp	r	v	v	u	n	v	r	n	wp
+IS	WP	SBV	HED	DE	ATT	SBV	VOB	ATT	VOB	WP
+4	1	4	0	6	7	8	4	10	8	4
+
+苏姗·格林	小姐	。
+nh	n	wp
+ATT	HED	WP
+2	0	2
+
+啊	，	您	用	的	电话	是	什么	号码	？
+e	wp	r	v	u	n	v	r	n	wp
+IS	WP	SBV	DE	ATT	SBV	HED	ATT	VOB	WP
+4	1	4	5	6	7	0	9	7	7
+
+布赖顿	幺幺八六五	。
+ns	ns	wp
+ATT	HED	WP
+2	0	2
+
+好	的	，	请	稍	等	。
+a	u	wp	v	d	u	wp
+IS	MT	WP	ADV	ADV	HED	WP
+6	1	1	6	6	0	6
+
+喂	，	你	是	柜台	吗	？
+e	wp	r	v	n	u	wp
+IS	WP	SBV	HED	VOB	MT	WP
+4	1	4	0	4	4	4
+
+请	给	我	挂	天津	长途	电话	。
+v	p	r	v	ns	n	i	wp
+ADV	ADV	POB	HED	ATT	SBV	VOB	WP
+4	4	2	0	6	7	4	7
+
+好	，	你	先	在	房间	里	等	，	不能	离开	，	一	拨通	我	告诉	您	啊	。
+a	wp	r	d	p	n	nd	u	wp	v	v	wp	d	v	r	v	r	u	wp
+IS	WP	SBV	ADV	HED	ATT	POB	IS	WP	ADV	POB	WP	ADV	IC	SBV	IC	VOB	MT	WP
+5	1	5	5	0	7	5	11	8	11	5	11	14	11	16	14	16	16	14
+
+啊	，	接到	你	的	电话	好	高兴	啦	。
+e	wp	v	r	u	n	a	a	u	wp
+IS	WP	HED	DE	ATT	VOB	MT	CMP	MT	WP
+3	1	0	5	6	3	3	7	7	3
+
+可是	电话费	你	得	交	。
+c	n	r	u	v	wp
+CNJ	SBV	SBV	ADV	HED	WP
+5	5	5	5	0	5
+
+嗯	，	可以	，	我	先	拨	完	电话	再	交	行	不	？
+e	wp	v	wp	r	d	v	v	n	d	v	j	d	wp
+IS	WP	IS	WP	SBV	ADV	HED	CMP	VOB	ADV	VV	VOB	VOB	WP
+7	1	7	3	7	7	0	7	7	11	7	11	11	7
+
+行	。
+v	wp
+HED	WP
+0	1
+
+时间	不	早	了	，	打	完	这个	我	还	想	打	一个	，	请	问	可不可以	借	电话	给	我	打	一下儿	呢	？
+n	d	a	u	wp	v	v	r	r	d	v	v	m	wp	v	v	v	v	n	p	r	v	m	u	wp
+SBV	ADV	HED	MT	WP	ADV	CMP	ATT	SBV	ADV	ADV	IC	VOB	WP	ADV	VOB	VOB	VOB	VOB	ADV	POB	IC	CMP	MT	WP
+3	3	0	3	3	12	6	12	12	12	12	3	12	12	16	12	16	16	18	22	20	18	22	22	12
+
+随便	打	啦	，	先生	。
+a	v	u	wp	n	wp
+ADV	HED	MT	WP	IS	WP
+2	0	2	2	2	2
+
+打	外线	，	这里	是	怎样	打	呢	？
+v	n	wp	r	v	r	v	u	wp
+IS	VOB	WP	SBV	HED	SBV	VOB	MT	WP
+5	1	1	5	0	7	5	7	5
+
+先生	，	先	拔	个	零	然后	拨号	就	行	了	。
+n	wp	d	v	q	m	c	v	d	a	u	wp
+IS	WP	ADV	HED	ATT	VOB	CNJ	SBV	ADV	IC	MT	WP
+4	1	4	0	6	4	8	10	10	4	10	4
+
+嗯	，	好	的	，	谢谢	。
+e	wp	a	u	wp	v	wp
+IS	WP	HED	MT	WP	IS	WP
+3	1	0	3	3	3	3
+
+喂	，	哪里	呀	，	是	广朔	保险	公司	吗	，	请	您	给	我	找	王经理	听	电话	吧	。
+e	wp	r	u	wp	v	j	n	i	u	wp	v	r	p	r	v	nh	v	n	u	wp
+IS	WP	SBV	MT	WP	ADV	ATT	SBV	HED	MT	WP	ADV	SBV	ADV	POB	IC	VOB	VV	VOB	MT	WP
+9	1	9	3	3	9	8	9	0	9	9	16	16	16	14	9	16	16	18	18	16
+
+喂	，	王经理	在	那边	开会	，	不能	离开	，	半	个	小时	再	打	行	吗	？
+v	wp	nh	p	r	v	wp	v	v	wp	m	q	n	d	v	v	u	wp
+IS	WP	SBV	ADV	POB	HED	WP	ADV	VOB	WP	QUN	ATT	SBV	ADV	IC	CMP	MT	WP
+6	1	6	6	4	0	6	9	6	9	12	13	15	15	9	15	15	6
+
+呃	，	可是	我	有	急	事儿	呀	。
+o	wp	c	r	v	a	n	u	wp
+IS	WP	CNJ	SBV	HED	ATT	VOB	MT	WP
+5	1	5	5	0	7	5	5	5
+
+那	叫	张主任	听	电话	行	吗	？
+r	v	nh	v	n	v	u	wp
+SBV	HED	VOB	VOB	VOB	IC	MT	WP
+2	0	2	2	4	4	6	2
+
+你	认识	吗	？
+r	v	u	wp
+SBV	HED	MT	WP
+2	0	2	2
+
+嗨	，	张主任	是	我	的	老	战友	，	不会	有	麻烦	的	。
+e	wp	nh	v	r	u	a	n	wp	v	v	a	u	wp
+IS	WP	SBV	HED	DE	ATT	ATT	VOB	WP	ADV	VOB	CMP	MT	WP
+3	1	4	0	6	8	8	4	4	11	4	11	11	4
+
+我	的确是	有	急	事儿	。
+r	v	v	a	n	wp
+SBV	HED	VOB	ATT	VOB	WP
+2	0	2	5	3	2
+
+好	，	您	先	等	一会儿	，	我	给	您	转到	他	办公室	去	。
+a	wp	r	d	u	m	wp	r	p	r	v	r	n	v	wp
+IS	WP	SBV	ADV	HED	VOB	WP	SBV	ADV	POB	IC	ATT	POB	IC	WP
+5	1	5	5	0	5	5	14	14	9	9	13	9	5	5
+
+太	感谢	您	啦	。
+d	v	r	u	wp
+ADV	HED	VOB	MT	WP
+2	0	2	2	2
+
+呃	，	请	问	您	要	的	号码	是	多少	？
+o	wp	v	v	r	v	u	n	v	r	wp
+IS	WP	ADV	HED	ATT	DE	ATT	SBV	VOB	VOB	WP
+4	1	4	0	8	7	8	9	4	9	4
+
+给	我	接	卢顿	幺二五零七	，	请	挂	个	传	个人	的	。
+p	r	v	nh	nh	wp	v	v	q	v	n	u	wp
+ADV	POB	HED	VOB	VOB	WP	ADV	VV	VOB	VOB	VOB	MT	WP
+3	1	0	3	3	3	8	3	8	8	10	10	3
+
+呃	，	请	问	您	要	通话	人	的	名字	？
+o	wp	v	v	r	v	v	n	u	n	wp
+IS	WP	ADV	HED	SBV	ADV	DE	DE	ATT	VOB	WP
+4	1	4	0	7	7	9	9	10	4	4
+
+出口业务	经理	。
+i	n	wp
+ATT	HED	WP
+2	0	2
+
+啊	，	好	的	，	您	从	哪儿	打	来	？
+e	wp	a	u	wp	r	p	r	v	v	wp
+IS	WP	IS	MT	WP	SBV	ADV	POB	HED	VOB	WP
+9	1	9	3	3	9	9	7	0	9	9
+
+贝尔法斯特	七四五二零	。
+ns	i	wp
+SBV	HED	WP
+2	0	2
+
+啊	，	我	这	就	给	您	挂	过去	。
+e	wp	r	r	d	p	r	v	v	wp
+IS	WP	ATT	SBV	ADV	ADV	POB	HED	VOB	WP
+8	1	4	8	8	8	6	0	8	8
+
+啊	，	您	号码	是	多少	？
+e	wp	r	n	v	r	wp
+IS	WP	ATT	SBV	HED	VOB	WP
+5	1	4	5	0	5	5
+
+挂	个	贝德福	六四五九三二	传	个人	的	电话	。
+v	q	nh	m	v	n	u	n	wp
+HED	ATT	VOB	QUN	DE	DE	ATT	VOB	WP
+0	3	1	8	7	7	8	1	1
+
+啊	，	您	叫	谁	听	电话	？
+e	wp	r	v	r	v	n	wp
+IS	WP	SBV	HED	SBV	VOB	VOB	WP
+4	1	4	0	6	4	6	4
+
+叫	什么	名字	倒	不	太	清楚	，	但	住	的	是	二幺幺	房间	。
+v	r	n	d	d	d	a	wp	c	v	u	v	m	n	wp
+ADV	ATT	VOB	ADV	ADV	ADV	HED	WP	CNJ	DE	SBV	IC	QUN	VOB	WP
+7	3	1	7	7	7	0	7	10	11	12	7	14	12	12
+
+噢	，	那	请	问	您	住	的	电话局	和	您	的	号码	？
+e	wp	r	v	v	r	v	u	n	c	r	u	n	wp
+IS	WP	SBV	ADV	HED	SBV	VOB	CMP	VOB	LAD	DE	ATT	VOB	WP
+5	1	5	5	0	7	5	7	5	13	12	13	5	5
+
+斯旺西	六六九三二	。
+nh	m	wp
+ATT	HED	WP
+2	0	2
+
+好	的	，	您	听	好	了	。
+a	u	wp	r	v	a	u	wp
+IS	MT	WP	SBV	HED	CMP	MT	WP
+5	1	1	5	0	5	5	5
+
+啊	，	孙先生	，	对不起	让	您	久	等	了	。
+e	wp	nh	wp	v	v	r	a	u	u	wp
+IS	WP	IS	WP	ADV	HED	VOB	VOB	VOB	MT	WP
+6	1	6	3	6	0	6	6	6	6	6
+
+您	好	吗	？
+r	i	u	wp
+SBV	HED	MT	WP
+2	0	2	2
+
+谢谢	您	，	我	很	好	。
+v	r	wp	r	d	v	wp
+IS	VOB	WP	SBV	ADV	HED	WP
+6	1	1	6	6	0	6
+
+您	好	吗	，	约翰逊	先生	。
+r	i	u	wp	nh	n	wp
+SBV	HED	MT	WP	ATT	IS	WP
+2	0	2	2	6	2	6
+
+哎	，	我	很	好	，	谢谢	。
+e	wp	r	d	v	wp	v	wp
+IS	WP	SBV	ADV	HED	WP	IS	WP
+5	1	5	5	0	5	5	5
+
+呃	，	孙先生	，	您	有	什么	事儿	吗	？
+o	wp	nh	wp	r	v	r	n	u	wp
+IS	WP	IS	WP	SBV	HED	ATT	VOB	MT	WP
+6	1	6	3	6	0	8	6	6	6
+
+嗯	，	是	这样	。
+e	wp	v	r	wp
+IS	WP	HED	VOB	WP
+3	1	0	3	3
+
+我们	总经理	刘先生	想	在	下个	星期	和	您	见	个	面	。
+r	n	nh	v	p	v	n	c	r	v	q	n	wp
+ATT	SBV	SBV	ADV	ADV	POB	VOB	LAD	SBV	HED	ATT	VOB	WP
+2	4	4	10	10	5	6	10	10	0	12	10	10
+
+啊	，	没	问题	。
+e	wp	v	n	wp
+IS	WP	HED	VOB	WP
+3	1	0	3	3
+
+我	也	正	想	跟	他	见面	呢	！
+r	d	d	v	p	r	v	u	wp
+SBV	ADV	ADV	HED	ADV	POB	VOB	MT	WP
+4	4	4	0	7	5	4	7	4
+
+您	刚才	说	是	下	个	星期	是	吗	？
+r	nt	v	v	nd	q	n	v	u	wp
+SBV	ADV	HED	VOB	ATT	ATT	VOB	VOB	MT	WP
+3	3	0	3	7	7	3	3	8	3
+
+是	的	。	您	下	周一	或	周二	有	空	吗	？
+v	u	wp	r	n	nt	c	nt	v	a	u	wp
+IS	MT	WP	ATT	SBV	ADV	CNJ	COO	HED	CMP	MT	WP
+9	1	1	5	9	9	8	6	0	9	9	9
+
+嗯	，	我	看	看	。
+e	wp	r	v	v	wp
+IS	WP	SBV	HED	VOB	WP
+4	1	4	0	4	4
+
+下	周一	一整天	有	会	。
+n	nt	nt	v	v	wp
+SBV	ATT	ADV	HED	VOB	WP
+4	3	4	0	4	4
+
+不过	下	周二	下午	都	有	空	。
+c	n	n	nt	d	v	a	wp
+CNJ	ATT	SBV	ADV	ADV	HED	VOB	WP
+6	3	6	6	6	0	6	6
+
+那么	就	定	在	周二	下午	行	吗	？
+c	d	v	p	n	nh	v	u	wp
+CNJ	ADV	HED	ADV	ATT	POB	VOB	MT	WP
+3	3	0	7	6	4	3	7	3
+
+嗯	，	好	的	，	没	问题	。
+e	wp	a	u	wp	v	n	wp
+IS	WP	IS	MT	WP	HED	VOB	WP
+6	1	6	3	3	0	6	6
+
+那么	几	点	钟	呢	？
+r	m	q	n	u	wp
+ATT	QUN	ATT	HED	MT	WP
+4	3	4	0	4	4
+
+嗯	，	我	这边儿	两	点	以后	任何	时间	都	行	。
+e	wp	r	r	m	q	nd	r	n	d	a	wp
+IS	WP	ATT	ATT	QUN	ATT	ATT	ATT	SBV	ADV	HED	WP
+11	1	7	7	6	7	9	9	11	11	0	11
+
+嗯	，	两点半	行	吗	？
+e	wp	m	q	u	wp
+IS	WP	QUN	HED	MT	WP
+4	1	4	0	4	4
+
+可以	，	两点半	对	我	来说	正	合适	。
+v	wp	m	p	r	u	d	a	wp
+IS	WP	SBV	ADV	POB	MT	ADV	HED	WP
+8	1	8	8	4	4	8	0	8
+
+那	我们	下	周二	下午	两点半	到	您	的	办公室	。
+r	r	n	n	nt	m	v	r	u	n	wp
+ATT	ATT	ATT	SBV	ATT	ADV	HED	DE	ATT	VOB	WP
+3	3	4	7	6	7	0	9	10	7	7
+
+好	的	，	我	将	恭候	你们	。
+a	u	wp	r	d	v	r	wp
+IS	MT	WP	SBV	ADV	HED	VOB	WP
+6	1	1	6	6	0	6	6
+
+谢谢	，	再见	。
+v	wp	v	wp
+IS	WP	HED	WP
+3	1	0	3
+
+再见	。
+v	wp
+HED	WP
+0	1
+
+喂	，	克林顿	先生	。
+e	wp	nh	n	wp
+IS	WP	ATT	HED	WP
+3	1	4	0	4
+
+是	我	，	李明	。
+v	r	wp	nh	wp
+HED	VOB	WP	VOB	WP
+0	1	1	1	1
+
+你	好	。	李明	。
+v	i	wp	nh	wp
+HED	VOB	WP	VOB	WP
+0	1	1	1	1
+
+呃	，	今天	晚上	有	舞蹈	演出	，	您	想	去	吗	？
+o	wp	n	i	v	n	v	wp	r	v	v	u	wp
+IS	WP	SBV	SBV	HED	VOB	VV	WP	SBV	ADV	IC	MT	WP
+5	1	4	5	0	5	5	7	11	11	7	11	5
+
+这	正	是	我	想	看	的	。
+r	d	v	r	v	v	u	wp
+SBV	ADV	HED	SBV	ADV	VOB	MT	WP
+3	3	0	6	6	3	6	3
+
+什么	时间	？
+r	n	wp
+ATT	HED	WP
+2	0	2
+
+晚上	七点	。
+n	i	wp
+SBV	HED	WP
+2	0	2
+
+太	好	啦	。
+d	a	u	wp
+ADV	HED	MT	WP
+2	0	2	2
+
+离	这儿	远	吗	？
+v	r	a	u	wp
+ADV	SBV	HED	MT	WP
+3	3	0	3	3
+
+嗯	，	有点儿	远	。
+e	wp	d	a	wp
+IS	WP	ADV	HED	WP
+4	1	4	0	4
+
+我	怎么	去	？
+r	r	v	wp
+SBV	ADV	HED	WP
+3	3	0	3
+
+我	六点半	去	接	您	吧	。
+r	m	v	v	r	u	wp
+SBV	IS	ADV	HED	VOB	MT	WP
+4	4	4	0	4	4	4
+
+那	太	好	啦	。
+r	d	a	u	wp
+SBV	ADV	HED	MT	WP
+3	3	0	3	3
+
+六点半	见	。
+m	v	wp
+ADV	HED	WP
+2	0	2
+
+再见	。
+v	wp
+HED	WP
+0	1
+
+喂	，	赵小姐	在	吗	？
+v	wp	nh	p	u	wp
+IS	WP	SBV	HED	MT	WP
+4	1	4	0	4	4
+
+我	就	是	，	请	问	你	是	谁	？
+r	d	v	wp	d	v	r	v	r	wp
+SBV	ADV	IS	WP	ADV	HED	VOB	VOB	VOB	WP
+3	3	6	3	6	0	6	6	6	6
+
+啊	，	你	好	，	赵艳	。
+e	wp	n	i	wp	nh	wp
+IS	WP	SBV	IS	WP	HED	WP
+6	1	4	6	4	0	6
+
+我	是	刘伶	。
+r	v	nh	wp
+SBV	HED	VOB	WP
+2	0	2	2
+
+你	好	，	刘伶	。
+r	i	wp	nh	wp
+SBV	IS	WP	HED	WP
+2	4	2	0	4
+
+你	在	哪儿	打	电话	？
+r	p	r	v	n	wp
+SBV	ADV	POB	HED	VOB	WP
+4	4	2	0	4	4
+
+我	刚	到	北京	，	想	尽快	见到	你	。
+r	d	v	ns	wp	v	d	v	r	wp
+SBV	ADV	HED	VOB	WP	ADV	ADV	VOB	VOB	WP
+3	3	0	3	3	8	8	3	8	3
+
+我	也	想	尽快	见到	你	。
+r	d	v	d	v	r	wp
+SBV	ADV	ADV	ADV	HED	VOB	WP
+3	3	5	5	0	5	5
+
+你	住	哪	家	宾馆	？
+r	v	r	q	n	wp
+SBV	HED	ATT	ATT	VOB	WP
+2	0	4	5	2	2
+
+嗯	，	我	住在	友谊宾馆	三三九九号	房间	。
+e	wp	r	v	n	m	n	wp
+IS	WP	SBV	HED	VOB	QUN	VOB	WP
+4	1	4	0	4	7	4	4
+
+好	吧	，	我	今晚	八点	来	看	你	，	行	吗	？
+a	u	wp	r	n	i	v	v	r	wp	v	u	wp
+IS	MT	WP	ATT	ADV	ADV	ADV	HED	VOB	WP	MT	MT	WP
+8	1	1	5	8	8	8	0	8	8	8	11	8
+
+好	的	，	我	等	你	，	再见	。
+a	u	wp	r	u	r	wp	v	wp
+IS	MT	WP	SBV	HED	VOB	WP	IS	WP
+5	1	1	5	0	5	5	5	5
+
+再见	。
+v	wp
+HED	WP
+0	1
+
+喂	，	老板	你	好	，	给	我	送	份儿	快餐	。
+e	wp	n	r	i	wp	p	r	v	n	n	wp
+IS	WP	SBV	SBV	IS	WP	ADV	POB	HED	ATT	VOB	WP
+9	1	9	5	9	5	9	7	0	11	9	9
+
+好	的	，	我们	这里	快餐	种类	很	多	，	您	要	什么	价位	的	？
+a	u	wp	r	r	n	n	d	a	wp	r	v	r	n	u	wp
+IS	MT	WP	ATT	ATT	ATT	SBV	ADV	IS	WP	SBV	HED	ATT	VOB	MT	WP
+12	1	1	6	6	7	9	9	12	9	12	0	14	12	12	12
+
+我	要	十	块	钱	以内	的	。
+r	v	m	q	n	nd	u	wp
+SBV	HED	QUN	ATT	ATT	DE	VOB	WP
+2	0	4	5	6	7	2	2
+
+好	，	您	来	份儿	什么	饭	？
+a	wp	r	v	n	r	n	wp
+IS	WP	SBV	HED	VOB	ATT	VOB	WP
+4	1	4	0	4	7	4	4
+
+呃	，	麻辣	豆腐	，	多	放	辣	的	。
+o	wp	a	n	wp	a	v	a	u	wp
+IS	WP	ATT	HED	WP	ADV	COO	CMP	MT	WP
+3	1	4	0	4	7	4	7	7	7
+
+好	的	，	五	块	钱	，	您	贵	姓	？
+a	u	wp	m	q	n	wp	r	a	n	wp
+IS	MT	WP	QUN	ATT	HED	WP	ATT	ATT	COO	WP
+6	1	1	5	6	0	6	10	10	6	6
+
+住	哪儿	？
+v	r	wp
+HED	VOB	WP
+0	1	1
+
+呃	，	姓	王	，	南岗区	和兴	路	幺九幺	号	四零幺	室	。
+o	wp	v	nh	wp	ns	v	n	nh	v	nh	n	wp
+IS	WP	HED	VOB	WP	ATT	ATT	ATT	SBV	VOB	ATT	VOB	WP
+3	1	0	3	3	8	8	9	10	3	12	10	3
+
+好	的	，	王先生	，	多	加	辣	。
+a	u	wp	nh	wp	a	v	a	wp
+HED	MT	WP	IS	WP	ADV	SBV	CMP	WP
+0	1	1	7	4	7	8	1	1
+
+十	分钟	之后	送到	。
+m	q	nd	v	wp
+QUN	ATT	ADV	HED	WP
+2	3	4	0	4
+
+请	您	提前	准备	好	零钱	，	我们	会	准时	送到	，	再见	。
+v	r	v	v	a	n	wp	r	v	a	v	wp	v	wp
+HED	SBV	ADV	VOB	ATT	VOB	WP	SBV	ADV	ADV	VOB	WP	IS	WP
+0	4	4	1	6	4	1	11	11	11	1	11	11	1
+
+您	好	，	订	点儿	外卖	。
+r	i	wp	v	q	v	wp
+SBV	IS	WP	HED	CMP	VOB	WP
+2	4	2	0	4	4	4
+
+你	好	，	欢迎	光临	，	请	问	你	需要	点儿	什么	？
+r	i	wp	v	v	wp	d	v	r	v	q	r	wp
+SBV	IS	WP	ADV	VOB	WP	ADV	HED	VOB	VOB	ATT	VOB	WP
+2	8	2	8	4	4	8	0	8	8	12	10	8
+
+明天	早晨	六点	请	你	准时	送	如下	早餐	到达	指定	地点	。
+n	n	nh	v	r	a	v	v	n	v	v	i	wp
+ATT	SBV	SBV	HED	SBV	ADV	VOB	CMP	VOB	VOB	VOB	VOB	WP
+2	3	4	0	7	7	4	7	7	7	10	11	4
+
+好	的	，	您	说	，	我	记	一下	。
+a	u	wp	r	v	wp	r	v	m	wp
+IS	MT	WP	SBV	HED	WP	SBV	VOB	CMP	WP
+5	1	1	5	0	5	8	5	8	5
+
+呃	，	三	个	烧饼	，	三	碗	豆腐脑儿	，	外加	三	杯	牛奶	和	三	个	麦当劳	。
+o	wp	q	m	n	wp	m	q	n	wp	v	m	q	n	c	m	q	nz	wp
+IS	WP	ATT	QUN	HED	WP	QUN	ATT	VOB	WP	ATT	QUN	ATT	COO	LAD	QUN	ATT	COO	WP
+3	1	4	5	0	5	8	9	5	9	14	13	14	9	18	17	18	14	5
+
+送到	花园小区	六号楼	四单元	六	楼	西门	，	谢谢	！
+v	ns	ns	n	m	n	n	wp	v	wp
+HED	VOB	ATT	VOB	QUN	ATT	VOB	WP	IS	WP
+0	1	4	1	6	7	1	1	1	1
+
+好	的	，	我	输入	电脑	了	，	啊	，	你	家	三	口	人	胃口	不错	呀	，	早晨	就	能	吃	这么	多	！
+a	u	wp	r	v	n	u	wp	u	wp	r	n	m	q	n	n	a	u	wp	nt	d	v	v	d	a	wp
+IS	MT	WP	SBV	HED	VOB	MT	WP	MT	WP	ATT	ATT	QUN	ATT	ATT	SBV	IC	MT	WP	ADV	ADV	ADV	IC	ADV	VOB	WP
+5	1	1	5	0	5	5	5	5	5	12	15	14	15	16	17	5	17	17	23	23	23	17	25	23	17
+
+什么	三	口	人	呀	，	我	四	个	孩子	呢	。
+r	m	q	n	u	wp	r	m	q	n	u	wp
+ATT	QUN	ATT	ATT	MT	WP	ATT	QUN	ATT	HED	MT	WP
+4	3	4	10	4	4	10	9	10	0	10	10
+
+你	看	看	还	多	吗	？
+r	v	v	d	a	u	wp
+SBV	ADV	HED	ADV	CMP	MT	WP
+3	3	0	5	3	3	3
+
+开	句	玩笑	，	不	多	，	不	多	，	正	好儿	，	放心	吧	，	明天	一早儿	我	保证	送到	。
+v	q	n	wp	d	a	wp	d	a	wp	d	n	wp	v	u	wp	n	n	r	v	v	wp
+IS	ATT	VOB	WP	ADV	HED	WP	ADV	IC	WP	ADV	IC	WP	IC	MT	WP	ATT	SBV	SBV	IC	VOB	WP
+6	3	1	1	6	0	6	9	6	9	12	9	6	6	14	6	18	20	20	6	20	20
+
+给	您	，	这	是	订餐	钱	。
+p	r	wp	r	v	v	n	wp
+ADV	POB	WP	SBV	HED	VOB	VOB	WP
+5	1	1	5	0	5	5	5
+
+这	是	找	您	的	钱	，	请	收	好	。
+r	v	v	r	u	n	wp	v	v	a	wp
+SBV	ADV	HED	DE	ATT	VOB	WP	VV	CMP	CMP	WP
+3	3	0	5	6	3	3	3	8	8	3
+
+好	的	，	再见	。
+a	u	wp	v	wp
+IS	MT	WP	HED	WP
+4	1	1	0	4
+
+再见	，	欢迎	下次	再	来	。
+v	wp	v	nt	d	v	wp
+IS	WP	HED	ADV	ADV	VV	WP
+3	1	0	6	6	3	3
+
+您	好	，	八戒	外卖	。
+r	i	wp	nz	v	wp
+SBV	IS	WP	SBV	HED	WP
+2	5	2	5	0	5
+
+您	好	。	我	要	三	份儿	米粉	，	一份儿	猪肉	的	，	一份儿	牛肉	的	，	一份儿	三鲜	的	。
+r	i	wp	r	v	m	q	n	wp	m	n	u	wp	m	n	u	wp	n	a	u	wp
+SBV	IS	WP	SBV	HED	QUN	ATT	VOB	WP	QUN	DE	ATT	WP	QUN	COO	RAD	WP	SBV	COO	MT	WP
+2	5	2	5	0	7	8	5	8	11	12	15	12	15	8	15	15	19	15	19	5
+
+呃	，	好	的	，	是	要	大	份儿	还是	小	份儿	？
+o	wp	a	u	wp	v	v	a	n	c	a	n	wp
+IS	WP	IS	MT	WP	ADV	HED	ATT	VOB	CNJ	ATT	COO	WP
+7	1	7	3	3	7	0	9	7	12	12	9	7
+
+大	的	七	块	钱	，	小	的	五	块	钱	。
+a	u	m	q	n	wp	a	u	m	q	n	wp
+DE	ATT	QUN	ATT	HED	WP	DE	ATT	QUN	ATT	VOB	WP
+2	5	4	5	0	5	8	11	10	11	5	5
+
+小	的	就	可以	了	。
+a	u	d	v	u	wp
+DE	SBV	ADV	HED	MT	WP
+2	4	4	0	4	4
+
+啊	，	那	要不要	加	辣子	？
+e	wp	r	n	v	n	wp
+IS	WP	ATT	SBV	HED	VOB	WP
+5	1	4	5	0	5	5
+
+微	辣	就	可以	。
+d	a	d	v	wp
+ADV	SBV	ADV	HED	WP
+2	4	4	0	4
+
+呃	，	好	的	。
+o	wp	a	u	wp
+IS	WP	HED	MT	WP
+3	1	0	3	3
+
+请	问	您	贵	姓	？
+d	v	r	a	n	wp
+ADV	HED	ATT	ATT	VOB	WP
+2	0	5	5	2	2
+
+要	送到	哪里	？
+v	v	r	wp
+ADV	HED	VOB	WP
+2	0	2	3
+
+免	贵	姓	李	，	送到	东风	路	粤海大厦	一号楼	五零幺	房间	。
+v	a	n	nh	wp	v	nz	n	nz	n	m	n	wp
+IS	ATT	VOB	VOB	WP	HED	ATT	ATT	ATT	VOB	QUN	VOB	WP
+6	3	1	1	1	0	8	10	10	6	12	10	6
+
+对	了	，	配	菜	能不能	不要	放	蒜	和	葱	啊	？
+p	u	wp	v	n	n	d	v	n	c	n	u	wp
+IS	MT	WP	DC	ATT	VOB	ADV	HED	VOB	LAD	COO	MT	WP
+8	1	1	8	6	4	8	0	8	11	9	8	8
+
+啊	，	当然	可以	。
+e	wp	d	v	wp
+IS	WP	ADV	HED	WP
+4	1	4	0	4
+
+李小姐	还	想	要	什么	配	菜	？
+nh	d	v	v	r	v	n	wp
+IS	ADV	ADV	HED	ATT	VOB	VOB	WP
+4	4	4	0	6	4	6	4
+
+随便	，	只要	不是	这	两	样	就	行	。
+a	wp	c	v	r	m	q	d	a	wp
+IS	WP	CNJ	HED	ATT	QUN	SBV	ADV	IC	WP
+4	1	4	0	7	7	9	9	4	9
+
+嗯	，	好	的	。
+e	wp	a	u	wp
+IS	WP	HED	MT	WP
+3	1	0	3	3
+
+我们	会	很快	送	过去	。
+r	v	d	v	v	wp
+SBV	ADV	ADV	HED	VOB	WP
+4	4	4	0	4	4
+
+再见	。
+v	wp
+HED	WP
+0	1
+
+您	好	，	请	问	您	要	订餐	吗	？
+r	i	wp	d	v	r	v	v	u	wp
+SBV	IS	WP	ADV	HED	SBV	ADV	VOB	MT	WP
+2	5	2	5	0	8	8	5	8	5
+
+是	的	，	请	问	你们	那儿	有	什么	粥	卖	吗	？
+v	u	wp	d	v	r	r	v	r	n	v	u	wp
+IS	MT	WP	ADV	HED	ATT	SBV	VOB	ATT	VOB	VOB	MT	WP
+5	1	1	5	0	7	8	5	10	8	8	11	5
+
+啊	，	有	。
+e	wp	v	wp
+IS	WP	HED	WP
+3	1	0	3
+
+不	知道	您	想	要	什么	粥	？
+v	n	r	v	v	r	n	wp
+ATT	SBV	SBV	ADV	HED	ATT	VOB	WP
+2	5	5	5	0	7	5	5
+
+你们	有	什么	粥	啊	？
+r	v	r	n	u	wp
+SBV	HED	ATT	VOB	MT	WP
+2	0	4	2	2	2
+
+啊	，	有	白粥	，	猪肝	粥	，	瘦肉	粥	，	皮蛋	粥	。
+e	wp	v	n	wp	n	n	wp	n	n	wp	n	n	wp
+IS	WP	HED	VOB	WP	ATT	VOB	WP	ATT	COO	WP	ATT	COO	WP
+3	1	0	3	3	7	3	7	10	7	10	13	7	3
+
+嗯	，	皮蛋瘦肉粥	多少	钱	一份儿	？
+e	wp	n	r	n	n	wp
+IS	WP	ATT	ATT	HED	VOB	WP
+5	1	5	5	0	5	5
+
+啊	，	瘦肉	粥	五	块	钱	一份儿	，	加	一个	皮蛋	一块钱	，	总共	六	块	钱	。
+e	wp	n	n	m	q	n	n	wp	v	m	n	n	wp	d	m	q	n	wp
+IS	WP	ATT	ATT	QUN	ATT	ATT	HED	WP	ATT	QUN	ATT	VOB	WP	ATT	QUN	ATT	VOB	WP
+7	1	4	7	6	7	8	0	8	18	12	13	10	10	18	17	18	8	8
+
+那	就	要	一份儿	皮蛋瘦肉粥	。
+r	d	d	m	n	wp
+SBV	ADV	HED	QUN	VOB	WP
+2	3	0	5	3	3
+
+记得	帮	我	把	粥	熬	烂	一点儿	。
+v	v	r	p	n	v	a	m	wp
+ADV	HED	SBV	ADV	POB	VOB	CMP	CMP	WP
+2	0	6	6	4	2	6	7	2
+
+啊	，	没	问题	。
+e	wp	v	n	wp
+IS	WP	HED	VOB	WP
+3	1	0	3	3
+
+还	需要	点儿	什么	别	的	吗	？
+d	v	q	r	a	u	u	wp
+ADV	HED	ATT	VOB	DE	MT	MT	WP
+2	0	4	2	6	2	2	2
+
+不用	了	，	谢谢	。
+d	u	wp	v	wp
+IS	MT	WP	HED	WP
+4	1	1	0	4
+
+把	粥	送到	永定路长银大厦	Ａ	楼	幺零二	房	就	可以	。
+p	n	v	ns	ws	n	m	n	d	v	wp
+ADV	POB	HED	VOB	ATT	SBV	QUN	SBV	ADV	IC	WP
+3	1	0	3	6	10	8	10	10	3	3
+
+嗯	，	好	的	。
+e	wp	a	u	wp
+IS	WP	HED	MT	WP
+3	1	0	3	3
+
+欢迎	下次	继续	订餐	，	再见	。
+v	nt	v	v	wp	v	wp
+ADV	VOB	HED	VOB	WP	VV	WP
+3	1	0	3	3	3	3
+
+您	好	，	人人乐儿	外卖	。
+r	i	wp	n	n	wp
+SBV	IS	WP	ATT	HED	WP
+2	5	2	5	0	5
+
+我	要	两	份儿	快餐	，	一	份	青椒	炒	牛肉	，	一	份	麻婆	豆腐	。
+r	v	m	q	n	wp	m	q	n	v	n	wp	m	q	n	n	wp
+SBV	HED	QUN	ATT	VOB	WP	QUN	ATT	SBV	COO	VOB	WP	QUN	ATT	ATT	VOB	WP
+2	0	4	5	2	5	8	9	10	5	10	10	14	16	16	10	2
+
+啊	，	对不起	，	今天	没有	这	两	个	菜	。
+e	wp	v	wp	nt	d	r	m	q	n	wp
+IS	WP	IS	WP	ADV	HED	ATT	QUN	ATT	VOB	WP
+6	1	6	3	6	0	10	9	10	6	6
+
+没有	？	怎么	可能	，	我	是	看	着	你们	的	餐单儿	来	点	的	，	今天	星期三	嘛	，	怎么	会	出	错	？
+v	wp	d	i	wp	r	v	v	u	r	u	n	v	q	u	wp	n	i	u	wp	d	v	v	n	wp
+IS	WP	ADV	IS	WP	SBV	ADV	HED	MT	DE	ATT	SBV	IC	CMP	MT	WP	SBV	VV	MT	WP	ADV	ADV	VV	VOB	WP
+8	1	4	1	1	8	8	0	8	11	12	13	8	13	13	13	18	13	18	18	23	23	13	23	13
+
+啊	，	对不起	，	想必	您	点	的	是	上	个	月	的	餐单儿	。
+e	wp	v	wp	d	r	q	u	v	n	q	nt	u	n	wp
+IS	WP	DE	WP	ADV	SBV	DE	SBV	HED	ATT	ATT	DE	ATT	VOB	WP
+9	1	8	3	7	7	8	9	0	11	14	13	14	9	9
+
+这	个	月	已经	换	新	的	了	。
+r	r	n	d	v	a	u	u	wp
+ATT	ATT	SBV	ADV	HED	DE	MT	MT	WP
+3	3	5	5	0	7	5	5	5
+
+哦	，	原来	是	这样儿	呀	。
+e	wp	d	v	n	u	wp
+IS	WP	ADV	HED	VOB	MT	WP
+4	1	4	0	4	4	4
+
+你们	今天	有	什么	菜	？
+r	nt	v	r	n	wp
+SBV	ADV	HED	ATT	VOB	WP
+3	3	0	5	3	3
+
+我们	这儿	的	家常	小炒	是	很	不错	的	，	您	看	您	想	吃	什么	吧	？
+r	r	u	n	n	v	d	nh	u	wp	r	v	r	v	v	r	u	wp
+ATT	DE	ATT	ATT	SBV	HED	ADV	VOB	MT	WP	SBV	IC	SBV	ADV	VOB	VOB	MT	WP
+2	3	4	5	6	0	8	6	6	6	12	6	15	15	12	15	15	6
+
+那	帮	我	来	一份儿	胡萝卜丝	炒	肉	，	一份儿	番茄	炒	蛋	吧	。
+r	v	r	v	m	n	v	n	wp	m	n	v	n	u	wp
+SBV	HED	VOB	VOB	QUN	VOB	VV	VOB	WP	QUN	SBV	VOB	VOB	MT	WP
+2	0	2	2	6	4	4	7	7	11	12	7	12	12	2
+
+送到	营口	路	翠柏	大厦	五	楼	三零幺	房	。
+v	ns	n	n	n	m	n	m	q	wp
+HED	ATT	ATT	ATT	VOB	QUN	COO	QUN	RAD	WP
+0	3	4	5	1	7	5	9	7	1
+
+啊	，	好	的	，	请	稍	等	一会儿	，	我们	很快	就	送	过去	。
+e	wp	a	u	wp	v	d	u	m	wp	r	d	d	v	v	wp
+IS	WP	IS	MT	WP	ADV	ADV	HED	VOB	WP	SBV	ADV	ADV	ADV	VOB	WP
+8	1	8	3	3	8	8	0	8	8	15	15	15	15	8	8
+
+对	了	，	顺便	帮	我	拿	两	张	新	的	餐单	上来	。
+p	u	wp	d	v	r	v	m	q	a	u	d	v	wp
+IS	MT	WP	ADV	HED	VOB	VOB	QUN	VOB	DE	VOB	ADV	VOB	WP
+5	1	1	5	0	5	5	9	7	11	7	13	7	7
+
+嗯	，	好	的	。	再见	。
+e	wp	a	u	wp	v	wp
+IS	WP	IS	MT	WP	HED	WP
+6	1	6	3	3	0	6
+
+喂	，	是	八戒	外卖	吗	？
+e	wp	v	nz	n	u	wp
+IS	WP	HED	ATT	VOB	MT	WP
+3	1	0	5	3	3	3
+
+您	好	，	八戒	外卖	，	欢迎	订餐	。
+r	i	wp	nz	n	wp	v	v	wp
+SBV	IS	WP	ATT	IS	WP	ADV	HED	WP
+2	8	2	5	8	5	8	0	8
+
+啊	，	我	第一	次	打	电话	，	给	我	介绍	一下儿	你们	那儿	都	有	哪些	外卖	，	好	吧	？
+e	wp	r	m	q	v	n	wp	p	r	v	m	r	r	d	v	r	v	wp	a	u	wp
+IS	WP	SBV	QUN	ADV	HED	VOB	WP	ADV	POB	IC	CMP	ATT	SBV	ADV	VOB	VOB	VOB	WP	VOB	MT	WP
+6	1	6	5	6	0	6	6	11	9	6	11	14	16	16	11	16	16	16	16	20	6
+
+饭	、	菜	、	汤	这里	应有尽有	。
+n	wp	n	wp	n	r	i	wp
+IS	WP	COO	WP	COO	ATT	HED	WP
+7	1	1	1	1	7	0	7
+
+主食	有	米饭	两	块	钱	一	碗儿	、	馒头	五	毛	钱	一个	、	烧饼	五	毛	一个	；	菜	分	热	菜	和	冷	菜	，	热	菜	有	红烧茄子	十	块	、	宫爆鸡丁	十	块	、	蚝油生菜	八	块	。
+n	v	n	m	q	n	m	n	wp	n	m	q	n	m	wp	n	m	q	m	wp	n	v	a	n	c	a	n	wp	a	n	v	n	m	q	wp	n	m	q	wp	n	m	q	wp
+SBV	HED	VOB	QUN	ATT	VOB	QUN	VOB	WP	SBV	QUN	ATT	VOB	RAD	WP	SBV	QUN	ATT	IC	WP	SBV	SBV	ATT	SBV	LAD	ATT	IS	WP	ATT	SBV	VOB	VOB	QUN	VOB	WP	SBV	QUN	WP	WP	SBV	QUN	WP	WP
+2	0	2	5	6	2	8	6	6	13	12	13	6	13	14	17	18	19	14	2	23	23	24	31	27	27	31	27	30	31	2	31	34	31	2	37	38	35	2	41	42	39	2
+
+哦	，	冷菜	都	有	些	什么	呀	？
+e	wp	n	d	v	r	r	u	wp
+IS	WP	SBV	ADV	HED	ATT	VOB	MT	WP
+5	1	5	5	0	7	5	5	5
+
+冷菜	有	凉拌	海蜇	十	块	钱	、	素什锦	十	块	、	拌	黄瓜	六	块	；	汤	有	西红柿	鸡蛋	汤	三	块	、	酸菜	汤	三	块	、	海带	汤	三	块	。
+n	v	v	n	m	q	n	wp	n	m	q	wp	v	n	m	q	wp	n	v	n	n	n	m	q	wp	n	n	m	q	wp	n	n	m	q	wp
+SBV	HED	VV	VOB	QUN	ATT	VOB	WP	SBV	QUN	ATT	WP	ATT	ATT	QUN	APP	WP	SBV	ATT	ATT	ATT	SBV	QUN	APP	WP	ATT	SBV	QUN	APP	WP	ATT	SBV	QUN	WP	WP
+2	0	2	2	6	7	2	7	10	11	16	11	14	16	16	7	2	19	21	21	22	25	24	22	2	27	30	29	27	2	32	33	34	30	2
+
+种类	很	多	，	也许	您	一时	记	不	下来	，	我们	会	在	送餐	时	为	您	送上	一份儿	菜单	，	供	您	方便	订单	。
+n	d	a	wp	d	r	nt	v	d	v	wp	r	v	p	v	n	p	r	v	n	n	wp	v	r	a	n	wp
+SBV	ADV	DC	WP	ADV	SBV	ADV	ADV	ADV	HED	WP	SBV	IC	ADV	ATT	POB	ADV	POB	IC	ATT	VOB	WP	VV	ATT	ATT	VOB	WP
+3	3	10	3	10	8	8	10	10	0	10	13	10	19	16	14	19	17	13	21	19	13	13	26	26	23	10
+
+呃	，	那	好	的	，	那	我	就	来	一个	宫爆鸡丁	和	两	个	馒头	，	先	尝	尝	味道	怎么样	吧	。
+o	wp	r	a	u	wp	r	r	d	v	m	n	c	m	q	n	wp	d	v	v	n	r	u	wp
+IS	WP	SBV	IS	MT	WP	CNJ	SBV	ADV	HED	QUN	VOB	LAD	QUN	ATT	COO	WP	ADV	VV	VV	VOB	MT	MT	WP
+10	1	4	10	4	4	10	10	10	0	12	10	16	15	16	12	10	19	10	19	19	19	19	10
+
+好	的	，	请	问	送到	哪儿	？
+a	u	wp	d	v	v	r	wp
+IS	MT	WP	ADV	HED	VOB	VOB	WP
+5	1	1	5	0	5	5	5
+
+啊	，	红旗	路	世纪	大厦	Ａ	座	五零幺	。
+e	wp	n	n	n	n	ws	n	j	wp
+IS	WP	ATT	ATT	ATT	ATT	ATT	ATT	HED	WP
+9	1	4	5	6	8	8	9	0	9
+
+接收	人	怎么	称呼	？
+v	n	r	v	wp
+ATT	SBV	ADV	HED	WP
+2	4	4	0	4
+
+呃	，	张先生	。
+o	wp	nh	wp
+IS	WP	HED	WP
+3	1	0	3
+
+一共	十一	块	，	三十	分钟	后	送到	，	祝	您	有	个	好	胃口	。
+d	m	q	wp	m	q	nd	v	wp	v	r	v	q	a	n	wp
+ADV	QUN	ATT	WP	QUN	ATT	ADV	HED	WP	VV	VOB	VOB	ATT	ATT	VOB	WP
+3	3	6	3	6	7	8	0	8	8	10	10	15	15	12	8
+
+再见	！
+v	wp
+HED	WP
+0	1
+
+我们	今天	真	走	运	。
+r	nt	d	v	v	wp
+SBV	ADV	ADV	HED	VOB	WP
+4	4	4	0	4	4
+
+是	的	，	天气	晴朗	得	很	，	而	这儿	的	风景	又	是	如此	漂亮	。
+v	u	wp	n	a	u	d	wp	c	r	u	n	d	v	r	a	wp
+IS	MT	WP	SBV	HED	MT	IC	WP	CNJ	DE	ATT	SBV	ADV	IC	SBV	VOB	WP
+5	1	1	5	0	5	5	5	14	11	12	14	14	5	16	14	14
+
+看	，	那	是	圣詹姆斯	公园	。	那	是	白金汉宫	。
+v	wp	r	v	nz	n	wp	r	v	ns	wp
+IS	WP	SBV	HED	ATT	VOB	WP	SBV	IC	VOB	WP
+4	1	4	0	6	4	4	9	4	9	4
+
+海德公园	在	哪儿	？
+i	p	r	wp
+SBV	HED	VOB	WP
+2	0	2	2
+
+在	宫	的	另一边儿	。
+p	n	u	n	wp
+HED	DE	ATT	POB	WP
+0	3	4	1	1
+
+那	是	人们	星期天	发表	演讲	的	地方	，	是	吗	？
+r	v	n	nt	v	v	u	n	wp	v	u	wp
+SBV	HED	VOB	ADV	ADV	DE	ATT	VOB	WP	IC	MT	WP
+2	0	2	6	6	7	8	2	2	2	10	2
+
+是	的	，	没	错儿	。
+v	u	wp	v	n	wp
+IS	MT	WP	HED	VOB	WP
+4	1	1	0	4	4
+
+各种各样	的	政客	、	教徒	和	一	两	个	疯子	都	会	在	那儿	发表	演讲	。
+i	u	n	wp	n	c	m	m	q	n	d	v	p	r	v	v	wp
+DE	ATT	IS	WP	COO	LAD	QUN	QUN	ATT	COO	ADV	HED	ADV	POB	IC	VOB	WP
+2	3	12	3	3	10	8	9	10	5	12	0	15	13	12	15	12
+
+嗯哼	，	那	好	，	我们	今天	就	去	那儿	吧	。
+v	wp	r	a	wp	r	nt	d	v	r	u	wp
+IS	WP	SBV	IS	WP	SBV	ADV	ADV	HED	VOB	MT	WP
+4	1	4	9	4	9	9	9	0	9	9	9
+
+我	想	去	照	几	张	相	。
+r	v	v	v	m	q	n	wp
+SBV	ADV	HED	VV	QUN	ATT	VOB	WP
+3	3	0	3	6	7	4	4
+
+当然	可以	。
+d	v	wp
+ADV	HED	WP
+2	0	2
+
+看	得	出来	，	你	今天	玩儿	得	很	开心	。
+v	u	v	wp	r	nt	v	u	d	a	wp
+ADV	MT	VOB	WP	SBV	ADV	HED	MT	ADV	DEI	WP
+7	1	1	1	7	7	0	7	10	8	10
+
+当然	啦	。	因为	一切	都	是	那么	新鲜	，	令人神往	嘛	。
+d	u	wp	c	r	d	v	r	a	wp	i	u	wp
+IS	MT	WP	CNJ	SBV	ADV	HED	ADV	VOB	WP	VOB	MT	WP
+7	1	1	7	7	7	0	9	7	7	7	11	7
+
+您	好	，	我	需要	订餐	。
+r	i	wp	r	v	v	wp
+SBV	IS	WP	SBV	HED	VOB	WP
+2	5	2	5	0	5	5
+
+您	好	。	这里	是	西元	外卖	，	很	高兴	为	您	服务	。
+r	i	wp	r	v	nt	n	wp	d	a	p	r	v	wp
+SBV	IS	WP	SBV	HED	ATT	VOB	WP	ADV	VOB	ADV	POB	VOB	WP
+2	5	2	5	0	7	5	5	10	5	13	11	5	5
+
+请	问	您	需要	点	点儿	什么	？
+d	v	r	v	q	q	r	wp
+ADV	HED	VOB	VOB	VOB	VOB	VOB	WP
+2	0	2	2	2	2	2	2
+
+啊	我	要	来	一份儿	宫爆鸡丁儿	，	辣椒	少	放	一点儿	，	再	来	一份儿	西红柿	炒	鸡蛋	，	酸	一点儿	比较	好	。
+e	r	v	v	m	n	wp	n	a	v	m	wp	d	v	m	n	v	n	wp	n	m	d	a	wp
+IS	SBV	ADV	HED	QUN	VOB	WP	SBV	ADV	SBV	VOB	WP	ADV	VV	QUN	VOB	VV	VOB	WP	SBV	SBV	ADV	IC	WP
+4	4	4	0	6	4	4	10	10	14	10	10	14	4	16	14	14	17	14	21	23	23	14	4
+
+呃	再	来	一份儿	西湖牛肉	羹	吧	。
+o	d	v	m	n	n	u	wp
+IS	ADV	HED	QUN	ATT	VOB	MT	WP
+3	3	0	5	6	3	3	3
+
+好	的	，	请	问	您	还	需要	点	点儿	什么	？
+a	u	wp	d	v	r	d	v	q	q	r	wp
+IS	MT	WP	ADV	HED	VOB	ADV	VOB	VOB	ATT	VOB	WP
+5	1	1	5	0	5	8	5	5	11	5	5
+
+嗯	，	哦	对	，	再	来	两	瓶儿	啤酒	！
+e	wp	e	p	wp	d	v	m	n	n	wp
+IS	WP	IS	IS	WP	ADV	HED	QUN	ATT	VOB	WP
+7	1	7	7	4	7	0	9	10	7	7
+
+好	的	，	一份儿	宫爆鸡丁	，	辣椒	少	一点儿	，	一份儿	西红柿	炒	蛋	，	酸	一点儿	。
+a	u	wp	n	n	wp	n	a	m	wp	m	n	v	n	wp	n	m	wp
+IS	MT	WP	ATT	SBV	WP	SBV	HED	CMP	WP	QUN	SBV	IC	VOB	WP	SBV	CMP	WP
+8	1	1	5	8	5	8	0	8	8	12	13	8	13	13	17	8	8
+
+一份儿	西湖牛肉	羹	。
+m	n	n	wp
+QUN	ATT	HED	WP
+2	3	0	3
+
+两	瓶	啤酒	！
+m	q	n	wp
+QUN	ATT	HED	WP
+2	3	0	3
+
+一共	是	二十五元	钱	！
+d	v	m	n	wp
+ADV	HED	QUN	VOB	WP
+2	0	4	2	2
+
+请	问	您	的	送餐	地址	？
+d	v	r	u	v	n	wp
+ADV	HED	DE	ATT	ATT	VOB	WP
+2	0	4	6	6	2	2
+
+啊	送到	紫竹园	小区	三号楼	三零三	室	。
+u	v	n	n	ns	m	n	wp
+IS	HED	ATT	VOB	ATT	QUN	COO	WP
+2	0	4	2	7	7	4	2
+
+送到	了	再	给	你	钱	！
+v	u	d	p	r	n	wp
+IS	MT	ADV	HED	ATT	VOB	WP
+3	1	4	0	6	4	4
+
+麻烦	送	快	点儿	！
+a	v	a	q	wp
+ADV	HED	CMP	CMP	WP
+2	0	2	3	2
+
+下午	还	有	事儿	！
+nt	d	v	n	wp
+ADV	ADV	HED	VOB	WP
+3	3	0	3	3
+
+好	的	，	没	问题	，	请	问	您	还	有	什么	需要	么	？
+a	u	wp	v	n	wp	d	v	r	d	v	r	v	u	wp
+IS	MT	WP	IS	VOB	WP	ADV	HED	SBV	ADV	VOB	VOB	VOB	MT	WP
+8	1	1	8	4	4	8	0	11	11	8	11	11	11	8
+
+呃	没有	了	。
+o	v	u	wp
+IS	HED	MT	WP
+2	0	2	2
+
+好	的	。	请	稍	等	，	二十	分钟	内	给	您	送到	，	谢谢	惠顾	！
+a	u	wp	v	d	u	wp	m	q	nd	p	r	v	wp	v	v	wp
+IS	MT	WP	ADV	ADV	HED	WP	QUN	ATT	IC	ADV	POB	IC	WP	ADV	VOB	WP
+6	1	1	6	6	0	6	9	10	6	13	11	6	13	16	13	13
+
+欢迎	下次	订餐	，	祝	您	用餐	愉快	！
+v	nt	v	wp	v	r	v	a	wp
+IS	ADV	VOB	WP	HED	VOB	VOB	VOB	WP
+5	3	1	3	0	5	5	7	5
+
+再见	！
+v	wp
+HED	WP
+0	1
+
+嗯	，	拜拜	！
+e	wp	v	wp
+IS	WP	HED	WP
+3	1	0	3
+
+啊	我	主观	上	觉得	房屋	面积	缺斤短两	，	该	怎样	申请	什么	部门	复测	？
+e	r	n	nd	v	n	n	i	wp	v	r	v	r	n	v	wp
+IS	ATT	ATT	ADV	HED	ATT	SBV	VOB	WP	VV	SBV	IC	ATT	SBV	VOB	WP
+5	3	4	5	0	7	8	5	8	5	12	10	14	15	12	5
+
+具体	手续	怎么办	？
+a	n	r	wp
+ATT	SBV	HED	WP
+2	3	0	3
+
+首先	，	房屋	在	交付	的	时候	，	开发商	必须	要	提供	一个	由	房地	局	测绘	大队	出示	的	实测	面积	表	，	必须	要求	开发商	提供	那个	，	看	一下	这	当中	的	面积	和	您	买卖	合同	当中	的	面积	是否	相差	比较	大	，	如果	仍	有	疑问	的	话	，	可以	向	房屋	所在地	的	测绘	大队	提出	一个	复测	的	申请	，	由	他们	进行	复测	。
+c	wp	n	p	v	u	n	wp	n	d	v	v	m	p	n	n	v	n	v	u	v	n	n	wp	d	v	n	v	r	wp	v	m	r	nd	u	n	c	r	v	n	nd	u	n	v	v	d	a	wp	c	d	v	n	u	n	wp	v	p	n	n	u	v	n	v	m	v	u	v	wp	p	r	v	v	wp
+CNJ	WP	SBV	ADV	DE	ATT	POB	WP	SBV	ADV	ADV	HED	VOB	VOB	ATT	SBV	VOB	VOB	DE	ATT	ATT	ATT	VOB	WP	ADV	VV	VOB	VOB	VOB	WP	IC	CMP	ATT	DE	ATT	VOB	LAD	SBV	DE	ATT	DE	ATT	SBV	ADV	SBV	ADV	COO	WP	CNJ	ADV	WP	DE	ATT	VOB	WP	ADV	ADV	ATT	DE	ATT	ATT	POB	WP	ATT	DE	SBV	VOB	WP	ADV	POB	ADV	VOB	WP
+12	1	4	12	6	7	4	4	12	12	12	0	12	12	16	17	12	17	20	22	22	23	17	17	26	17	26	26	28	26	26	31	34	35	36	31	43	39	42	41	42	43	47	45	47	47	36	12	51	51	55	53	54	51	12	63	63	59	60	62	62	57	68	67	66	67	63	12	71	69	73	71	12
+
+这	之后	如果	仍	有	疑问	不能	解答	，	就	可以	申请	上一级	的	测绘	大队	进行	复测	了	。
+r	nd	c	d	v	n	v	v	wp	d	v	v	b	u	v	n	v	v	u	wp
+ATT	ADV	CNJ	ADV	HED	VOB	VV	VOB	WP	ADV	VV	IC	DE	ATT	ATT	VOB	IC	VOB	MT	WP
+2	5	5	5	0	5	5	7	5	11	5	11	14	16	16	12	12	17	18	5
+
+哦	，	那	住房	净	高	规定	是	多	高	呢	？
+e	wp	r	n	d	a	n	v	d	a	u	wp
+IS	WP	ATT	SBV	ADV	ATT	SBV	ADV	ADV	HED	MT	WP
+10	1	4	6	6	7	10	10	10	0	10	10
+
+关于	房屋	的	净	高	，	有	一个	住宅	建筑	的	规范	，	最高	不得	超过	二点儿八	，	最低	不得	低于	二点儿五	。
+p	n	u	d	a	wp	v	m	n	n	u	n	wp	a	v	v	m	wp	a	v	v	m	wp
+ADV	DE	SBV	ADV	HED	WP	IC	QUN	ATT	DE	ATT	VOB	WP	ADV	ADV	VV	VOB	WP	ADV	ADV	VOB	VOB	WP
+5	3	5	5	0	5	5	9	10	11	12	7	7	15	16	7	16	16	20	21	16	16	7
+
+啊	我	最近	在	马莲道	买	了	一	套	商品房	，	本来	合同	约定	是	七月三十号	入住	，	可是	开发商	要求	入住	呃	要	缴纳	大型	基金	和	税契	，	否则	不予	办理	入住	，	我	到	现在	也	没有	拿到	钥匙	，	该	怎么办	呢	？
+e	r	nt	p	n	v	u	m	q	n	wp	d	n	v	v	nz	v	wp	c	n	v	v	o	v	v	b	n	c	n	wp	c	v	v	v	wp	r	p	nt	d	d	v	n	wp	r	v	u	wp
+IS	SBV	ADV	ADV	POB	HED	MT	QUN	ATT	VOB	WP	ADV	SBV	IC	VOB	VOB	VOB	WP	CNJ	SBV	VOB	VOB	IS	ADV	VOB	ATT	VOB	LAD	COO	WP	CNJ	WP	VOB	VOB	WP	SBV	ADV	POB	ADV	ADV	WP	VOB	WP	SBV	WP	MT	WP
+6	6	6	6	4	0	6	9	10	6	6	14	14	6	14	14	14	14	21	21	14	21	25	25	21	27	25	29	27	21	32	35	32	33	6	41	41	37	41	41	43	41	6	45	47	45	6
+
+当	购房人	足额	缴纳	了	房价款	之后	，	开发商	必须	按照	合同	的	日期	交付	符合	条件	的	商品房	，	这	之后	才	涉及到	产权证	的	办理	、	契契税	的	缴纳	、	公共	维修基金	的	缴纳	，	因此	，	购房人	可以	让	开发商	履行	交付	义务	，	如果	开发商	拒绝	的话	，	业主	可以	向	法院	或者是	仲裁委	提出	诉讼	或者是	仲裁	，	以	维护	自己	的	合法	权益	。
+p	n	v	v	u	n	nd	wp	n	d	p	n	u	n	v	v	n	u	n	wp	r	nd	d	v	n	u	v	wp	n	u	v	wp	b	i	u	v	wp	c	wp	n	v	v	n	v	v	n	wp	c	n	v	n	wp	n	v	p	n	v	n	v	v	v	v	wp	c	v	r	u	n	n	wp
+ADV	SBV	VV	VOB	MT	ATT	VOB	WP	SBV	ADV	ADV	DE	ATT	SBV	POB	DE	DE	ATT	VOB	WP	ATT	ADV	ADV	DE	VOB	ATT	DE	WP	DE	ATT	ATT	WP	HED	DE	ATT	IS	WP	CNJ	WP	SBV	ADV	VV	VOB	VOB	CMP	VOB	WP	CNJ	SBV	VOB	VOB	WP	SBV	ADV	ADV	POB	VOB	VOB	VOB	VOB	VOB	VOB	WP	CNJ	IC	DE	ATT	ATT	VOB	WP
+31	3	1	3	4	7	3	3	11	11	31	13	14	15	11	18	18	19	15	15	22	24	24	26	24	27	30	27	30	31	33	31	0	35	36	42	36	42	38	42	42	33	42	42	44	44	44	50	50	44	50	50	57	57	57	55	50	57	57	59	59	61	59	65	59	67	68	69	65	42
+
+哦	如果说	入住	以后	，	发现	小区	夜间	的	车辆	，	尤其是	重型	卡车	特别	多	，	导致	噪音	超过	标准	，	是否	要求	退	房	呢	？
+e	c	v	nd	wp	v	n	nt	u	n	wp	nh	a	i	d	a	wp	v	n	v	n	wp	v	v	v	n	u	wp
+IS	CNJ	HED	VOB	WP	VV	VOB	DE	ATT	VOB	WP	SBV	ADV	VOB	ADV	IS	WP	ADV	VOB	VOB	VOB	WP	ADV	COO	VOB	VOB	MT	WP
+3	3	0	3	3	3	6	9	10	6	6	13	14	6	16	18	16	24	18	18	20	18	24	14	24	24	24	3
+
+这	个	理由	不	是	很	充分	，	但是	可以	通过	业主	委员	管理	会	向	物业公司	提出	这样	的	要求	，	或者	他们	直接	向	物业管理	公司	提出	这样	的	要求	，	因为	物业管理	公司	有	义务	也	有	责任	维护	小区	的	居住	环境	上	的	安宁	。
+r	r	n	d	v	d	a	wp	c	v	p	n	n	v	v	p	n	v	r	u	n	wp	c	r	a	p	nz	n	v	r	u	n	wp	c	nz	n	v	n	d	v	n	v	n	u	v	n	nd	u	a	wp
+ATT	ATT	SBV	ADV	HED	ADV	VOB	WP	CNJ	ADV	ADV	ATT	POB	ADV	ADV	ADV	POB	VOB	DE	ATT	VOB	WP	CNJ	SBV	ADV	ADV	ATT	POB	VOB	DE	ATT	VOB	WP	CNJ	ATT	SBV	VOB	VOB	ADV	VV	VOB	VV	VOB	ATT	ATT	ATT	DE	RAD	DEI	WP
+3	3	5	5	0	7	5	5	18	18	18	13	11	18	18	18	16	5	20	21	18	18	29	29	29	29	28	26	18	31	32	29	29	37	36	37	29	37	40	37	40	40	42	46	46	47	48	43	48	5
+
+啊	那	交	房	的	时候	，	啊	发现	楼房	外立面	的	颜色	改变	，	该	怎么办	呢	？
+e	r	v	n	u	n	wp	u	v	n	n	u	n	v	wp	r	v	i	wp
+IS	CNJ	HED	DE	ATT	VOB	WP	IS	DE	ATT	DE	ATT	SBV	WP	WP	SBV	IC	VOB	WP
+3	3	0	5	6	3	3	9	12	11	12	13	14	19	14	17	14	17	3
+
+楼房	的	外立面	的	颜色	改变	，	开发商	必须	在	征求	业主	的	同意	之后	才	可以	对	楼房	的	外立面	作出	改变	，	我们	当初	购房	的	时候	，	这	也	是	我们	选择	房屋	的	一个	重要	因素	，	可以	通过	业主	委员会	向	开发商	提出	这样	的	要求	。
+n	u	n	u	n	v	wp	n	d	p	v	n	u	v	nd	d	v	p	n	u	n	v	v	wp	r	nt	v	u	n	wp	r	d	v	r	v	n	u	m	a	n	wp	v	p	n	n	p	n	v	r	u	n	wp
+DE	ATT	DE	ATT	SBV	HED	WP	SBV	ADV	ADV	DE	VOB	ATT	ATT	POB	ADV	POB	ADV	DE	ATT	POB	POB	VOB	WP	SBV	ADV	DE	ATT	VOB	WP	SBV	ADV	ADV	SBV	VOB	DE	ATT	QUN	ATT	VOB	WP	ADV	ADV	ATT	SBV	ADV	POB	WP	DE	ATT	VOB	WP
+2	3	4	5	6	0	6	10	10	48	13	11	15	15	10	17	10	48	20	21	18	18	22	22	27	27	28	29	22	22	33	33	48	35	33	37	40	40	40	35	33	48	48	45	48	48	46	52	50	51	48	6
+
+噢	如果	外立面	颜色	改变	，	当时	没有	签定	合同	那	怎么办	呢	？
+e	c	n	n	v	wp	nt	d	v	n	r	v	i	wp
+IS	CNJ	ATT	SBV	DC	WP	ADV	ADV	HED	VOB	SBV	IC	VOB	WP
+9	5	4	5	9	5	9	9	0	9	12	9	12	9
+
+必须	要	有	一些	依据	，	不然	的话	，	将来	走	诉讼	也好	，	仲裁	也好	，	缺乏	对	当初	的	证据	，	就	比较	难以	支持	我们	的	主张	。
+d	v	v	m	n	wp	c	i	wp	nt	v	v	u	wp	v	u	wp	v	p	nt	u	n	wp	d	d	d	v	r	u	n	wp
+ADV	ADV	HED	QUN	VOB	WP	CNJ	ADV	WP	ADV	VV	VV	MT	WP	VV	MT	WP	VV	CMP	DE	ATT	POB	WP	ADV	ADV	ADV	VV	DE	ATT	VOB	WP
+2	3	0	5	3	3	11	11	8	11	3	11	12	11	11	15	11	11	18	21	22	19	18	27	27	27	18	29	30	27	11
+
+呃	那	入住	了	一段	时间	之后	，	发现	房子	渗水	该	怎么办	呢	？
+o	r	v	u	n	i	nd	wp	v	n	v	r	v	i	wp
+IS	SBV	HED	MT	SBV	ATT	VOB	WP	IC	VOB	VOB	ADV	IC	VOB	WP
+3	3	0	3	6	7	3	3	3	9	9	13	11	13	3
+
+啊	那	购房	意向书	和	购房	合同	有	什么	区别	呢	？
+e	r	v	n	c	v	n	v	r	n	u	wp
+IS	CNJ	HED	VOB	CNJ	VV	VOB	VOB	ATT	VOB	MT	WP
+3	3	0	3	6	3	6	6	10	8	8	3
+
+作为	购房	意向书	或者是	认购	书	来说	，	只是	双方	就	是否	购买	这个	房屋	达成	的	一种	意向	的	协议	，	对	房屋	的	一些	具体	问题	都	没有	包括	进去	，	需要	双方	签署	正式	的	买卖	合同	，	才	可以	在	法律	上	正式	确认为	一个	房屋	的	买卖	关系	的	成立	。
+p	v	n	v	v	n	u	wp	d	n	p	v	v	r	n	v	u	m	n	u	n	wp	p	n	u	m	a	n	d	d	v	v	wp	v	n	v	a	u	v	n	wp	d	v	p	n	nd	a	n	m	n	u	n	i	u	v	wp
+ADV	ATT	SBV	ADV	HED	VOB	MT	WP	ADV	VOB	ADV	ADV	VV	ATT	SBV	DE	ATT	QUN	DE	ATT	VOB	WP	IS	DE	ATT	ATT	ATT	POB	ADV	ADV	POB	VOB	WP	VV	VOB	VV	DE	ATT	ATT	VOB	WP	ADV	ADV	ADV	ATT	ATT	ATT	POB	QUN	DE	ATT	SBV	DE	ATT	ATT	WP
+5	3	5	5	0	5	5	5	10	5	55	13	11	15	16	17	19	19	20	21	13	13	55	25	28	28	28	23	31	31	23	31	31	31	34	34	38	40	40	36	31	43	44	55	46	48	48	44	50	51	52	55	54	55	56	5
+
+如果说	这个	铁门	变形	是	房屋	结构	的	问题	，	开发商	是不是	应该	承担	一些	连带	责任	呢	？
+c	r	n	v	v	n	n	u	n	wp	n	v	v	v	m	v	i	u	wp
+CNJ	ATT	SBV	ADV	HED	ATT	DE	ATT	VOB	WP	SBV	ADV	ADV	WP	QUN	VOB	VOB	MT	WP
+5	3	5	5	0	7	8	9	5	5	14	14	14	19	16	14	16	16	5
+
+房屋	结构	的	问题	，	就	属于	质量	问题	了	，	开发商	必须	承担	责任	了	。
+n	n	u	n	wp	d	v	n	i	u	wp	n	d	v	i	u	wp
+ATT	DE	ATT	SBV	WP	ADV	HED	VOB	VOB	MT	WP	SBV	ADV	IC	VOB	MT	WP
+2	3	4	7	4	7	0	7	7	7	7	14	14	7	14	14	7
+
+呃	那	在	交	房	的	时候	，	业主	应该	特别	注意	哪	几	项	呢	？
+o	r	p	v	n	u	n	wp	n	v	d	v	r	m	q	u	wp
+IS	SBV	ADV	DE	VOB	ATT	POB	WP	POB	ADV	ADV	HED	VOB	QUN	VOB	MT	WP
+12	3	12	6	4	7	3	3	3	12	12	0	12	15	12	12	12
+
+第	一	要	开发商	提供	一个	实测	的	面积	表	，	第	二	必须	要求	开发商	提供	一个	竣工	验收	的	备案	表	，	第	三	呢	，	看	看	房屋	的	外观	，	包括	主体	结构	，	墙面	和	地面	，	跟	买卖	合同	当中	列	的	装饰	装修	方面	有没有	不符	之	处	，	如果	有	不符	之	处	，	要	列	清楚	，	最好	让	开发商	签字	盖章	。
+m	m	v	n	v	m	v	u	n	n	wp	m	m	d	v	n	v	m	v	v	u	v	n	wp	m	m	u	wp	v	v	n	u	n	wp	v	n	n	wp	n	c	n	wp	p	v	n	nd	v	u	v	v	n	v	v	u	n	wp	c	v	v	u	n	wp	v	v	a	wp	d	v	n	v	i	wp
+ADV	COO	ADV	VOB	HED	ATT	DE	ATT	ATT	VOB	WP	QUN	ADV	ADV	VV	VOB	VV	ATT	ADV	DE	ATT	ATT	VOB	WP	MT	RAD	MT	WP	WP	DUP	DE	ATT	VOB	WP	WP	ATT	VOB	WP	WP	LAD	COO	WP	ADV	ATT	ATT	POB	DE	ATT	ADV	ATT	VOB	VOB	VOB	CMP	VOB	WP	CNJ	WP	VOB	CMP	VOB	WP	ADV	WP	CMP	WP	ADV	WP	VOB	VOB	VOB	WP
+5	1	5	3	0	9	8	9	10	5	5	13	15	15	5	15	15	23	20	21	23	23	17	15	15	25	25	5	34	29	32	33	29	5	38	37	35	5	38	41	39	5	50	45	46	43	48	49	50	56	50	50	52	53	52	5	58	62	58	59	58	5	64	66	64	5	68	72	68	68	70	5
+
+呃	开发商	收	房	时	，	要	业主	向	其	缴纳	契税	，	不	付	钥匙	一	事	，	作为	业主	我们	应该	采取	怎样	的	措施	呢	？
+o	n	v	n	n	wp	v	n	p	r	v	n	wp	d	v	n	m	n	wp	v	n	r	v	v	r	u	n	u	wp
+IS	SBV	HED	ATT	VOB	WP	IC	VOB	VOB	POB	POB	VOB	WP	ADV	VV	VOB	QUN	VOB	WP	VV	VOB	SBV	ADV	VOB	DE	ATT	VOB	MT	WP
+3	3	0	5	3	3	3	7	7	9	9	11	11	15	11	15	18	15	15	15	20	24	24	20	26	27	24	24	3
+
+交付	钥匙	和	契约	的	缴纳	，	不	是	互为前提	的	一个	关系	，	交付	钥匙	是	开发商	的	义务	，	契税	和	办理	产权证	是	有关	的	，	还	必须	是	开发商	代办	的	情况	下	才	交给	开发商	的	。
+v	n	c	n	u	v	wp	d	c	i	u	m	n	wp	v	n	v	n	u	n	wp	n	c	v	n	v	v	u	wp	d	d	v	n	n	u	n	nd	d	v	n	u	wp
+DE	VOB	LAD	COO	ATT	IS	WP	ADV	HED	DE	ATT	QUN	VOB	WP	IC	VOB	VOB	DE	ATT	VOB	WP	SBV	CNJ	IC	VOB	VOB	VOB	MT	WP	ADV	ADV	VV	ATT	DE	ATT	ATT	ADV	ADV	IC	VOB	MT	WP
+5	1	4	2	6	9	6	9	0	11	13	13	9	9	9	15	15	19	20	17	17	24	24	17	24	24	26	27	24	32	32	24	34	35	36	37	39	39	32	39	39	17
+
+请	问	商品房	是不是	完全	拥有	的	私有	财产	呢	？
+d	v	n	v	a	v	u	a	i	u	wp
+ADV	HED	VOB	VV	ADV	DE	MT	ADV	VOB	MT	WP
+2	0	2	2	6	7	4	9	2	9	2
+
+商品房	在	您	缴纳	全部	的	购房	款	之后	，	完全	就	属于	您	所有	了	，	如果	是	夫妻	关系	续存	期间	购买	的	房屋	，	这	个	房屋	当然	是	和	配偶	房屋	共有	的	关系	了	，	这	就	不	属于	您	拥有	的	全部	所有权	的	财产	。
+n	p	r	v	m	u	v	n	nd	wp	a	d	v	r	b	u	wp	c	v	n	n	v	nd	v	u	n	wp	r	r	n	d	v	p	n	n	v	u	n	u	wp	r	d	d	v	r	v	u	m	n	u	n	wp
+SBV	ADV	POB	HED	DE	ATT	ATT	ATT	VOB	WP	ADV	ADV	VOB	VOB	VOB	MT	WP	CNJ	VV	ATT	SBV	DE	VOB	DE	ATT	VOB	WP	ATT	ATT	SBV	ADV	ADV	ADV	ATT	POB	VOB	MT	VOB	MT	WP	SBV	ADV	ADV	WP	SBV	DE	ATT	QUN	DE	ATT	VOB	WP
+4	4	2	0	6	8	8	9	4	4	13	13	4	13	13	13	13	19	13	21	22	25	22	25	26	19	19	30	30	32	32	44	36	35	33	32	36	36	36	32	44	44	44	52	46	47	49	49	50	51	44	4
+
+收	房	的	时候	，	物业	要	代收	每	户	三百元	的	电视	入	网	费	，	这	个	费用	收	的	合理	吗	？
+v	n	u	n	wp	n	v	v	r	q	m	u	n	v	n	n	wp	r	r	n	v	u	a	u	wp
+DE	DE	ATT	ADV	WP	SBV	ADV	HED	ATT	DE	DE	ATT	SBV	VOB	ATT	VOB	WP	ATT	ATT	SBV	DE	SBV	VOB	MT	WP
+3	3	4	8	4	8	8	0	10	12	12	13	14	8	16	14	8	20	20	21	22	23	8	23	8
+
+根据	当时	的	买卖	合同	来	处理	，	如果	买卖	合同	当中	特别	约定	了	这	项	费用	由	开发商	来	承担	，	那么	入住	之后	，	不	应该	向	业主	收取	，	如果	没有	明确	的	界定	，	一般	来说	是	由	业主	缴纳	的	。
+p	nt	u	v	n	v	v	wp	c	v	n	nd	d	v	u	r	q	n	p	n	v	v	wp	c	v	nd	wp	d	v	p	n	v	wp	c	v	a	u	v	wp	a	u	v	p	n	v	u	wp
+ADV	DE	ATT	ATT	SBV	ADV	HED	WP	CNJ	COO	ATT	ADV	ADV	IC	MT	ATT	ATT	VOB	ADV	POB	IC	VOB	WP	CNJ	VV	VOB	WP	ADV	IC	ADV	POB	VV	WP	CNJ	IC	DE	ATT	VOB	WP	ADV	SBV	IC	ADV	POB	VOB	MT	WP
+7	3	5	5	7	7	0	7	10	7	12	14	14	10	14	17	18	14	21	19	14	21	21	25	21	25	25	29	25	32	30	29	32	35	32	37	38	35	35	41	42	35	45	43	42	45	7
+
+呃	那	现在	业主	因为	某种	原因	没有	及时	缴纳	物业管理	费	，	物业	是否	有权	掐断	住户	的	水电	供应	呢	？
+o	r	nt	n	p	r	n	d	a	v	i	n	wp	n	v	v	v	n	u	n	i	u	wp
+IS	ATT	ADV	SBV	ADV	ATT	VOB	ADV	ADV	HED	VOB	VOB	WP	SBV	VV	DE	DE	DE	ATT	SBV	VOB	MT	WP
+4	4	4	10	10	7	5	10	10	0	10	10	10	15	10	19	19	19	20	21	15	21	15
+
+物业管理	费	，	还	有	代收	的	水电	燃气	费用	，	如果	没有	缴纳	物业管理	费	，	但是	缴纳	了	其他	费用	，	作为	物业管理	公司	是	没有	权利	掐	水	断	电	的	，	可以	协商	解决	，	但是	如果	没有	解决	呢	，	可以	向	水电	管理部门	进行	投诉	。
+i	n	wp	d	v	v	u	n	n	n	wp	c	v	v	i	n	wp	c	v	u	r	n	wp	p	nz	n	v	v	n	v	n	v	n	u	wp	v	v	v	wp	c	c	d	v	u	wp	v	p	n	i	v	v	wp
+ATT	IS	WP	ADV	HED	DE	MT	ATT	VOB	VOB	WP	CNJ	VV	VOB	VOB	VOB	WP	CNJ	IC	MT	ATT	VOB	WP	ADV	ATT	POB	ADV	COO	VOB	VOB	VOB	VOB	VOB	MT	WP	ADV	ADV	VOB	WP	CNJ	CNJ	ADV	WP	MT	WP	ADV	ADV	POB	POB	IC	VOB	WP
+2	5	2	5	0	7	5	9	5	5	5	13	5	13	14	14	13	19	13	19	22	19	13	37	26	24	28	26	28	28	30	30	32	32	28	37	39	37	13	43	43	43	39	43	43	50	50	47	47	43	50	5
+
+办理	入住	手续	的	时候	，	开发商	未能	及时	地	出示	竣工	验收	备案	表	，	业主	该	怎么办	呢	？
+v	v	n	u	n	wp	n	v	a	u	v	v	v	v	n	wp	n	v	v	i	wp
+ADV	HED	DE	ATT	ADV	WP	SBV	ADV	DI	ADV	ADV	ADV	CMP	CMP	VOB	WP	SBV	ADV	WP	VOB	WP
+2	0	4	5	11	5	9	9	10	11	19	13	11	13	13	11	19	19	21	19	2
+
+作为	业主	来说	可以	拒绝	收	房	，	由	此	产生	的	延期	交	房	的	责任	由	开发商	承担	。
+p	n	u	v	v	v	n	wp	p	r	v	u	v	v	n	u	n	p	n	v	wp
+ADV	POB	RAD	ADV	ADV	HED	VOB	WP	ADV	POB	IC	MT	DE	DE	DE	ATT	SBV	ADV	POB	IC	WP
+6	1	2	6	6	0	6	6	11	9	6	11	16	16	16	17	20	20	18	11	11
+
+恐怕	我	已经	把	墨水儿	都	洒在	案布	上	了	。
+d	r	d	p	n	d	v	v	v	u	wp
+ADV	SBV	ADV	ADV	POB	ADV	HED	VOB	CMP	MT	WP
+7	7	7	7	4	7	0	7	8	7	7
+
+嗯	别	在意	。
+e	d	v	wp
+IS	ADV	HED	WP
+3	3	0	3
+
+我	非常	抱歉	，	你	能不能	让	我	赔偿	呀	？
+r	d	a	wp	r	n	v	r	v	u	wp
+SBV	ADV	HED	WP	ATT	ADV	IC	VOB	VOB	MT	WP
+3	3	0	3	6	7	3	7	7	9	7
+
+不	，	我	不	希望	你	这么	说	。
+d	wp	r	d	v	r	d	r	wp
+IS	WP	SBV	ADV	HED	SBV	ADV	VOB	WP
+5	1	5	5	0	8	8	5	5
+
+我	不	知道	该	说	些	什么	，	当然	我	会	赔	你	的	。
+r	d	n	r	v	q	r	wp	d	r	v	v	r	u	wp
+SBV	ADV	SBV	ADV	HED	ATT	VOB	WP	ADV	SBV	ADV	VOB	VOB	MT	WP
+5	5	5	5	0	7	5	5	12	12	12	5	12	12	5
+
+不	，	根本	谈	不	上	赔	。
+d	wp	d	v	u	v	v	wp
+IS	WP	ADV	HED	MT	ADV	VOB	WP
+4	1	4	0	4	7	4	4
+
+我	真	地	很	抱歉	，	我	星期一	的	第	一	件	事儿	就	是	给	你	买	个	新	的	。
+r	d	u	d	a	wp	r	nt	u	m	m	q	n	d	v	p	r	v	q	a	u	wp
+SBV	ADV	MT	ADV	HED	WP	SBV	DE	ATT	QUN	QUN	ATT	SBV	ADV	IC	ADV	POB	IC	ATT	VOB	MT	WP
+5	5	2	5	0	5	8	9	13	11	12	13	15	15	5	18	16	15	20	18	18	15
+
+一定	别	这样儿	。
+d	d	n	wp
+ADV	ADV	HED	WP
+3	3	0	3
+
+无论如何	我	都	不	喜欢	这样儿	。
+i	r	d	d	v	n	wp
+IS	SBV	ADV	ADV	HED	VOB	WP
+5	5	5	5	0	5	5
+
+嗯	那	太	不好意思	了	。
+e	r	d	a	u	wp
+IS	SBV	ADV	HED	MT	WP
+4	4	4	0	4	4
+
+恩	没	关系	的	。
+n	v	n	u	wp
+SBV	HED	VOB	MT	WP
+2	0	2	2	2
+
+呃	请	抽	根儿	烟	。
+o	v	v	n	n	wp
+IS	ADV	HED	ATT	VOB	WP
+2	3	0	5	3	3
+
+不	，	谢谢	。
+d	wp	v	wp
+IS	WP	HED	WP
+3	1	0	3
+
+我	正	打算	戒烟	。
+r	d	v	v	wp
+SBV	ADV	HED	VOB	WP
+3	3	0	3	3
+
+呃	得	啦	，	我	一定	要	你	抽	。
+v	u	u	wp	r	d	v	r	v	wp
+IS	MT	MT	WP	SBV	ADV	HED	SBV	VOB	WP
+7	1	1	1	7	7	0	9	7	7
+
+不	，	真	的	，	谢谢	你	。
+d	wp	a	u	wp	v	r	wp
+IS	WP	HED	MT	WP	IS	VOB	WP
+3	1	0	3	3	3	6	3
+
+我	有点儿	咳嗽	。
+r	d	v	wp
+SBV	ADV	HED	WP
+3	3	0	3
+
+哎	请	抽	一	支	吧	。
+e	v	v	m	q	u	wp
+IS	ADV	HED	QUN	VOB	MT	WP
+3	3	0	5	3	3	3
+
+这	是	新	牌子	。
+r	v	a	n	wp
+SBV	HED	ATT	VOB	WP
+2	0	4	2	2
+
+我	似乎	老是	抽	你	的	。
+r	d	d	v	r	u	wp
+SBV	ADV	ADV	HED	DE	MT	WP
+4	4	4	0	6	4	4
+
+没	什么	，	那	我	就	抽	一	支	吧	。
+v	i	wp	c	r	d	v	m	q	u	wp
+IS	VOB	WP	CNJ	SBV	ADV	HED	QUN	VOB	MT	WP
+7	1	1	7	7	7	0	9	7	7	7
+
+你	有	火	吗	？
+r	v	n	u	wp
+SBV	HED	VOB	MT	WP
+2	0	2	2	2
+
+呃	有	，	我	给	你	点	。
+o	v	wp	r	p	r	v	wp
+IS	IS	WP	SBV	ADV	POB	HED	WP
+2	7	2	7	7	5	0	7
+
+我们	该	走	了	。
+r	r	v	u	wp
+SBV	ADV	HED	MT	WP
+3	3	0	3	3
+
+这么	早	？
+r	a	wp
+SBV	HED	WP
+2	0	2
+
+难道	不能	多	呆	一会儿	吗	？
+d	v	a	v	m	u	wp
+ADV	ADV	ADV	HED	VOB	MT	WP
+2	4	4	0	4	4	4
+
+我	是	想	多	呆	一会儿	，	但是	我	已经	晚	了	。
+r	v	v	a	v	m	wp	c	r	d	a	u	wp
+SBV	HED	ADV	ADV	VOB	VOB	WP	CNJ	SBV	ADV	VOB	MT	WP
+2	0	5	5	2	5	5	11	11	11	5	11	2
+
+真	遗憾	！
+d	a	wp
+ADV	HED	WP
+2	0	2
+
+谢谢	你	的	美餐	。
+v	r	u	n	wp
+HED	DE	ATT	VOB	WP
+0	3	4	1	1
+
+你	能	满意	我	很	高兴	。
+r	v	v	r	d	nh	wp
+SBV	ADV	HED	SBV	ADV	VOB	WP
+3	3	0	6	6	3	3
+
+呃	可是	现在	我	真	的	要	告辞	了	。
+o	c	nt	r	a	u	v	v	u	wp
+IS	HED	ADV	SBV	DE	ATT	ADV	VOB	MT	WP
+2	0	7	7	6	7	8	2	8	2
+
+不能	再	呆	会儿	吃	些	点心	吗	？
+v	d	v	v	v	q	n	u	wp
+ADV	ADV	HED	VOB	VOB	ATT	VOB	MT	WP
+3	3	0	3	3	7	5	5	3
+
+嗯	你	真	的	太	好	了	，	可是	我	确实	不能	再	晚	了	。
+e	r	a	u	d	a	u	wp	c	r	a	v	d	a	u	wp
+IS	SBV	DE	SBV	ADV	HED	MT	WP	CNJ	SBV	ADV	ADV	ADV	IC	MT	WP
+3	3	4	6	6	0	6	6	14	12	12	14	14	6	14	6
+
+真	遗憾	！
+d	a	wp
+ADV	HED	WP
+2	0	2
+
+非常	感谢	你	的	这	次	聚会	。
+d	v	r	u	r	r	v	wp
+ADV	HED	DE	VOB	SBV	SBV	VOB	WP
+2	0	4	2	7	7	2	2
+
+你	能	来	我	很	高兴	。
+r	v	v	r	d	nh	wp
+SBV	ADV	HED	SBV	ADV	VOB	WP
+3	3	0	6	6	3	3
+
+谢谢	你	，	今晚	过	得	真	愉快	。
+v	r	wp	nt	v	u	d	a	wp
+ADV	VOB	WP	ADV	HED	MT	ADV	DEI	WP
+5	1	1	5	0	5	8	6	5
+
+你	能	安排	我	做	零工	吗	？
+r	v	v	r	v	n	u	wp
+SBV	ADV	HED	SBV	VOB	VOB	MT	WP
+3	3	0	5	3	5	5	5
+
+你	特别	喜欢	干	什么	？
+r	d	v	v	r	wp
+SBV	ADV	HED	VOB	VOB	WP
+3	3	0	3	3	3
+
+嗯	我	很	愿意	在	学校	找	个	职业	。
+e	r	d	v	p	n	v	q	n	wp
+IS	SBV	ADV	HED	ADV	POB	VV	ATT	VOB	WP
+4	4	4	0	7	5	4	9	7	4
+
+你	以前	干	过	那	种	工作	吗	？
+r	nd	v	u	r	r	v	u	wp
+SBV	ADV	HED	MT	CNJ	SBV	IC	MT	WP
+3	3	0	3	7	7	3	7	3
+
+干	过	，	去年	夏天	我	就	在	干	这	种	工作	。
+v	u	wp	n	n	r	d	p	v	r	r	n	wp
+IS	MT	WP	ATT	SBV	SBV	ADV	ADV	HED	ATT	ATT	VOB	WP
+9	1	1	5	9	9	9	9	0	11	12	9	9
+
+我	也许	能	帮助	你	，	但是	我	需要	证明书	。
+r	d	v	v	r	wp	c	r	v	n	wp
+SBV	ADV	ADV	HED	VOB	WP	CNJ	SBV	VOB	VOB	WP
+4	4	4	0	4	4	9	9	4	9	4
+
+啊	我	今天	没	带来	，	明天	带来	行	吗	？
+e	r	nt	d	v	wp	nt	v	a	u	wp
+IS	SBV	ADV	ADV	HED	WP	ADV	IC	CMP	MT	WP
+5	5	5	5	0	5	8	5	8	8	5
+
+行	，	那	明天	见	。
+v	wp	r	nt	v	wp
+IS	WP	SBV	ADV	HED	WP
+5	1	5	5	0	5
+
+我	是	魏正康	。
+r	v	nh	wp
+SBV	HED	VOB	WP
+2	0	2	2
+
+我	是	九零年	去	新西兰	留学	的	，	主要	是	城市	固体	废弃物	的	综合	利用	的	研究	，	九七年	被	开放	的	大好	形势	所	吸引	，	鼓励	留学生	回国	创业	的	优惠	政策	，	创建	了	上海绿环集团	。
+r	v	nt	v	ns	v	u	wp	a	v	n	n	n	u	a	i	u	v	wp	nt	p	v	u	a	i	u	v	wp	v	n	v	v	u	n	i	wp	v	u	n	wp
+SBV	HED	ADV	VV	VOB	VV	MT	WP	ADV	VOB	ATT	ATT	DE	VOB	VOB	DE	ATT	SBV	WP	DE	ADV	DE	SBV	ADV	SBV	ATT	POB	WP	ADV	VOB	ADV	DE	ATT	SBV	COO	WP	IS	MT	VOB	WP
+2	0	4	2	4	4	6	2	10	2	12	13	14	10	10	17	18	35	18	33	31	23	27	25	27	27	21	27	31	29	32	33	34	35	15	35	35	37	37	2
+
+魏总	，	浦东	为	创业	提供	了	怎样	的	机遇	？
+nh	wp	ns	p	v	v	u	r	u	n	wp
+IS	WP	SBV	ADV	ADV	HED	MT	DE	ATT	VOB	WP
+6	1	6	6	6	0	6	9	10	6	6
+
+啊	我	创业	近	六	年	以来	，	我	认为	我	选择	浦东	是	对	的	。
+e	r	v	a	m	q	nd	wp	r	v	r	v	ns	v	a	u	wp
+IS	SBV	HED	CMP	QUN	ATT	VOB	WP	SBV	IC	SBV	IC	VOB	VOB	DE	MT	WP
+3	3	0	3	6	7	3	3	10	3	12	10	12	12	16	14	3
+
+对	固定	废弃物	的	综合	利用	、	综合	处理	，	一定	要	跟	现在	的	改革开放	，	现在	的	浦东	建设	比较	高	的	起点	来	设置	规划	，	城市	固体	废弃物	的	综合	利用	、	综合	处理	方面	，	也	就是	我们	说	的	软件	这	一块儿	，	也	要	相应	的	跟上	。
+p	v	n	u	a	i	wp	v	v	wp	d	v	p	nt	u	i	wp	nt	u	ns	v	d	a	u	n	v	v	n	wp	n	n	n	u	a	i	wp	v	v	n	wp	d	v	r	v	u	n	r	nl	wp	d	n	v	u	v	wp
+IS	DE	VOB	POB	POB	IS	WP	ADV	HED	WP	ADV	IC	ADV	DE	ATT	VOB	WP	DE	ATT	SBV	DE	ADV	DE	ATT	SBV	ADV	DE	VOB	WP	ATT	ATT	DE	ATT	COO	COO	WP	ADV	DC	VOB	WP	ADV	IC	SBV	DE	ATT	VOB	ATT	VOB	WP	ADV	SBV	DE	ATT	COO	WP
+9	4	2	1	1	9	6	9	0	9	12	9	16	15	16	9	16	19	20	27	24	23	24	25	27	27	33	27	27	31	32	33	34	16	34	35	38	42	38	38	42	35	44	45	46	42	48	42	42	52	52	53	54	35	9
+
+魏总	，	回国	创业	在	浦东	创业	最大	的	感受	是	什么	？
+nh	wp	v	v	p	ns	v	j	u	v	v	r	wp
+IS	WP	ADV	HED	ADV	POB	DE	DE	ATT	POB	VOB	VOB	WP
+4	1	4	0	11	5	9	9	10	5	4	11	4
+
+呃	回国	创业	，	从	我	个人	来说	，	肯定	是	第	一	位	的	，	这	里面	，	呃	就是	从	什么	地方	来	体现	自己	的	个人	价值	？
+o	v	v	wp	p	r	n	u	wp	d	v	m	m	m	u	wp	r	n	wp	o	v	p	r	n	v	v	r	u	r	n	wp
+IS	HED	VOB	WP	ADV	ATT	POB	MT	WP	ADV	IC	QUN	QUN	VOB	MT	WP	ATT	VOB	WP	IS	IC	ADV	ATT	POB	VOB	VV	DE	ATT	ATT	VOB	WP
+2	0	2	2	11	7	5	7	7	11	2	13	14	11	11	11	18	11	11	21	11	25	24	22	21	25	28	30	30	25	2
+
+我	认为	，	就是	追求	经济	上	的	一个	价值	。
+r	v	wp	v	v	n	nd	u	m	n	wp
+SBV	HED	WP	ADV	DE	ATT	DE	ATT	QUN	VOB	WP
+2	0	2	5	8	7	8	10	10	2	2
+
+追求	价值	的	同时	，	整个	浦东	地区	、	上海	地区	实现	这个	追求	是	很	值得	的	。
+v	n	u	n	wp	b	ns	n	wp	ns	n	v	r	v	v	d	v	u	wp
+ATT	DE	ATT	VOB	WP	HED	ATT	SBV	WP	ATT	SBV	VV	SBV	ADV	VOB	ADV	VOB	MT	WP
+6	3	4	1	1	0	8	12	11	11	12	6	15	15	12	17	15	17	12
+
+魏总	，	是否	所有	的	留学生	都	要	报效	祖国	，	都	想	要	创业	呢	？
+nh	wp	v	b	u	n	d	v	v	n	wp	d	v	v	v	u	wp
+IS	WP	ADV	DE	ATT	SBV	ADV	ADV	HED	VOB	WP	ADV	IC	ADV	VOB	MT	WP
+9	1	9	5	6	9	9	9	0	9	9	13	9	15	13	13	9
+
+呃	我	个人	认为	，	留学生	回国	报效	祖国	，	不	一定	要	停留在	创业面儿	上	，	每个人	的	情况	不同	，	创业	也	不	一定	能够	成功	，	如果	你	决定	要	回国	的话	呢	，	一定	要	根据	自身	的	情况	，	要	找	一	条	最佳	的	切入点	，	或者说	是	结合面儿	，	你	是不是	适合于	创业	的	。
+o	r	n	v	wp	n	v	v	n	wp	d	i	v	v	n	nd	wp	n	u	n	a	wp	v	d	d	v	v	a	wp	c	r	v	v	v	n	u	wp	d	v	p	r	u	n	wp	v	v	m	q	a	u	n	wp	n	v	n	wp	r	v	v	v	u	wp
+IS	ATT	SBV	HED	WP	SBV	ADV	IC	VOB	WP	ADV	IC	ADV	DE	ATT	VOB	WP	DE	ATT	SBV	IS	WP	IC	ADV	ADV	VV	VV	VOB	WP	CNJ	SBV	ADV	ADV	DE	VOB	MT	WP	ADV	DE	VOB	DE	ATT	VOB	WP	ADV	WP	QUN	ATT	DE	ATT	VOB	WP	SBV	WP	VOB	WP	SBV	ADV	ADV	VOB	MT	WP
+4	3	4	0	4	8	8	4	8	4	12	4	14	19	16	14	14	19	20	21	34	21	21	26	26	23	26	26	21	34	34	34	34	42	34	34	34	39	42	39	42	43	12	4	46	44	48	51	50	51	46	4	54	56	54	4	59	59	62	59	60	4
+
+有	人才	带	着	自己	的	技术	来到	浦东	，	他们	是	如何	解决	资金	的	问题	？
+v	n	v	u	r	u	n	v	ns	wp	r	v	r	v	n	u	n	wp
+DC	VOB	HED	MT	DE	ATT	SBV	IC	VOB	WP	SBV	IC	SBV	DE	DE	ATT	VOB	WP
+3	1	0	3	6	7	8	3	8	8	12	8	14	16	16	17	12	3
+
+呃	这个	问题	，	我们	现在	确实	也	碰到	了	，	有	好	的	技术	，	或者	是	好	的	产品	等	，	需要	解决	创业	资金	的	问题	。
+o	r	n	wp	r	nt	a	d	v	u	wp	v	a	u	n	wp	c	v	a	u	n	u	wp	v	v	v	n	u	n	wp
+IS	ATT	SBV	WP	SBV	ADV	ADV	ADV	HED	MT	WP	IC	DE	ATT	VOB	WP	CNJ	VV	DE	ATT	VOB	MT	WP	ADV	VOB	DE	DE	ATT	VOB	WP
+9	3	9	3	9	9	9	9	0	9	9	9	14	15	12	12	18	12	20	21	18	18	18	25	18	28	28	29	25	9
+
+我们	浦东	政府	对	留学生	创业	，	解决	了	一个	政府	担保	的	问题	，	或者	是	创业	人	投资	公司	，	只要	你	的	理念	、	你	的	技术	有	很	好	的	发展	前景	，	有	很	好	的	市场	，	在	这	方面	你	就	不用	担心	了	。
+r	ns	n	p	n	v	wp	v	u	m	n	v	u	n	wp	c	v	v	n	v	i	wp	c	r	u	n	wp	r	u	n	v	d	a	u	v	n	wp	v	d	a	u	n	wp	p	r	n	r	d	d	v	u	wp
+SBV	ATT	SBV	ADV	POB	HED	WP	IC	MT	QUN	SBV	DE	ATT	VOB	WP	CNJ	IC	VOB	VOB	VOB	VOB	WP	CNJ	DE	ATT	VOB	WP	DE	ATT	SBV	VOB	ADV	DE	ATT	ATT	VOB	WP	VV	ADV	DE	ATT	VOB	WP	ADV	ATT	POB	SBV	ADV	ADV	VOB	MT	WP
+6	3	6	6	4	0	6	6	8	11	12	13	14	8	8	17	8	17	18	18	20	17	26	25	26	17	17	29	30	31	17	33	34	36	36	31	31	31	40	41	42	38	38	50	46	44	50	50	50	38	50	6
+
+魏总	，	你	对于	上海	就业	、	生活	的	环境	是否	满意	？
+nh	wp	r	p	ns	v	wp	v	u	n	v	v	wp
+SBV	WP	SBV	ADV	POB	HED	WP	DE	ATT	SBV	VV	VOB	WP
+6	1	6	6	4	0	6	9	10	11	6	11	6
+
+我	出国	深造	时	已经	三十六岁	了	，	交通	环境	、	医疗	环境	等	，	还是	比较	好	的	。
+r	v	i	n	d	i	u	wp	n	n	wp	n	n	u	wp	c	d	a	u	wp
+SBV	HED	VOB	SBV	ADV	VOB	MT	WP	ATT	VOB	WP	ATT	COO	MT	WP	CNJ	ADV	IC	MT	WP
+2	0	2	6	6	2	6	2	10	2	13	13	10	13	14	18	18	14	18	14
+
+我	自己	的	体会	来说	，	我们	本身	的	生活	水平	，	从	上海	地区	、	浦东	地区	来说	，	与	发达	国家	差别	不是	很	大	，	抱	着	回国	创业	，	在	这	方面	还是	有	所	追求	的话	，	应该	不	是	问题	。
+r	r	u	v	u	wp	r	r	u	n	i	wp	p	ns	n	wp	ns	n	u	wp	p	a	i	n	c	d	a	wp	v	u	v	v	wp	p	r	n	d	v	u	v	n	wp	v	d	v	n	wp
+SBV	DE	SBV	HED	MT	WP	SBV	DE	ATT	SBV	VOB	WP	ADV	ATT	POB	WP	ATT	POB	RAD	WP	ADV	ATT	ATT	POB	CNJ	ADV	IS	WP	IS	MT	ADV	VOB	WP	ADV	ATT	POB	ADV	IC	MT	ATT	MT	WP	ADV	ADV	IC	VOB	WP
+4	3	4	0	4	4	11	9	10	11	4	11	38	15	13	18	18	13	18	18	38	23	24	21	27	27	38	27	38	29	32	29	29	38	36	34	38	11	38	41	38	38	45	45	38	45	45
+
+目前	浦东	的	经济	文化	环境	有	哪些	不足之处	？
+nt	ns	u	n	v	n	v	r	i	wp
+ADV	DE	ATT	SBV	HED	VOB	VOB	ATT	VOB	WP
+2	3	4	5	0	5	5	9	7	5
+
+维权	问题	应该	说	是	留学生	回国	创业	要	特别	注意	的	问题	，	为什么	这么	说	呢	？
+v	n	v	v	v	n	v	v	v	d	v	u	n	wp	r	d	v	u	wp
+IS	VOB	ADV	HED	VOB	VOB	VOB	VOB	ADV	ADV	DE	ATT	VOB	WP	SBV	ADV	WP	MT	WP
+4	1	4	0	4	4	4	4	11	11	12	13	8	4	17	17	19	17	4
+
+你	好不容易	带	回来	一个	产品	，	通过	科研	开发	，	把	这	个	产品	开发	出来	，	你	很	辛苦	的	把	这	个	产品	有	了	一个	市场	需求	，	然后	由于	国内	出现	了	很	多	仿冒	产品	，	国内	在	这	方面	的	保护	力度	，	还	不是	太	完善	，	这	个	问题	应该	说	还是	比较	客观	的	。
+r	a	v	v	m	n	wp	p	n	v	wp	p	r	q	n	v	v	wp	r	d	a	u	p	r	q	n	v	u	m	n	n	wp	c	p	nl	v	u	d	a	v	n	wp	nl	p	r	n	u	v	n	wp	d	v	d	v	wp	r	q	n	v	v	d	d	a	u	wp
+SBV	ADV	ADV	HED	QUN	VOB	WP	ADV	POB	VOB	WP	ADV	ATT	ATT	POB	ADV	VOB	WP	SBV	ADV	DE	SBV	ADV	ATT	ATT	POB	DC	MT	QUN	ATT	VOB	WP	CNJ	ADV	POB	ADV	MT	ADV	ADV	DE	VOB	WP	ATT	ATT	ATT	DE	ATT	ATT	IS	WP	ADV	WP	ADV	VOB	WP	ATT	ATT	SBV	ADV	ADV	ADV	ADV	WP	MT	WP
+3	3	4	0	6	4	4	10	8	4	4	27	14	15	12	27	16	16	27	21	22	27	27	25	26	23	40	27	30	31	27	27	40	36	34	40	36	40	40	47	40	40	46	46	46	47	49	49	52	49	52	55	54	52	4	57	58	63	60	63	63	63	65	63	4
+
+浦东	有	哪些	人才	政策	呢	？
+ns	v	r	n	n	u	wp
+SBV	HED	ATT	ATT	VOB	MT	WP
+2	0	5	5	2	2	2
+
+浦东	开发	开放	十一年	以来	，	在	吸引	人才	方面	陆陆续续	出台	了	一些	相关	的	人才	政策	。
+ns	v	v	n	ns	wp	p	v	n	n	v	v	u	m	v	u	n	n	wp
+SBV	ADV	HED	VOB	VOB	WP	ADV	ATT	ATT	POB	VOB	VOB	MT	ATT	DE	ATT	ATT	VOB	WP
+3	3	0	3	3	3	11	10	10	7	3	11	12	18	16	18	18	11	11
+
+浦东新区	关于	吸引	高层次	的	人才	和	本科	以上	应届生	来	鼓励	浦东	创业	发展	的	若干	规定	、	浦东新区	引进	海外	留学人员	来	园区	工作	的	有关	规定	，	鼓励	专业	管理	人才	及	技术	人员	来	创业园区	的	创业	的	若干	办法	、	留学生	创业	资金	管理	的	办法	等	。
+ns	p	v	n	u	n	c	n	nd	n	v	v	ns	v	v	u	m	ns	wp	ns	v	n	n	v	n	v	u	a	i	wp	v	n	v	i	c	n	n	v	ns	u	v	u	m	n	wp	n	v	n	i	u	n	u	wp
+SBV	ADV	DE	DE	ATT	POB	LAD	COO	COO	COO	HED	VV	VOB	VOB	DE	MT	CMP	VOB	WP	SBV	VV	ATT	VOB	VV	VOB	IC	MT	DEI	COO	WP	VV	VOB	VOB	VOB	VOB	ATT	SBV	DE	VOB	ATT	DE	ATT	QUN	VOB	WP	SBV	DI	SBV	DE	ATT	VOB	MT	WP
+11	11	5	5	6	2	8	6	6	6	0	11	12	12	16	14	14	14	11	21	11	23	21	21	24	24	26	27	28	24	24	31	31	33	33	37	38	40	38	44	42	44	44	35	11	47	52	49	50	51	47	45	11
+
+这些	政策	的	详细	内容	，	可以	通过	网站	，	如	浦东	人才	网站	上网	查询	。
+r	n	u	a	i	wp	v	p	n	wp	v	ns	n	n	v	v	wp
+ATT	DE	ATT	HED	COO	WP	ADV	CMP	POB	WP	IC	ATT	ATT	SBV	VOB	VOB	WP
+2	3	4	0	4	5	11	7	8	7	5	13	14	15	11	15	11
+
+现在	啊	我国	已经	入世	了	，	像	中专	这样	的	人才	，	在	浦东	发展	的	过程	中	还	有	多	大	机会	？
+nt	u	n	d	v	u	wp	p	n	r	u	n	wp	p	ns	v	u	n	nd	d	v	d	a	n	wp
+ADV	ATT	SBV	ADV	HED	MT	WP	ADV	POB	DE	ATT	POB	WP	ADV	POB	DE	ATT	ATT	POB	ADV	IC	ADV	ATT	VOB	WP
+5	3	5	5	0	5	5	21	8	11	12	8	8	21	14	17	18	19	14	21	5	23	24	21	21
+
+呃	我国	入世	了	，	人才	的	竞争	将会	更加	激烈	，	客观	讲	高	学历	人才	的	竞争	优势	将	更加	明显	。	但	人才	结构	，	要	有	一个	合理	的	科学	布局	，	浦东	现在	有	一	类	人才	就	非常	短缺	－	高级	技术	工人	，	只要	你	在	你	的	领域	，	能够	有	所	建树	，	同样	就	可以	在	浦东	拥有	用武之地	。
+o	n	v	u	wp	n	u	v	n	d	a	wp	a	v	a	n	n	u	n	i	d	d	i	wp	c	n	i	wp	v	v	m	a	u	n	n	wp	ns	nt	v	m	q	n	d	d	v	wp	a	n	n	wp	c	r	p	r	u	n	wp	v	v	u	v	wp	d	d	v	p	ns	v	i	wp
+IS	SBV	DE	MT	WP	DE	ATT	ATT	SBV	ADV	HED	WP	ADV	IC	ATT	ATT	DE	ATT	SBV	VOB	ADV	ADV	VOB	WP	VOB	SBV	SBV	WP	ADV	VV	ATT	DE	ATT	ATT	VOB	WP	SBV	ADV	VOB	QUN	ATT	VOB	ADV	ADV	VV	WP	ATT	ATT	VOB	WP	CNJ	SBV	ADV	DE	ATT	POB	WP	ADV	POB	MT	VOB	WP	ADV	ADV	ADV	ADV	POB	VOB	VOB	WP
+11	3	7	3	3	7	9	9	11	11	0	11	14	11	16	17	18	19	20	14	23	23	14	14	14	27	30	27	30	25	34	33	34	35	30	30	39	39	30	41	42	39	45	45	39	39	48	49	39	30	69	69	69	55	56	53	53	59	53	59	59	59	65	65	68	68	66	59	25	14
+
+作为	浦东新区	留学生	联谊会	副会长	，	您	可能	比较	了解	海归派	，	现在	呀	有	一种	说法	，	认为	很多	人	长期	在	国外	，	不	了解	国情	，	是不是	有	一定	的	道理	？
+p	ns	n	n	n	wp	r	v	d	v	n	wp	nt	u	v	m	n	wp	v	m	n	d	p	nl	wp	d	v	n	wp	v	v	b	u	n	wp
+ADV	ATT	ATT	ATT	POB	WP	SBV	ADV	ADV	HED	VOB	WP	ADV	SBV	VV	QUN	VOB	WP	VV	QUN	VOB	ADV	ADV	POB	WP	ADV	VV	VOB	WP	ADV	VV	DE	ATT	VOB	WP
+10	3	4	5	1	1	10	10	10	0	10	10	15	15	10	17	15	15	15	21	19	27	27	23	23	27	19	27	27	31	27	33	34	31	10
+
+呃	如果	你	不	了解	国情	，	就	不要	回来	，	你	了解	国情	，	才	回来	，	现在	整个儿	的	经济	形势	、	政治	的	形势	，	对	政治	的	形势	，	都	不	了解	的话	，	就	很	危险	了	，	有	一	有	一	句	话	叫	盲人	骑	黑马	，	如果	你	要	回国	，	不管	是	创业	还是	就业	，	就要	把	国情	了解	了	再	说	。
+o	c	r	d	v	n	wp	d	d	v	wp	r	v	n	wp	d	v	wp	nt	n	u	n	n	wp	n	u	n	wp	p	n	u	n	wp	d	d	v	n	wp	d	d	a	u	wp	v	m	v	m	q	i	v	n	v	n	wp	c	r	v	v	wp	c	v	v	c	v	wp	d	p	n	v	u	d	v	wp
+IS	CNJ	SBV	ADV	DC	VOB	WP	ADV	ADV	DC	WP	SBV	DE	VOB	WP	ADV	IC	WP	ADV	DE	ATT	ATT	DE	WP	DE	ATT	SBV	WP	ADV	DE	ATT	SBV	WP	ADV	ADV	DC	MT	WP	ADV	ADV	HED	MT	WP	IC	QUN	VV	QUN	VOB	SBV	VOB	VOB	VOB	VOB	WP	CNJ	SBV	ADV	VOB	WP	CNJ	ADV	VOB	CNJ	COO	WP	ADV	ADV	POB	WP	MT	ADV	IC	WP
+41	5	5	5	10	5	5	10	10	13	10	13	21	13	13	17	13	13	20	21	23	23	26	25	26	27	36	27	36	31	32	36	32	36	36	41	36	36	41	41	0	41	41	41	46	44	48	46	50	46	50	50	52	46	58	58	58	46	44	61	69	61	64	62	61	69	69	67	73	69	72	69	44
+
+现在	年轻人	创业	，	要	准备	干	什么	？
+nt	n	v	wp	v	v	v	v	wp
+ADV	SBV	HED	WP	ADV	IC	VOB	VOB	WP
+3	3	0	3	6	3	6	7	3
+
+呃	如果	创业	的话	呢	，	我	刚才	已经	说	了	，	一定	要	结合	自己	的	个人	能力	，	你	的	身体	状况	，	你	的	资金	状况	，	你	如果	有	了	这	一切	，	决定	创业	的话	，	接下来	就是	怎样	脚踏实地	了	。
+o	c	v	n	u	wp	r	nt	d	v	u	wp	d	v	v	r	u	n	n	wp	r	u	n	i	wp	r	u	n	n	wp	r	c	v	u	r	r	wp	v	v	n	wp	c	v	r	i	u	wp
+IS	CNJ	DC	VOB	MT	WP	SBV	ADV	ADV	HED	MT	WP	ADV	ADV	IC	DE	ATT	ATT	VOB	WP	DE	ATT	SBV	VOB	WP	DE	ATT	ATT	SBV	WP	SBV	CNJ	DC	MT	ATT	VOB	WP	ADV	COO	VOB	WP	CNJ	IC	ATT	VOB	MT	WP
+3	3	10	3	3	3	10	10	10	0	10	10	15	15	10	17	18	19	15	15	22	23	24	15	24	27	28	29	33	29	33	33	39	33	36	33	33	39	24	39	39	43	39	45	43	43	10
+
+由于	时间	的	关系	，	聊天	到	此	结束	，	谢谢	嘉宾	。
+c	n	u	n	wp	v	v	r	v	wp	v	n	wp
+CNJ	DE	ATT	IS	WP	ADV	HED	VOB	VOB	WP	VOB	VOB	WP
+7	3	4	7	4	7	0	7	7	7	7	11	7
+
+我	就	直	说	吧	，	我	觉得	对于	公司	和	老板	来说	呢	，	职工	关心	公司	的	发展	是	最	重要	的	。
+r	d	d	v	u	wp	r	v	p	n	c	n	u	u	wp	n	v	n	u	v	v	d	a	u	wp
+SBV	ADV	ADV	HED	MT	WP	SBV	IC	ADV	POB	LAD	COO	MT	MT	WP	SBV	VOB	VOB	ATT	SBV	VOB	ADV	VOB	MT	WP
+4	4	4	0	4	4	8	4	17	9	12	10	10	13	9	17	8	17	20	21	17	23	21	21	4
+
+俗话	说	，	一个	好汉	三个	帮	嘛	。
+n	i	wp	m	n	m	q	u	wp
+SBV	HED	WP	QUN	ATT	QUN	VOB	MT	WP
+2	0	2	5	7	7	2	2	2
+
+这	话	怎么	讲	？
+r	n	r	v	wp
+ATT	SBV	ADV	HED	WP
+2	4	4	0	4
+
+呃	就是	说	，	好	的	公司	都	有	一	批	关心	公司	发展	、	爱岗敬业	的	好	职工	，	经理	呢	在	他们	的	帮助	下	，	取得	好	的	成绩	。
+o	d	c	wp	a	u	n	d	v	m	q	v	n	v	wp	i	u	a	n	wp	n	u	p	r	u	v	nd	wp	v	a	u	n	wp
+IS	ADV	IS	WP	DE	ATT	SBV	ADV	HED	QUN	ATT	ATT	VOB	VOB	WP	DE	ATT	ATT	VOB	WP	SBV	MT	VOB	DE	SBV	POB	VOB	WP	VV	DE	ATT	VOB	WP
+3	3	9	3	6	7	9	9	0	11	13	13	9	9	9	17	19	19	9	9	23	21	9	25	26	23	26	26	26	31	32	29	9
+
+同时	职工	自己	也	找到	了	发展	的	机会	。
+c	n	r	d	v	u	v	u	n	wp
+CNJ	SBV	SBV	ADV	HED	MT	DE	ATT	VOB	WP
+5	5	5	5	0	5	8	9	5	5
+
+确实	是	这样儿	。
+a	v	n	wp
+ADV	HED	VOB	WP
+2	0	2	2
+
+呃	我	担任	酒楼	的	老板	已经	好	几	年	了	。
+o	r	v	n	u	n	d	a	m	q	u	wp
+IS	SBV	HED	DE	ATT	SBV	ADV	IC	QUN	CMP	MT	WP
+3	3	0	5	6	8	8	3	10	8	3	3
+
+我	认为	好	职工	就	应该	听话	、	勤快	。
+r	v	a	n	d	v	a	wp	a	wp
+SBV	HED	ATT	SBV	ADV	ADV	VOB	WP	COO	WP
+2	0	4	7	7	7	2	7	7	2
+
+老板	的	话	对	职工	来说	就是	命令	，	让	你	做	什么	事儿	自然	就	有	老板	的	道理	，	所以	听话	是	职工	至少	应该	做到	的	一	条儿	。
+n	u	n	p	n	u	v	n	wp	v	r	v	r	n	d	d	v	n	u	n	wp	c	a	v	n	d	v	v	u	m	n	wp
+DE	ATT	SBV	IS	POB	ADV	HED	VOB	WP	VV	VOB	VOB	ATT	SBV	ADV	ADV	VV	DE	ATT	VOB	WP	CNJ	ADV	VOB	VOB	ADV	ADV	DE	ATT	QUN	VOB	WP
+2	3	7	7	4	7	0	7	7	7	10	10	14	17	17	17	12	19	20	17	12	24	24	12	24	28	28	29	31	31	24	7
+
+我	觉得	你	说	的	这	一点儿	太	对	了	。
+r	v	r	v	u	r	m	d	a	u	wp
+SBV	HED	SBV	DE	VOB	ATT	VOB	ADV	VOB	MT	WP
+2	0	4	5	2	7	2	9	2	9	2
+
+谁	的	饭店	职工	服务	态度	好	，	谁	的	饭店	顾客	多	，	回头客	也	就	多	。
+r	u	n	n	n	n	a	wp	r	u	n	n	a	wp	n	d	d	a	wp
+DE	ATT	ATT	ATT	ATT	SBV	IS	WP	DE	ATT	ATT	SBV	HED	WP	SBV	ADV	ADV	IC	WP
+2	3	4	5	6	7	13	7	10	11	12	13	0	13	18	18	18	13	13
+
+对	呀	！	你	想	想	，	饭店	虽然	是	我	的	。
+p	u	wp	r	v	v	wp	n	c	v	r	u	wp
+IS	MT	WP	SBV	ADV	HED	WP	SBV	CNJ	IC	VOB	MT	WP
+6	1	1	6	6	0	6	10	10	6	10	10	10
+
+但是	干	好	了	大家	都	好	，	干	不	好	就	都	没	饭	吃	。
+c	v	a	u	r	d	a	wp	v	v	a	d	d	d	n	v	wp
+CNJ	HED	CMP	MT	SBV	ADV	IS	WP	VV	CMP	ADV	ADV	ADV	ADV	SBV	VOB	WP
+2	0	2	2	7	7	9	7	2	9	16	16	16	16	16	9	2
+
+所以	大家	眼里	都	有	活儿	。
+c	r	nl	d	v	n	wp
+CNJ	SBV	SBV	ADV	HED	VOB	WP
+5	5	5	5	0	5	5
+
+到了	忙	起来	的	时候	，	谁	忙	不	过来	，	大家	主动	帮	一把	。
+v	v	v	u	n	wp	r	v	d	v	wp	r	a	v	d	wp
+ADV	HED	CMP	CMP	ADV	WP	SBV	IC	ADV	VV	WP	SBV	ADV	VV	VOB	WP
+2	0	2	3	8	5	8	3	10	8	10	14	14	10	8	2
+
+不过	，	每个人	的	能力	不	同	，	我	最	喜爱	热爱	本职	工作	的	职工	。
+c	wp	n	u	n	d	a	wp	r	d	v	v	n	n	u	n	wp
+CNJ	WP	DE	ATT	SBV	ADV	HED	WP	SBV	ADV	IC	DE	ATT	DE	ATT	VOB	WP
+7	1	4	5	7	7	0	7	11	11	7	15	14	15	16	11	11
+
+怎么	个	不同	法儿	了	，	王老板	？
+r	nz	a	n	u	wp	nh	wp
+ATT	ATT	ATT	ATT	MT	WP	HED	WP
+4	4	4	7	4	4	0	7
+
+呃	人	各	有	所	长	，	也	各	有	所	短	，	有	人	能	当	个	业绩	突出	的	老板	，	有	人	能	当	个	优秀	的	推销员	，	有的	人	能	当	个	大家	都	喜欢	的	司机	，	还	有	人	能	当	个	很	好	的	会计	。
+o	n	r	v	u	a	wp	d	r	v	u	v	wp	v	n	v	v	q	n	a	u	n	wp	v	n	v	v	q	a	u	n	wp	r	n	v	v	q	r	d	v	u	n	wp	d	v	n	v	v	q	d	a	u	n	wp
+IS	SBV	SBV	HED	MT	IS	WP	ADV	SBV	IC	MT	VOB	WP	VV	VOB	ADV	VV	ATT	VOB	DE	ATT	VOB	WP	VV	VOB	ADV	VV	ATT	DE	ATT	VOB	WP	ATT	SBV	ADV	WP	ATT	SBV	ADV	DE	ATT	VOB	WP	ADV	DC	VOB	ADV	VV	ATT	ADV	DE	ATT	VOB	WP
+4	4	4	0	4	10	6	10	10	4	10	10	10	10	14	17	14	19	17	21	22	14	14	14	24	27	24	31	30	31	24	4	34	36	36	43	42	40	40	41	42	36	4	45	54	45	48	45	53	51	52	53	45	4
+
+这	就	叫	“	三百六十	行	，	行行出状元	”	。
+r	d	v	wp	m	q	wp	i	wp	wp
+SBV	ADV	HED	WP	QUN	VOB	WP	VOB	WP	WP
+3	3	0	3	6	3	3	3	8	9
+
+你	的	意思	是	不管	在	哪	个	岗位	上	工作	，	只要	努力	，	就	可以	干	出	好	成绩	。	对	吗	？
+r	u	n	v	c	p	r	r	n	nd	v	wp	c	a	wp	d	v	v	v	a	n	wp	p	u	wp
+DE	ATT	SBV	HED	VOB	ADV	ATT	ATT	ATT	POB	VV	WP	CNJ	IC	WP	ADV	ADV	COO	CMP	ATT	VOB	WP	RPT	MT	WP
+2	3	4	0	4	11	9	9	10	6	5	11	14	11	14	18	18	14	18	21	19	11	5	23	4
+
+就	是	这	个	意思	。
+none	v	r	r	n	wp
+ADV	HED	ATT	ATT	VOB	WP
+2	0	4	5	2	2
+
+你	想	，	公司	需要	高级	人才	，	也	需要	一般	的	工人	，	甚至	打扫	卫生	的	也	离	不	开	。
+r	v	wp	n	v	a	i	wp	d	v	a	u	n	wp	d	v	a	u	d	v	d	v	wp
+SBV	HED	WP	SBV	VV	CMP	COO	WP	ADV	VV	DE	ATT	VOB	WP	ADV	IC	DE	MT	ADV	IC	ADV	VOB	WP
+2	0	2	5	2	5	6	5	10	5	12	13	10	10	16	10	18	16	20	16	22	20	2
+
+做	好	你	应该	做	的	工作	，	就	体现	了	你	的	价值	。
+v	a	r	v	v	u	v	wp	d	v	u	r	u	n	wp
+ADV	ADV	SBV	ADV	HED	MT	VOB	WP	ADV	DE	MT	DE	ATT	VOB	WP
+5	5	5	5	0	5	5	5	10	13	10	13	14	5	5
+
+作为	公司	中	的	一	员	呢	，	爱岗敬业	才	是	最	重要	的	品质	。
+p	n	nd	u	m	q	u	wp	i	d	v	d	a	u	n	wp
+ADV	ATT	DE	ATT	QUN	POB	MT	WP	POB	ADV	HED	ADV	DE	ATT	VOB	WP
+11	3	4	6	6	1	6	1	1	11	0	13	14	15	11	11
+
+我	最	不	喜欢	的	就	是	在	这个	单位	干	不	了	几	天	就	又	找	另	一	个	单位	的	人	。
+r	d	d	v	u	none	v	p	r	n	v	d	v	m	q	d	d	v	r	m	q	n	u	n	wp
+SBV	ADV	ADV	DE	SBV	ADV	HED	ADV	ATT	POB	VOB	CMP	VV	QUN	ADV	ADV	ADV	IC	VOB	QUN	ATT	DE	ATT	VOB	WP
+4	4	4	5	7	7	0	11	10	8	7	11	11	15	18	18	18	13	18	21	22	23	24	18	7
+
+时间	不	早	了	，	最后	请	你	谈	谈	你	的	想法	。
+n	d	a	u	wp	nd	v	r	v	v	r	u	n	wp
+SBV	ADV	HED	MT	WP	ADV	IC	SBV	ADV	VOB	DE	ATT	VOB	WP
+3	3	0	3	3	7	3	10	10	7	12	13	10	7
+
+啊	我	的	想法	很	简单	。
+e	r	u	n	d	a	wp
+IS	DE	ATT	SBV	ADV	HED	WP
+6	3	4	6	6	0	6
+
+我	最	重视	职工	的	工作	结果	。
+r	d	v	n	u	v	n	wp
+SBV	ADV	HED	VOB	ATT	ATT	VOB	WP
+3	3	0	3	7	7	3	3
+
+能不能	说	得	详细	一点儿	呢	？
+n	v	u	a	m	u	wp
+SBV	HED	MT	DEI	CMP	MT	WP
+2	0	2	3	4	2	2
+
+不管	用	什么	办法	吧	，	你	只要	能	按时	圆满	地	完成	任务	，	这	就	算是	好	职工	。
+c	v	r	n	u	wp	r	c	v	d	a	u	v	n	wp	r	d	v	a	n	wp
+CNJ	DC	ATT	VOB	MT	WP	SBV	CNJ	ADV	ADV	HED	MT	SBV	VOB	WP	SBV	ADV	IC	ATT	VOB	WP
+2	11	4	2	2	2	11	9	11	11	0	11	18	13	13	18	18	11	20	18	11
+
+如果	光	说	漂亮	话	。
+c	d	v	a	n	wp
+CNJ	ADV	HED	ATT	VOB	WP
+3	3	0	5	3	3
+
+没有	什么	真	本事	，	到了	关键	时刻	就	掉	链子	，	这种	这种	职工	就	不	怎么样	了	。
+v	r	a	n	wp	v	a	i	d	v	n	wp	r	r	n	d	d	r	u	wp
+HED	ATT	ATT	VOB	WP	VV	CMP	COO	ADV	IC	VOB	WP	ATT	ATT	SBV	ADV	ADV	CMP	MT	WP
+0	4	4	1	1	1	6	7	10	7	10	10	15	15	18	18	18	7	18	1
+
+我	是	不	用	这种	人	的	。
+r	v	d	d	r	n	u	wp
+SBV	HED	ADV	VOB	ATT	VOB	MT	WP
+2	0	4	2	6	4	2	2
+
+我	会	对	他	说	：	你	最好	先	去	学习	学习	，	用	句	时髦儿	的	话	，	叫做	“	充电	”	。
+r	v	p	r	v	wp	r	d	d	v	v	v	wp	p	q	n	u	n	wp	v	wp	v	wp	wp
+SBV	ADV	ADV	POB	HED	WP	SBV	ADV	ADV	ADV	VOB	VOB	WP	ADV	ATT	DE	ATT	VOB	WP	IS	WP	IS	WP	WP
+5	5	5	3	0	5	11	11	11	11	5	11	5	20	16	17	18	14	14	23	20	20	5	5
+
+然后	回来	咱们	再	谈	工作	。
+c	v	r	d	v	v	wp
+CNJ	DC	SBV	ADV	HED	VOB	WP
+2	5	5	5	0	5	5
+
+早晨	好	，	先生	。
+nt	a	wp	n	wp
+ADV	IS	WP	HED	WP
+2	4	2	0	4
+
+早晨	好	。
+nt	a	wp
+ADV	HED	WP
+2	0	2
+
+请	坐	。
+v	v	wp
+ADV	HED	WP
+2	0	2
+
+我	的	名字	叫	哈利·怀特儿	。
+r	u	n	v	n	wp
+DE	ATT	SBV	HED	VOB	WP
+2	3	4	0	4	4
+
+谢谢	，	怀特	先生	。
+v	wp	nh	n	wp
+IS	WP	ATT	HED	WP
+4	1	4	0	4
+
+请	放松	些	。
+v	v	q	wp
+ADV	HED	VOB	WP
+2	0	2	2
+
+首先	，	把	你	的	考号	和	姓名	告诉	我	。
+c	wp	p	r	u	n	c	n	v	r	wp
+CNJ	WP	ADV	DE	ATT	SBV	LAD	COO	HED	VOB	WP
+9	1	9	5	6	9	8	6	0	9	9
+
+呃	我	的	考号	是	五	，	我	的	名字	是	李丽薇	。
+o	r	u	n	v	m	wp	r	u	n	v	nh	wp
+IS	DE	ATT	SBV	HED	VOB	WP	DE	ATT	SBV	IC	VOB	WP
+4	3	4	5	0	5	5	9	10	11	5	11	5
+
+你	是	哪里	人	？
+r	v	r	n	wp
+SBV	HED	ATT	VOB	WP
+2	0	4	2	2
+
+啊	我	是	广东省	佛山人	。
+e	r	v	ns	n	wp
+IS	SBV	HED	ATT	VOB	WP
+3	3	0	5	3	3
+
+多少	岁	了	？
+r	q	u	wp
+ATT	HED	MT	WP
+2	0	2	2
+
+我	今年	二十二岁	。
+r	nt	nt	wp
+SBV	ATT	HED	WP
+2	3	0	3
+
+给	我	说	说	你	的	教育	背景	吧	。
+p	r	v	v	r	u	v	n	u	wp
+ADV	SBV	ADV	HED	DE	ATT	ATT	VOB	MT	WP
+4	4	4	0	6	8	8	4	4	4
+
+啊	好	。	我	是	广东商学院	四年级	的	学生	。
+e	a	wp	r	v	n	b	u	n	wp
+IS	IS	WP	SBV	HED	VOB	DE	ATT	VOB	WP
+5	5	2	5	0	5	8	9	5	5
+
+学习	市场营销	。
+v	i	wp
+HED	VOB	WP
+0	1	1
+
+嗯	你	的	成绩	如何	呢	？
+e	r	u	n	r	u	wp
+IS	DE	ATT	SBV	HED	MT	WP
+5	3	4	5	0	5	5
+
+呃	我	的	平均	成绩	为	九十	分儿	。
+o	r	u	a	n	v	m	n	wp
+IS	DE	ATT	ATT	SBV	HED	QUN	VOB	WP
+6	3	5	5	6	0	8	6	6
+
+你	的	英语	成绩	优秀	吗	？
+r	u	nz	n	a	u	wp
+DE	ATT	ATT	SBV	HED	MT	WP
+2	4	4	5	0	5	5
+
+啊	是	的	，	我	的	英语	成绩	几乎	得	满分儿	。
+u	v	u	wp	r	u	nz	n	d	u	n	wp
+IS	HED	MT	WP	DE	ATT	ATT	ATT	ADV	ATT	VOB	WP
+2	0	2	2	6	8	8	11	10	11	2	2
+
+恐怕	那	只	是	你	的	笔试	成绩	。
+d	r	d	v	r	u	n	n	wp
+ADV	SBV	ADV	HED	DE	ATT	ATT	VOB	WP
+4	4	4	0	6	7	8	4	4
+
+口语	如何	？
+n	r	wp
+SBV	HED	WP
+2	0	2
+
+你	要	知道	，	我们	家	公司	是	一	家	美资公司	，	本公司	的	一些	职员	是	美国	人	，	所以	呀	本公司	工作	英语	会话	是	很	重要	的	。
+r	v	v	wp	r	n	n	v	m	q	n	wp	n	u	m	n	v	n	n	wp	c	u	n	v	nz	n	v	d	a	u	wp
+SBV	ADV	HED	WP	ATT	ATT	SBV	IC	QUN	ATT	VOB	WP	DE	ATT	QUN	SBV	VOB	ATT	VOB	WP	CNJ	ATT	SBV	SBV	ATT	SBV	ADV	ADV	VOB	MT	WP
+3	3	0	3	6	7	8	3	10	11	8	8	14	16	16	17	8	19	17	17	29	23	29	29	26	29	29	29	17	29	3
+
+哦	我	认为	我	可以	和	美国	员工	进行	英语	会话	，	呃	我	在	学院	经常	和	同学们	或者	用	磁带	练习	口语	。
+e	r	v	r	v	c	ns	n	v	nz	n	wp	o	r	p	n	d	c	n	c	p	n	v	n	wp
+IS	SBV	HED	VOB	VOB	LAD	ATT	SBV	VOB	ATT	VOB	WP	VOB	SBV	ADV	POB	ADV	LAD	POB	CNJ	ADV	POB	IS	VOB	WP
+3	3	0	3	3	8	8	9	3	11	9	3	3	23	23	15	18	19	15	23	23	21	13	23	3
+
+那	很	好	。
+r	d	v	wp
+SBV	ADV	HED	WP
+3	3	0	3
+
+能	说	说	你	的	学生	生活	吗	？
+v	v	v	r	u	n	v	u	wp
+ADV	HED	VOB	DE	ATT	SBV	VOB	MT	WP
+2	0	2	5	6	7	3	7	2
+
+呃	当然	可以	。
+o	d	v	wp
+IS	ADV	HED	WP
+3	3	0	3
+
+从	一年级	起	，	我	就	一直	担任	班	上	的	生活	委员	。
+p	b	nd	wp	r	d	d	v	n	nd	u	v	n	wp
+ADV	ATT	POB	WP	SBV	ADV	ADV	HED	ATT	DE	ATT	ATT	VOB	WP
+8	3	1	1	8	8	8	0	10	11	13	13	8	8
+
+每个	学年	我	都	被	评为	“	三好	”	学生	，	那	就	是	工作	好	、	学习	好	、	身体	好	。
+r	n	r	d	p	nh	wp	j	wp	n	wp	r	d	v	v	a	wp	v	a	wp	n	a	wp
+ATT	SBV	SBV	ADV	HED	POB	WP	POB	WP	SBV	WP	SBV	ADV	IC	VOB	IS	WP	VV	IS	WP	SBV	CMP	WP
+2	5	5	5	0	5	5	5	8	14	10	14	14	8	14	18	16	15	22	19	22	18	14
+
+那	你	有	推销	方面	的	业余	工作	经验	吗	？
+r	r	v	v	n	u	b	n	i	u	wp
+CNJ	SBV	HED	DE	DE	ATT	ATT	SBV	VOB	MT	WP
+3	3	0	6	6	8	8	9	3	9	3
+
+呃	有	的	。
+o	v	r	wp
+IS	HED	VOB	WP
+2	0	2	2
+
+在	九七年	和	九八年	的	夏天	，	我	曾	在	广州宝洁有限公司	当	过	推销员	。
+p	nt	c	nt	u	nt	wp	r	d	p	ns	v	u	n	wp
+ADV	POB	LAD	DE	ATT	POB	WP	SBV	ADV	ADV	POB	HED	CMP	VOB	WP
+12	1	4	5	6	1	1	12	12	12	10	0	12	12	12
+
+我	走	家儿	串	户	去	推销	飘柔二合一	、	海飞丝	和	潘婷	等	洗发精	，	因此	还	获得	了	一些	推销	经验	。
+r	v	n	v	n	v	v	n	wp	n	c	nh	u	a	wp	c	d	v	u	m	v	n	wp
+SBV	HED	VOB	VV	VOB	VV	VV	VOB	WP	COO	LAD	COO	MT	CMP	WP	CNJ	ADV	IC	MT	QUN	ATT	VOB	WP
+2	0	2	2	4	4	6	7	10	8	12	8	12	13	13	18	18	13	18	22	22	13	2
+
+很	好	。	你	会	说	广州话	，	对	吗	？
+d	v	wp	r	v	v	nz	wp	p	u	wp
+ADV	IS	WP	SBV	ADV	HED	VOB	WP	VOB	MT	WP
+2	6	2	6	6	0	6	6	6	9	6
+
+呃	对	，	既	会	说	广州话	，	也	会	说	普通话	。
+o	a	wp	c	v	v	nz	wp	d	v	v	n	wp
+IS	IS	WP	CNJ	ADV	HED	VOB	WP	ADV	ADV	VOB	VOB	WP
+2	6	2	6	6	0	6	6	11	11	6	11	6
+
+你	对	本公司	的	情况	了解	吗	？
+r	p	n	u	n	v	u	wp
+SBV	ADV	DE	ATT	SBV	HED	MT	WP
+6	6	4	5	6	0	6	6
+
+呃	了解	一点儿	点儿	。
+o	v	m	q	wp
+IS	HED	QUN	VOB	WP
+2	0	4	2	2
+
+正如	你	刚才	所	提到	那样	，	贵	公司	是	一	家	美资公司	。
+v	r	nt	u	v	r	wp	a	n	v	m	q	n	wp
+ADV	SBV	ADV	RAD	HED	VOB	WP	ATT	SBV	VOB	QUN	ATT	VOB	WP
+3	3	5	3	0	5	5	9	10	5	12	13	10	5
+
+据	我	所	知	，	雅芳公司	是	一	家	全球	闻名	生产	美容	护肤品	的	公司	。	你们	的	产品	深受	世界各地	妇女	的	欢迎	。
+p	r	n	v	wp	i	v	m	q	n	v	v	v	n	u	n	wp	r	u	n	v	i	n	u	v	wp
+ADV	ATT	POB	HED	WP	SBV	IC	QUN	ATT	VOB	VOB	DE	DE	DE	ATT	VOB	WP	DE	ATT	SBV	WP	VOB	DE	ATT	VOB	WP
+4	3	1	0	4	7	4	9	10	7	7	15	15	15	16	11	4	19	20	21	26	21	24	25	21	4
+
+你	说	得	对	。
+r	v	u	a	wp
+SBV	HED	MT	DEI	WP
+2	0	2	3	2
+
+你	清楚	我们	的	工资	级别	吗	？
+r	a	r	u	n	n	u	wp
+SBV	HED	DE	ATT	ATT	COO	MT	WP
+2	0	4	5	6	2	6	6
+
+呃	不	清楚	。
+o	d	a	wp
+IS	ADV	HED	WP
+3	3	0	3
+
+能	请	您	告诉	我	吗	？
+v	v	r	v	r	u	wp
+ADV	HED	SBV	VOB	VOB	MT	WP
+2	0	4	2	4	4	2
+
+我们	将	给	你	提供	每月	一千五百元	的	人民币	起	薪	，	一	年	之后	你	将会	有	提	薪	，	此外	，	对	你	所有	的	销售额	我们	将	给予	百分之一	的	佣金	。
+r	d	p	r	v	r	m	u	n	v	n	wp	m	q	nd	r	n	v	v	n	wp	c	wp	p	r	b	u	n	r	d	v	m	u	n	wp
+SBV	ADV	ADV	POB	HED	ATT	DE	ATT	SBV	VOB	VOB	WP	QUN	ATT	ADV	ATT	SBV	VOB	VV	VOB	WP	VOB	WP	IS	POB	DE	ATT	POB	SBV	ADV	WP	DE	ATT	VOB	WP
+5	5	5	3	0	9	8	9	10	5	10	5	14	15	18	17	18	5	18	18	18	18	5	31	24	27	28	24	31	31	35	33	34	31	5
+
+你	还	将	享受	人寿	保险	和	健康	保险	。	一	年	一	次	为期	两	周	的	有	薪	假期	，	每周	工作	五	天	，	但	我们	希望	你	必要	时	你	能	加班儿	。
+r	d	d	v	n	n	c	a	n	wp	m	q	m	q	v	m	q	u	v	n	nt	wp	r	v	m	q	wp	c	r	v	r	a	n	r	v	n	wp
+SBV	ADV	ADV	HED	ATT	VOB	LAD	ATT	COO	WP	QUN	ATT	QUN	DE	DE	QUN	VOB	SBV	COO	VOB	VOB	WP	SBV	IC	QUN	VOB	WP	CNJ	SBV	IC	ATT	ATT	VOB	SBV	IC	VOB	WP
+4	4	4	0	6	4	9	9	6	9	12	14	14	18	18	17	15	19	9	19	19	19	24	19	26	24	24	30	30	24	33	33	30	35	30	35	4
+
+你	能	接受	吗	这些	？
+r	v	v	u	r	wp
+SBV	ADV	HED	MT	VOB	WP
+3	3	0	3	3	3
+
+啊	能	哪	，	很	好	。
+u	v	r	wp	d	v	wp
+IS	ADV	VOB	WP	ADV	HED	WP
+2	6	2	2	6	0	6
+
+你	有	什么	想	问	我	吗	？
+r	v	r	v	v	r	u	wp
+SBV	HED	ATT	ADV	VOB	VOB	MT	WP
+2	0	5	5	2	5	5	2
+
+嗯	您	什么	时候	会	让	我	知道	结果	呢	？
+e	r	r	i	v	v	r	v	n	u	wp
+IS	ATT	ATT	ADV	ADV	HED	VOB	VOB	VOB	MT	WP
+6	4	4	6	6	0	6	6	6	6	6
+
+你	将	在	下	周六	之前	得到	我们	的	消息	。
+r	d	p	n	n	nd	v	r	u	n	wp
+SBV	ADV	ADV	ATT	ATT	POB	HED	DE	ATT	VOB	WP
+7	7	7	5	6	3	0	9	10	7	7
+
+是	寄	信	还是	打	电话	通知	你	呢	？
+v	v	n	d	v	n	v	r	u	wp
+ADV	HED	SBV	ADV	VV	VOB	VV	VOB	MT	WP
+2	0	5	5	2	5	5	7	7	2
+
+呃	最好	写信	。
+o	d	v	wp
+IS	ADV	HED	WP
+3	3	0	3
+
+由于	我	住在	学生	宿舍	，	因此	，	您	很难	用	电话	找到	我	。
+c	r	v	n	n	wp	c	wp	r	nh	p	n	v	r	wp
+CNJ	SBV	HED	ATT	VOB	WP	CNJ	WP	SBV	ADV	ADV	POB	VOB	VOB	WP
+3	3	0	5	3	3	13	7	10	13	13	11	3	13	3
+
+那	好	。	对	你	的	面试	结束	了	，	谢谢	你	的	光临	。
+r	a	wp	p	r	u	n	v	u	wp	v	r	u	v	wp
+SBV	IS	WP	ADV	DE	ATT	SBV	HED	MT	WP	IC	DE	ATT	VOB	WP
+2	4	2	8	6	7	8	0	8	8	8	13	14	11	8
+
+啊	怀特	先生	，	非常	感谢	您	。
+e	nh	n	wp	d	v	r	wp
+IS	ATT	IS	WP	ADV	HED	VOB	WP
+6	3	6	3	6	0	6	6
+
+我	将	等候	您	的	佳音	。	再见	。
+r	d	v	r	u	n	wp	v	wp
+SBV	ADV	HED	DE	ATT	VOB	WP	VV	WP
+3	3	0	5	6	3	3	3	3
+
+再见	，	李小姐	。
+v	wp	nh	wp
+IS	WP	HED	WP
+3	1	0	3
+
+先生	，	您	好	。
+n	wp	r	i	wp
+IS	WP	SBV	HED	WP
+4	1	4	0	4
+
+我	是	叶静红	。
+r	v	nh	wp
+SBV	HED	VOB	WP
+2	0	2	2
+
+我	是	来	应约	面试	的	。
+r	v	v	v	v	u	wp
+SBV	ADV	HED	ADV	VV	MT	WP
+3	3	0	5	3	3	3
+
+叶小姐	，	您	好	。
+nh	wp	r	i	wp
+IS	WP	SBV	HED	WP
+4	1	4	0	4
+
+我	是	办公室主任	罗江	。
+r	v	i	nh	wp
+SBV	HED	VOB	VOB	WP
+2	0	2	2	2
+
+请	坐	。
+v	v	wp
+ADV	HED	WP
+2	0	2
+
+谢谢	您	，	罗先生	。
+v	r	wp	nh	wp
+HED	VOB	WP	VOB	WP
+0	1	1	1	1
+
+现在	我们	开始	谈	吧	。
+nt	r	v	v	u	wp
+ADV	SBV	HED	VOB	MT	WP
+3	3	0	3	4	3
+
+首先	，	请	你	谈	一	谈	自己	和	家庭	情况	好	吗	？
+c	wp	v	r	v	m	v	r	c	n	n	a	u	wp
+CNJ	WP	HED	VOB	VOB	QUN	VOB	VOB	LAD	ATT	VOB	MT	MT	WP
+3	1	0	3	3	7	5	7	11	11	7	7	12	5
+
+啊	我	很	乐意	，	我	是	东莞	人	。
+e	r	d	v	wp	r	v	ns	n	wp
+IS	SBV	ADV	IS	WP	SBV	HED	ATT	VOB	WP
+7	4	4	7	4	7	0	9	7	7
+
+我	爸爸	是	东莞	一	家	进出口	公司	的	经理	，	我	妈妈	在	一	家	医院	当	医生	。
+r	n	v	ns	m	q	v	n	u	n	wp	r	n	p	m	q	n	v	n	wp
+ATT	SBV	HED	VOB	QUN	ATT	DE	DE	ATT	VOB	WP	ATT	SBV	ADV	QUN	ATT	POB	VOB	VOB	WP
+2	3	0	3	6	10	9	9	10	3	3	13	18	18	16	17	14	3	18	3
+
+我	有	个	哥哥	．	他	在	部队	服役	。
+r	v	q	n	wp	r	p	n	v	wp
+SBV	HED	ATT	VOB	WP	SBV	ADV	POB	VV	WP
+2	0	4	2	2	9	9	7	2	2
+
+我	今年	二十一岁	。
+r	nt	nt	wp
+SBV	ATT	HED	WP
+2	3	0	3
+
+一九九六年	我	通过	了	高考	，	被	录取到	广东外语外贸大学	，	专修	英文	秘书	。
+nt	r	v	u	v	wp	p	v	n	wp	v	nz	n	wp
+ADV	SBV	HED	MT	VOB	WP	ADV	POB	VOB	WP	IC	ATT	VOB	WP
+3	3	0	3	3	3	11	7	8	8	3	13	11	3
+
+你	在	英文	秘书	方面	修	了	哪些	课程	？
+r	p	nz	n	n	v	u	r	n	wp
+SBV	ADV	ATT	ATT	POB	HED	MT	ATT	VOB	WP
+6	6	4	5	2	0	6	9	6	6
+
+啊	我	修	了	秘书	原理	、	办公室	管理	、	商务	英语	、	公共关系学	、	礼仪学	、	心理学	、	计算机编程	、	打字	、	速记	和	档案管理	等	课程	。
+e	r	v	u	n	n	wp	n	v	wp	n	nz	wp	v	wp	v	wp	n	wp	v	wp	v	wp	v	c	i	u	n	wp
+IS	SBV	HED	MT	ATT	VOB	WP	SBV	COO	WP	SBV	VOB	WP	IS	WP	IS	WP	COO	WP	IS	WP	IS	WP	ADV	CNJ	ADV	ATT	VOB	WP
+3	3	0	3	6	3	8	9	6	9	12	9	12	9	16	14	18	16	18	16	22	20	22	27	27	27	28	22	9
+
+你	的	打字	和	速记	技术	怎么样	？
+r	u	v	c	v	n	r	wp
+DE	ATT	ATT	CNJ	COO	SBV	HED	WP
+2	6	6	5	3	7	0	7
+
+呃	我	每	分钟	可以	打	六十	个	字	、	记录	英文	口述	的	速度	为	每	分钟	一百	个	字	。
+o	r	r	q	v	v	m	q	n	wp	v	nz	v	u	n	v	r	q	m	q	n	wp
+IS	SBV	ATT	ADV	ADV	HED	QUN	ATT	VOB	WP	VV	VOB	DE	ATT	SBV	VOB	ATT	ATT	QUN	ATT	VOB	WP
+6	6	4	6	6	0	8	9	6	6	6	11	14	15	16	11	18	21	20	21	16	6
+
+很	好	。	不过	，	你	会	操作	办公室	其他	机器	吗	？
+d	v	wp	c	wp	r	v	v	n	r	n	u	wp
+ADV	IS	WP	CNJ	WP	SBV	ADV	HED	ATT	ATT	VOB	MT	WP
+2	8	2	8	4	8	8	0	11	11	8	8	8
+
+啊	会	。	我	会	操作	传真机	和	复印机	。
+u	v	wp	r	v	v	n	c	n	wp
+IS	IS	WP	SBV	ADV	HED	VOB	LAD	COO	WP
+2	6	2	6	6	0	6	9	7	6
+
+你	是	在	哪儿	学会	操作	这些	机器	的	？
+r	v	p	r	n	v	r	n	u	wp
+SBV	HED	ADV	ATT	POB	VOB	ATT	VOB	MT	WP
+2	0	6	5	3	2	8	6	6	2
+
+呃	我	是	去年	暑假	在	广东省	对外贸易	总公司	学会	的	。
+o	r	v	n	i	p	ns	i	n	n	u	wp
+IS	SBV	HED	ATT	VOB	DE	ATT	ATT	ATT	POB	MT	WP
+3	3	0	5	3	11	10	9	10	6	3	3
+
+干	了	近	两	个	月	的	暑期工	。
+v	u	a	m	q	n	u	n	wp
+HED	MT	DE	QUN	ATT	DE	ATT	VOB	WP
+0	1	7	5	6	7	8	1	1
+
+很	好	，	你	已经	有	了	一些	办公室	工作	的	实际	经验	。
+d	v	wp	r	d	v	u	m	n	v	u	a	n	wp
+ADV	IS	WP	SBV	ADV	HED	MT	QUN	VOB	IC	MT	ATT	VOB	WP
+2	6	2	6	6	0	6	9	6	6	10	13	10	6
+
+顺便	问	一下	，	你	有没有	当	导游	的	经验	？
+d	v	m	wp	r	v	v	n	u	n	wp
+ADV	HED	VOB	WP	SBV	ADV	DE	DE	ATT	VOB	WP
+2	0	2	2	7	7	9	9	10	2	2
+
+嗯	，	嗯	不算	真	的	有	．	但是	我	曾	带	过	我们	一些	外籍	教师	游览	过	广州市	和	珠江三角洲	。
+e	wp	e	v	a	u	v	wp	c	r	d	v	u	r	m	n	n	v	u	ns	c	ns	wp
+IS	WP	IS	HED	DE	SBV	VOB	WP	CNJ	SBV	ADV	IC	MT	SBV	QUN	ATT	SBV	IC	CMP	VOB	LAD	COO	WP
+4	1	4	0	6	7	4	4	12	12	12	4	12	18	16	17	18	12	18	18	22	20	12
+
+我们	偶尔	会	组织	本地	中心	的	会员	游览	广州市	和	珠江三角洲	，	在	办公室	没有	多少	事儿	干	的	时候	，	我	希望	能	叫	我	的	秘书	带	他们	去	游览	观光	。
+r	d	n	v	r	n	u	n	v	ns	c	ns	wp	p	n	v	r	n	v	u	n	wp	r	v	v	v	r	u	n	v	r	v	v	v	wp
+SBV	ADV	SBV	HED	ATT	DE	ATT	SBV	VOB	VOB	LAD	COO	WP	ADV	POB	VOB	ATT	VOB	DE	ATT	VOB	WP	SBV	ADV	ADV	VOB	DE	ATT	SBV	VOB	SBV	ADV	VOB	VOB	WP
+4	4	4	0	6	7	8	9	4	9	12	10	9	16	14	9	18	16	20	21	16	16	24	35	26	24	28	29	30	26	33	33	30	33	16
+
+呃	我	想	我	会	喜欢	这样儿	做	的	。
+o	r	v	r	v	v	n	v	u	wp
+IS	SBV	HED	SBV	ADV	VOB	VOB	VOB	MT	WP
+3	3	0	6	6	3	6	6	8	3
+
+好	极了	，	你	就是	我们	需要	的	人选	。
+a	u	wp	r	v	r	v	u	n	wp
+IS	MT	WP	SBV	HED	SBV	DE	ATT	VOB	WP
+5	1	1	5	0	7	8	9	5	5
+
+谢谢	您	，	先生	。
+v	r	wp	n	wp
+HED	VOB	WP	VOB	WP
+0	1	1	1	1
+
+你	希望	拿	多少	薪水	？
+r	v	v	r	n	wp
+SBV	ADV	HED	ATT	VOB	WP
+3	3	0	5	3	3
+
+呃	至于	薪水	，	还是	等	检验	了	我	的	能力	之后	再	由	你们	定夺	好	吧	。
+o	p	n	wp	c	u	v	u	r	u	n	nd	d	p	r	v	a	u	wp
+IS	ADV	POB	WP	CNJ	SBV	HED	MT	DE	ATT	ATT	ADV	ADV	ADV	POB	IC	CMP	MT	WP
+7	7	2	2	7	7	0	7	10	11	12	16	16	16	14	7	16	16	7
+
+我	想	我们	可以	给	你	每个	月	两千五百元	的	起	薪	。
+r	v	r	v	p	r	r	n	m	u	v	n	wp
+SBV	HED	SBV	IC	DE	POB	ATT	POB	DE	ATT	ATT	VOB	WP
+2	0	4	2	10	5	8	5	10	12	12	2	2
+
+你	觉得	满意	吗	？
+r	v	v	u	wp
+SBV	HED	VOB	MT	WP
+2	0	2	2	2
+
+啊	我	很	满意	。
+e	r	d	v	wp
+IS	SBV	ADV	HED	WP
+4	4	4	0	4
+
+那	超过	我	所	预料	的	。
+r	v	r	u	v	u	wp
+SBV	HED	SBV	ADV	VOB	MT	WP
+2	0	5	5	2	5	2
+
+你	什么	日期	可以	上班	？
+r	r	n	v	v	wp
+ATT	ATT	SBV	HED	VOB	WP
+3	3	4	0	4	4
+
+我	要	到	这个	月底	拿到	毕业文凭	才能	离	校	。
+r	u	v	r	nt	v	nh	n	v	n	wp
+SBV	ADV	HED	ATT	ADV	VOB	ATT	VOB	VOB	VOB	WP
+3	3	0	5	6	3	8	6	6	9	3
+
+呃	下	个	月初	可以	吗	？
+o	nd	q	nt	v	u	wp
+IS	ATT	ATT	ADV	HED	MT	WP
+4	3	4	5	0	5	5
+
+可以	。	那	就	请	你	八月一日	来	上班儿	吧	。
+v	wp	r	d	v	r	i	v	n	u	wp
+IS	WP	SBV	ADV	HED	SBV	VOB	VOB	VOB	MT	WP
+5	1	5	5	0	7	5	5	8	8	5
+
+上班儿	时间	为	上午	八点	至	十二点	、	下午	两点	至	六点	。
+n	n	v	n	nt	p	nt	wp	nt	q	p	nt	wp
+ATT	SBV	HED	VOB	VOB	VOB	POB	WP	ATT	VOB	VOB	POB	WP
+2	3	0	3	3	3	6	3	10	3	3	11	3
+
+我们	通常	一	周	工作	五	天	，	但	偶尔	也	会	加班儿	加点	。
+r	d	m	q	v	m	q	wp	c	d	d	v	v	n	wp
+SBV	ADV	QUN	ADV	HED	QUN	VOB	WP	CNJ	ADV	ADV	ADV	VOB	VOB	WP
+5	5	4	5	0	7	5	5	13	13	13	13	5	13	5
+
+呃	好	的	，	先生	。
+o	a	u	wp	n	wp
+IS	HED	MT	WP	IS	WP
+2	0	2	2	2	5
+
+非常	感谢	你	今天	的	光临	。
+d	v	r	nt	u	v	wp
+ADV	HED	SBV	DE	ATT	VOB	WP
+2	0	4	5	6	2	2
+
+能	雇用	你	真	是	本	中心	的	荣幸	。
+v	v	r	d	v	r	n	u	a	wp
+ADV	HED	SBV	ADV	VOB	ATT	DE	VOB	VOB	WP
+2	0	5	5	2	7	8	5	5	5
+
+呃	谢谢	你	，	罗先生	。
+o	v	r	wp	nh	wp
+IS	HED	VOB	WP	VOB	WP
+2	0	2	2	2	2
+
+我	相信	我	也	会	喜欢	在	这里	工作	的	。
+r	v	r	d	v	v	p	r	v	u	wp
+SBV	HED	SBV	ADV	ADV	VOB	ADV	POB	IC	MT	WP
+2	0	6	6	6	2	9	7	6	9	2
+
+希望	如此	。	再见	。
+v	r	wp	v	wp
+HED	VOB	WP	VV	WP
+0	1	1	1	1
+
+再见	。
+v	wp
+HED	WP
+0	1
+
